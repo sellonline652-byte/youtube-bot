@@ -1,0 +1,42 @@
+name: Scenario drill (simulations only - nothing is sent, nothing is saved)
+on:
+  workflow_dispatch:
+    inputs:
+      total: {description: "scenarios in all shards", default: "100000"}
+      seed: {description: "seed base", default: "7"}
+concurrency:
+  group: scenario-drill            # own queue: never shares 'video-bot', so it never cancels or delays a live run
+  cancel-in-progress: false
+permissions:
+  contents: read
+  actions: read
+env:
+  BOT_WORK: ${{ github.workspace }}/work
+  REPO_KEY: ${{ secrets.REPO_KEY }}
+  GH_TOKEN: ${{ github.token }}
+jobs:
+  shard:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    strategy:
+      fail-fast: false
+      max-parallel: 4              # the live bot and the anime studio always keep free runners
+      matrix:
+        shard: [0, 1, 2, 3]
+    steps:
+      - name: Wait while a live video run is waiting for a runner
+        run: |
+          for i in $(seq 1 30); do
+            q=$(gh run list --repo "$GITHUB_REPOSITORY" --workflow daily.yml --status queued --json databaseId --jq length)
+            [ "$q" = "0" ] && break
+            echo "a live run is queued - waiting"; sleep 60
+          done
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12", cache: pip}
+      - run: pip install -q cryptography && python vault/boot.py open
+      - run: pip install -q -r requirements.txt
+      - run: python -u bot/scenarios.py ${{ inputs.total }} ${{ matrix.shard }} 4 ${{ inputs.seed }}
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with: {name: "scenarios-${{ matrix.shard }}", path: "work/scenarios_*.json", retention-days: 7}

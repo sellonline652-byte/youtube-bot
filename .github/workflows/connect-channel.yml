@@ -1,0 +1,57 @@
+name: Connect a channel
+
+on:
+  workflow_dispatch:
+    inputs:
+      channel:
+        description: "Slot for the channel (use 'main' to refresh Sujay Ganguly Creations' login)"
+        type: choice
+        default: main               # the owner's channel (25 Oct: channel2 as default confused)
+        options: [main, channel2, channel3, channel4, channel5]
+
+concurrency:
+  group: connect-channel               # own queue: a waiting video run used to cancel it
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+env:
+  REPO_KEY: ${{ secrets.REPO_KEY }}
+  BOT_KEY: ${{ secrets.BOT_KEY }}
+  GOOGLE_TV_CLIENT_ID: ${{ secrets.GOOGLE_TV_CLIENT_ID }}
+  GOOGLE_TV_CLIENT_SECRET: ${{ secrets.GOOGLE_TV_CLIENT_SECRET }}
+
+jobs:
+  connect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main                 # newest code even when this run waited behind another run
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Unlock the bot
+        run: pip install -q requests cryptography && python vault/boot.py open
+      - name: "Login from your phone - open this run's Summary for the code"
+        run: python bot/connect.py "${{ github.event.inputs.channel }}"
+      - name: Lock and save
+        if: always()
+        run: |
+          python vault/boot.py seal || true
+          git config user.name "video-bot"
+          git config user.email "video-bot@users.noreply.github.com"
+          git add vault.enc
+          git diff --cached --quiet || git commit -q -m "bot: channel connected"
+          for try in 1 2 3; do        # code was pushed meanwhile: keep this run's progress + the newer code
+            git push -q && break
+            git fetch -q origin main
+            git show origin/main:vault.enc > "$RUNNER_TEMP/remote.enc"
+            python vault/boot.py adopt-code "$RUNNER_TEMP/remote.enc"
+            python vault/boot.py seal
+            git reset -q origin/main          # index = newest remote files; only vault + status are ours
+            git add vault.enc
+            git commit -q -m "bot: progress $(date -u +%F)"
+          done

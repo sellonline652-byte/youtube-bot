@@ -1,0 +1,31 @@
+name: Channel check (read-only - verification + upload status)
+on: workflow_dispatch
+permissions:
+  contents: read
+env:
+  BOT_WORK: ${{ github.workspace }}/work
+  REPO_KEY: ${{ secrets.REPO_KEY }}
+  YT_TOKEN: ${{ secrets.YT_TOKEN }}
+  BOT_KEY: ${{ secrets.BOT_KEY }}
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12", cache: pip}
+      - run: pip install -q cryptography && python vault/boot.py open
+      - run: pip install -q -r requirements.txt
+      - name: Ask YouTube about the channel (1 quota unit, changes nothing)
+        run: |
+          python - <<'PY'
+          import json, sys
+          sys.path.insert(0, "bot")
+          import uploader
+          yt = uploader.service("main")
+          r = yt.channels().list(part="snippet,status,statistics", mine=True).execute()
+          for ch in r.get("items", []):
+              print("CHANNEL", ch["snippet"]["title"], ch["id"])
+              print("STATUS", json.dumps(ch["status"]))
+              print("STATS", json.dumps(ch["statistics"]))
+          PY
