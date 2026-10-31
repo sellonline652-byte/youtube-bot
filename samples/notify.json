@@ -1,40 +1,4 @@
 {
- "id": "shadow-step6-1793468620",
- "send": [
-  "owner_note"
- ],
- "note": {
-  "subject": "Shadow Hunter STEP 6 - voice matched to every shot, correct movements (reply: done / not done)",
-  "text": "Shadow Hunter STEP 6: the first 30 seconds, fixed against the shot-by-shot check I sent you earlier tonight.\n\nVOICE AND PICTURE (your \"voice not matching\")\n- Each line now plays only over the shots it talks about:\n  - 3.0-5.9 s \"कुछ साल पहले, दुनिया में राक्षस आने लगे\" over the lightning and the TV news of the gate\n  - 6.1-8.4 s \"और कुछ आम लोग… शिकारी बन गए\" over the two hunters leaping (now big and clear)\n  - 12.2-13.4 s Vikram's \"अरे, E-रैंक अर्जुन!\", lip-synced on his own model-sheet drawing, mouth closed before and after\n  - 13.6-16.0 s \"अर्जुन उनमें सबसे कमज़ोर है\" over Arjun's close-up, his mouth closed\n  - 18.5-21.9 s \"तीन साल से उसकी माँ अस्पताल में है\" over his mother in the hospital\n- No line runs into the next shot. Subtitles show exactly while the line is spoken.\n- No mouth moves without a line. The S19 \"talking\" Arjun is gone.\n\nMOVEMENT (your \"video movement / character movement not correct\")\nI used the AI video only where it moved things correctly (the street, the TV, Arjun's hood close-up, his back, the window). Everything else is drawn animation of the model-sheet characters:\n- Arjun walks: 12 drawings, legs and arms swinging.\n- The umbrella walkers walk, and the car drives past and splashes.\n- The two hunters crouch, launch, fly and land.\n- His WHITE sneaker steps into the puddle.\n- The hand tightens on the bill.\n- His jaw tightens and he looks up.\nI also redrew the mother older: grey streak, lined face, gaunt.\n\nSCORES\n- check_render_log: 8/8\n- check_animation: 8/8\n- check_against_reference: 14/15 (the one fail: edge detail 0.10, target 0.08)\n- composite_check: 0 errors\n- Sound: -14.7 LUFS, loudness range 12.2 LU, narration -18 LUFS short-term.\n\nSTILL NOT PERFECT (honest list)\n- Vikram's lip movement is small: Wav2Lip on a drawn face gives modest mouth shapes.\n- The cafe is still a warm, bright interior.\n- Kabir is still not in the cafe shot. His drawing keeps losing its head when it is cut out.\n- The doorway shot (S16) is a bright corridor, and the two-hands shot (S17) moves only a little.\n- In the wide hospital shot (S13) the mother is small, so her age shows best in her close-up (S14).\n- The model sheets' expression, mouth and eye cells still need to be made again.\n\nReply \"done\" to go on to the next 30 seconds, or \"not done: <what to change>\" and I will fix exactly that.\n",
-  "links": [
-   [
-    "Watch step 6 (30 s)",
-    "https://github.com/useforyoutube/anime-studio/releases/download/shadow5/shadow-step6.mp4"
-   ],
-   [
-    "Version without rain/grain",
-    "https://github.com/useforyoutube/anime-studio/releases/download/shadow5/shadow-step6-nofx.mp4"
-   ],
-   [
-    "Contact sheet",
-    "https://github.com/useforyoutube/anime-studio/releases/download/shadow5/shadow-step6-contact.jpg"
-   ],
-   [
-    "Frame strips of every shot",
-    "https://github.com/useforyoutube/anime-studio/releases/download/shadow5/shadow-step6-diag.zip"
-   ],
-   [
-    "Walk strip (S07)",
-    "https://github.com/useforyoutube/anime-studio/releases/download/shadow5/shadow-step6-strip-S07.jpg"
-   ],
-   [
-    "Hospital strip (S13)",
-    "https://github.com/useforyoutube/anime-studio/releases/download/shadow5/shadow-step6-strip-S13.jpg"
-   ],
-   [
-    "All scores",
-    "https://github.com/useforyoutube/anime-studio/releases/download/shadow5/shadow-step6-scores.txt"
-   ]
-  ]
- }
+ "id": "samples-1793488316",
+ "send": ["store_sample", "store_sample_followup", "samples"]
 }
