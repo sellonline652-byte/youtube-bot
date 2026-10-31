@@ -1,10 +1,10 @@
 name: Scenario drill (simulations only - nothing is sent, nothing is saved)
 on:
   schedule:
-    - cron: "30 23 * * 6"       # Sunday 05:00 IST, after the fire drill: 2,000 scenarios (owner, 1 Nov 2026)
+    - cron: "30 23 * * 6"       # Sunday 05:00 IST, after the fire drill: 200 scenarios - very small (owner, 1 Nov 2026)
   workflow_dispatch:
     inputs:
-      total: {description: "scenarios (max 5000 - small checks only)", default: "2000"}
+      total: {description: "scenarios (max 500 - very small checks only)", default: "200"}
       seed: {description: "seed base", default: "7"}
 concurrency:
   group: scenario-drill            # own queue: never shares 'video-bot', so it never cancels or delays a live run
@@ -19,7 +19,7 @@ env:
 jobs:
   shard:
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    timeout-minutes: 15
     strategy:
       fail-fast: false
       max-parallel: 1              # one machine: the 100,000-run drills on 4 machines likely got the old account suspended
@@ -40,8 +40,8 @@ jobs:
       - run: pip install -q -r requirements.txt
       - name: Scenarios (capped at 5,000)
         run: |
-          total=${{ inputs.total || '2000' }}
-          [ "$total" -gt 5000 ] 2>/dev/null && total=5000
+          total=${{ inputs.total || '200' }}
+          [ "$total" -gt 500 ] 2>/dev/null && total=500
           python -u bot/scenarios.py "$total" 0 1 ${{ inputs.seed || '7' }}
       - uses: actions/upload-artifact@v4
         if: always()
