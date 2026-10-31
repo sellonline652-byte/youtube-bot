@@ -1,5 +1,11 @@
 name: Fire drill (sandbox - breaks a copy on purpose, nothing is saved)
-on: workflow_dispatch
+on:
+  schedule:
+    - cron: "30 22 * * 6"       # Sunday 04:00 IST, once a week (owner, 1 Nov 2026: weekly + when asked; small only)
+  workflow_dispatch:
+concurrency:
+  group: fire-drill
+  cancel-in-progress: false
 permissions:
   contents: read
 env:
@@ -8,7 +14,7 @@ env:
 jobs:
   drill:
     runs-on: ubuntu-latest
-    timeout-minutes: 120
+    timeout-minutes: 60       # small checks only: the old account was likely suspended over heavy drills
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5

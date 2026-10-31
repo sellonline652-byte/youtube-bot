@@ -1,8 +1,10 @@
 name: Scenario drill (simulations only - nothing is sent, nothing is saved)
 on:
+  schedule:
+    - cron: "30 23 * * 6"       # Sunday 05:00 IST, after the fire drill: 2,000 scenarios (owner, 1 Nov 2026)
   workflow_dispatch:
     inputs:
-      total: {description: "scenarios in all shards", default: "100000"}
+      total: {description: "scenarios (max 5000 - small checks only)", default: "2000"}
       seed: {description: "seed base", default: "7"}
 concurrency:
   group: scenario-drill            # own queue: never shares 'video-bot', so it never cancels or delays a live run
@@ -17,12 +19,12 @@ env:
 jobs:
   shard:
     runs-on: ubuntu-latest
-    timeout-minutes: 120
+    timeout-minutes: 45
     strategy:
       fail-fast: false
-      max-parallel: 4              # the live bot and the anime studio always keep free runners
+      max-parallel: 1              # one machine: the 100,000-run drills on 4 machines likely got the old account suspended
       matrix:
-        shard: [0, 1, 2, 3]
+        shard: [0]
     steps:
       - name: Wait while a live video run is waiting for a runner
         run: |
@@ -36,7 +38,11 @@ jobs:
         with: {python-version: "3.12", cache: pip}
       - run: pip install -q cryptography && python vault/boot.py open
       - run: pip install -q -r requirements.txt
-      - run: python -u bot/scenarios.py ${{ inputs.total }} ${{ matrix.shard }} 4 ${{ inputs.seed }}
+      - name: Scenarios (capped at 5,000)
+        run: |
+          total=${{ inputs.total || '2000' }}
+          [ "$total" -gt 5000 ] 2>/dev/null && total=5000
+          python -u bot/scenarios.py "$total" 0 1 ${{ inputs.seed || '7' }}
       - uses: actions/upload-artifact@v4
         if: always()
         with: {name: "scenarios-${{ matrix.shard }}", path: "work/scenarios_*.json", retention-days: 7}
