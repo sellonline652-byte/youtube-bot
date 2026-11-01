@@ -1,18 +1,19 @@
 # 🤖 Video bot status
-_Updated 31 Oct 2026, 10:43 PM IST by the bot._
+_Updated 01 Nov 2026, 10:49 AM IST by the bot._
 
 ## Targets
 | | Now | Target |
 |---|---|---|
-| Watch hours / day (28-day avg) | 0.84 | 10.0 |
+| Watch hours / day (28-day avg) | 0.76 | 10.0 |
 | New subscribers / day | 0.04 | 3.0 |
-| Watch hours, last 12 months (4,000 for monetization) | 311.1 | 4000 |
+| Watch hours, last 12 months (4,000 for monetization) | 312.6 | 4000 |
 
 ## Series
 | Series | Language | Channel | Status | Written | Movie |
 |---|---|---|---|---|---|
 | बप्पा रावल: मेवाड़ का सूर्य और अरबों का अंत | hi | main | done | 4/4 | ✅ |
-| ब्रह्मांडीय महायुद्ध: 24 अवतारों की गाथा | hi | main | active | 3/10 | ⏳ |
+| माँ छिन्नमस्ता साधना: गुप्त तंत्र और कटी मुंड का रहस्य | hi | main | active | 3/3 | ⏳ |
+| ब्रह्मांडीय महायुद्ध: 24 अवतारों की गाथा | hi | main | active | 4/10 | ⏳ |
 | I Regressed 30 Days Before the Glitch Apocalypse | en | main | done | 10/10 | ✅ |
 | कल्कि | hi | main | done | 15/15 | ✅ |
 | कलि संहार: कल्कि अवतार और महायुद्ध | hi | main | done | 5/5 | ✅ |
@@ -20,7 +21,7 @@ _Updated 31 Oct 2026, 10:43 PM IST by the bot._
 | द वेल क्रैक्स: महाप्रलय | hi | main | done | 5/5 | – |
 
 ## Queue (next to make)
-vishnu24, cosmicwa02, cosmicwa03
+short_poemtrapped_1, vishnu24, cosmicwa02, cosmicwa03, cosmicwa04, chinnama02, chinnama03
 
 ## Latest uploads
 - cosmicwa02: https://youtu.be/rHXZA9HCDlU
@@ -40,6 +41,7 @@ vishnu24, cosmicwa02, cosmicwa03
 - कलि की बहन दुरुक्ति 😱 साध्वी बनकर आई असुरी! घर का भेदी | Kalki vs Kali | Kalki Puran भाग 8 → **साध्वी बनकर क्यों आई कलि की बहन दुरुक्ति? 😱 Kalki Avatar | Kalki Puran भाग 8**
 
 ## Promotion Shorts (unlisted, for paid ads)
+- 2026-11-01: promotion for the series 'द वेल क्रैक्स: महाप्रलय' (The Veil Cracks (E - uploads when an upload is free
 - 2026-10-26: promotion for the series 'द वेल क्रैक्स: महाप्रलय' (The Veil Cracks (E - https://youtu.be/1XSYpJkGnh4
 - 2026-10-25: promotion for the series 'कल्कि' (Kalki Purana and Puranic belief, dra - https://youtu.be/zNXQ49V7FD4
 
@@ -51,19 +53,34 @@ vishnu24, cosmicwa02, cosmicwa03
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 5196 (public repo: no limit)
-- YouTube quota today (Pacific): 1020 / 9,800
+- GitHub minutes this month: 240 (public repo: no limit)
+- YouTube quota today (Pacific): 2107 / 9,800
 
 ## This run
 ```
-31 Oct 10:18 PM IST] health ok | YouTube quota used today 708 | GitHub minutes this month 5170
-31 Oct 10:42 PM IST] writer: waiting for Gemini's free limit (gemini-3.6-flash: 429 GenerateRequestsPerDayPerProjectPerModel-FreeTier (retry in 49803s) | gemini-3)
-31 Oct 10:42 PM IST] pictures for vishnu24
-31 Oct 10:42 PM IST] vishnu24: 1 Short(s) a day - the next one goes tomorrow
-31 Oct 10:42 PM IST] pictures for cosmicwa02
-31 Oct 10:42 PM IST] metadata cosmicwa02
-31 Oct 10:42 PM IST] YouTube quota used up (10 uploads done today - rest upload after the reset) - rendering continues, uploads next run
-31 Oct 10:42 PM IST] queue worked through
-31 Oct 10:43 PM IST] promotion Short: waiting for Gemini's free limit (gemini-3.6-flash: 429 GenerateRequestsPerDayPerProjectPerModel-FreeTier (retry in 49619s) | gemini-3)
-31 Oct 10:43 PM IST] sponsorship outreach: waiting for Gemini's free limit (gemini-3.6-flash: 429 GenerateRequestsPerDayPerProjectPerModel-FreeTier (retry in 49612s) | gemini-3)
+01 Nov 08:32 AM IST] render vishnu24_short14
+01 Nov 08:33 AM IST] render vishnu24_short15
+01 Nov 08:34 AM IST] render vishnu24_short16
+01 Nov 08:35 AM IST] render vishnu24_short17
+01 Nov 08:37 AM IST] render vishnu24_short18
+01 Nov 08:38 AM IST] render vishnu24_short19
+01 Nov 08:39 AM IST] render vishnu24_short20
+01 Nov 08:40 AM IST] render vishnu24_short21
+01 Nov 08:40 AM IST] render vishnu24_short22
+01 Nov 08:42 AM IST] render vishnu24_short23
+01 Nov 08:42 AM IST] render vishnu24_short24
+01 Nov 08:44 AM IST] pictures for cosmicwa02
+01 Nov 08:53 AM IST] cosmicwa02: free picture limit for today - its pictures continue after the 05:30 IST reset
+01 Nov 08:53 AM IST] pictures for chinnama01
+01 Nov 09:35 AM IST] render chinnama01
+01 Nov 09:50 AM IST] chinnama01: the video reviewer fixed face in 'chhinnamasta_goddess_full' stays still; face in 'kama_rati_embrace' stays still; face in 'energy_rising_chakras' stays still - rendering once more
+01 Nov 09:50 AM IST] render chinnama01
+01 Nov 10:02 AM IST] chinnama01 complete
+01 Nov 10:02 AM IST] pictures for chinnama02
+01 Nov 10:20 AM IST] chinnama02: free picture limit for today - its pictures continue after the 05:30 IST reset
+01 Nov 10:20 AM IST] queue worked through
+01 Nov 10:37 AM IST] pictures for short_promocatacly_1
+01 Nov 10:47 AM IST] render short_promocatacly_1_short1
+01 Nov 10:49 AM IST] metadata short_promocatacly_1
+01 Nov 10:49 AM IST] promotion Short made: promotion for the series 'द वेल क्रैक्स: महाप्रलय' (The Veil - uploads when an upload is free
 ```
