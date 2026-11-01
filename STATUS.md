@@ -1,5 +1,5 @@
 # 🤖 Video bot status
-_Updated 01 Nov 2026, 04:56 PM IST by the bot._
+_Updated 01 Nov 2026, 08:04 PM IST by the bot._
 
 ## Targets
 | | Now | Target |
@@ -13,7 +13,7 @@ _Updated 01 Nov 2026, 04:56 PM IST by the bot._
 |---|---|---|---|---|---|
 | बप्पा रावल: मेवाड़ का सूर्य और अरबों का अंत | hi | main | done | 4/4 | ✅ |
 | माँ छिन्नमस्ता साधना: गुप्त तंत्र और कटी मुंड का रहस्य | hi | main | done | 3/3 | ⏳ |
-| ब्रह्मांडीय महायुद्ध: 24 अवतारों की गाथा | hi | main | active | 4/10 | ⏳ |
+| ब्रह्मांडीय महायुद्ध: 24 अवतारों की गाथा | hi | main | active | 5/10 | ⏳ |
 | I Regressed 30 Days Before the Glitch Apocalypse | en | main | done | 10/10 | ✅ |
 | कल्कि | hi | main | done | 15/15 | ✅ |
 | कलि संहार: कल्कि अवतार और महायुद्ध | hi | main | done | 5/5 | ✅ |
@@ -21,7 +21,7 @@ _Updated 01 Nov 2026, 04:56 PM IST by the bot._
 | द वेल क्रैक्स: महाप्रलय | hi | main | done | 5/5 | – |
 
 ## Queue (next to make)
-vishnu24, cosmicwa04, chinnama02, chinnama03
+short_poemdevotion_1, vishnu24, cosmicwa04, cosmicwa05
 
 ## Latest uploads
 - prodweek261101: https://youtu.be/uLIYVsoeEY8
@@ -53,34 +53,32 @@ vishnu24, cosmicwa04, chinnama02, chinnama03
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 454 (public repo: no limit)
-- YouTube quota today (Pacific): 646 / 9,800
+- GitHub minutes this month: 642 (public repo: no limit)
+- YouTube quota today (Pacific): 757 / 9,800
 
 ## This run
 ```
-01 Nov 02:10 PM IST] vishnu24: 1 Short(s) a day - the next one goes tomorrow
-01 Nov 02:10 PM IST] pictures for cosmicwa02
-01 Nov 02:40 PM IST] render cosmicwa02_short1
-01 Nov 02:42 PM IST] metadata cosmicwa02
-01 Nov 02:43 PM IST] render cosmicwa02_short2
-01 Nov 02:49 PM IST] metadata cosmicwa02
-01 Nov 02:49 PM IST] cosmicwa02 complete
-01 Nov 02:49 PM IST] pictures for cosmicwa03
-01 Nov 03:25 PM IST] render cosmicwa03
-01 Nov 03:54 PM IST] cosmicwa03: the video reviewer fixed face in 'hiranyakashipu_interrogating_prahlad' stays still; face in 'narasimha_tearing_demon' stays still - rendering once more
-01 Nov 03:54 PM IST] render cosmicwa03
-01 Nov 04:17 PM IST] metadata cosmicwa03
-01 Nov 04:18 PM IST] render cosmicwa03_short1
-01 Nov 04:21 PM IST] metadata cosmicwa03
-01 Nov 04:21 PM IST] render cosmicwa03_short2
-01 Nov 04:23 PM IST] metadata cosmicwa03
-01 Nov 04:24 PM IST] cosmicwa03 complete
-01 Nov 04:24 PM IST] pictures for cosmicwa04
-01 Nov 04:43 PM IST] stopping for now: not enough time left in this run for the renders - continuing next run
-01 Nov 04:43 PM IST] render prodday261101_short1
-01 Nov 04:45 PM IST] metadata prodday261101
-01 Nov 04:45 PM IST] product Short with 3 products: https://youtu.be/-yEaACy5xq4
-01 Nov 04:45 PM IST] render prodweek261101
-01 Nov 04:54 PM IST] metadata prodweek261101
-01 Nov 04:55 PM IST] weekly product video with 15 products: https://youtu.be/uLIYVsoeEY8
+01 Nov 04:58 PM IST] health ok | YouTube quota used today 646 | GitHub minutes this month 454
+01 Nov 05:36 PM IST] pictures for short_poemdevotion_1
+01 Nov 05:42 PM IST] render short_poemdevotion_1_short1
+01 Nov 05:46 PM IST] metadata short_poemdevotion_1
+01 Nov 05:46 PM IST] short_poemdevotion_1_short1: upload waits (10 uploads done today - rest upload after the reset)
+01 Nov 05:46 PM IST] pictures for vishnu24
+01 Nov 05:46 PM IST] vishnu24: 1 Short(s) a day - the next one goes tomorrow
+01 Nov 05:46 PM IST] pictures for cosmicwa04
+01 Nov 05:46 PM IST] render cosmicwa04
+01 Nov 06:20 PM IST] cosmicwa04: the video reviewer fixed picture 'vaman_asking_three_steps' made again; picture 'trivikrama_first_step_earth' made again - rendering once more
+01 Nov 06:20 PM IST] pictures for cosmicwa04
+01 Nov 06:20 PM IST] render cosmicwa04
+01 Nov 06:50 PM IST] metadata cosmicwa04
+01 Nov 06:50 PM IST] render cosmicwa04_short1
+01 Nov 06:55 PM IST] render cosmicwa04_short2
+01 Nov 07:02 PM IST] pictures for chinnama02
+01 Nov 07:02 PM IST] render chinnama02
+01 Nov 07:29 PM IST] render chinnama02_short1
+01 Nov 07:33 PM IST] chinnama02 complete
+01 Nov 07:33 PM IST] pictures for chinnama03
+01 Nov 07:34 PM IST] render chinnama03
+01 Nov 08:03 PM IST] chinnama03 complete
+01 Nov 08:03 PM IST] queue worked through
 ```
