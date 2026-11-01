@@ -1,5 +1,5 @@
 # 🤖 Video bot status
-_Updated 01 Nov 2026, 10:49 AM IST by the bot._
+_Updated 01 Nov 2026, 04:56 PM IST by the bot._
 
 ## Targets
 | | Now | Target |
@@ -12,7 +12,7 @@ _Updated 01 Nov 2026, 10:49 AM IST by the bot._
 | Series | Language | Channel | Status | Written | Movie |
 |---|---|---|---|---|---|
 | बप्पा रावल: मेवाड़ का सूर्य और अरबों का अंत | hi | main | done | 4/4 | ✅ |
-| माँ छिन्नमस्ता साधना: गुप्त तंत्र और कटी मुंड का रहस्य | hi | main | active | 3/3 | ⏳ |
+| माँ छिन्नमस्ता साधना: गुप्त तंत्र और कटी मुंड का रहस्य | hi | main | done | 3/3 | ⏳ |
 | ब्रह्मांडीय महायुद्ध: 24 अवतारों की गाथा | hi | main | active | 4/10 | ⏳ |
 | I Regressed 30 Days Before the Glitch Apocalypse | en | main | done | 10/10 | ✅ |
 | कल्कि | hi | main | done | 15/15 | ✅ |
@@ -21,17 +21,17 @@ _Updated 01 Nov 2026, 10:49 AM IST by the bot._
 | द वेल क्रैक्स: महाप्रलय | hi | main | done | 5/5 | – |
 
 ## Queue (next to make)
-short_poemtrapped_1, vishnu24, cosmicwa02, cosmicwa03, cosmicwa04, chinnama02, chinnama03
+vishnu24, cosmicwa04, chinnama02, chinnama03
 
 ## Latest uploads
-- cosmicwa02: https://youtu.be/rHXZA9HCDlU
-- prodday261031_short1: https://youtu.be/9op0O96Ifno
-- bapparaw02_short1: https://youtu.be/4zfi6f6lhgw
-- bapparaw_movie: https://youtu.be/Snb15KZBDSw
-- cosmicwa01_short2: https://youtu.be/F37lPf9Bwvc
-- cosmicwa01_short1: https://youtu.be/ggwPbckCv4Q
-- cosmicwa01: https://youtu.be/xmVnGEHN0fo
-- vishnu24_short8: https://youtu.be/_NkE8yMhGYo
+- prodweek261101: https://youtu.be/uLIYVsoeEY8
+- prodday261101_short1: https://youtu.be/-yEaACy5xq4
+- cosmicwa03_short2: https://youtu.be/VaGtaeVLnT0
+- cosmicwa03_short1: https://youtu.be/O8VQzeJhJtA
+- cosmicwa03: https://youtu.be/A9gUlUuHqjA
+- cosmicwa02_short2: https://youtu.be/XrwNKVXWZXs
+- cosmicwa02_short1: https://youtu.be/8rCi6MmoKYw
+- vishnu24_short9: https://youtu.be/irpTDi65r7k
 
 ## Titles the bot improved
 - द वेल क्रैक्स | भाग 3: श्मशान का रहस्य 💀 | Indian Dark Fantasy Anime | Arav's Dark Secret → **क्या श्मशान में छिपा है कल्कि अवतार का रहस्य? 💀 द वेल क्रैक्स | भाग 3 #Shorts**
@@ -53,34 +53,34 @@ short_poemtrapped_1, vishnu24, cosmicwa02, cosmicwa03, cosmicwa04, chinnama02, c
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 240 (public repo: no limit)
-- YouTube quota today (Pacific): 2107 / 9,800
+- GitHub minutes this month: 454 (public repo: no limit)
+- YouTube quota today (Pacific): 646 / 9,800
 
 ## This run
 ```
-01 Nov 08:32 AM IST] render vishnu24_short14
-01 Nov 08:33 AM IST] render vishnu24_short15
-01 Nov 08:34 AM IST] render vishnu24_short16
-01 Nov 08:35 AM IST] render vishnu24_short17
-01 Nov 08:37 AM IST] render vishnu24_short18
-01 Nov 08:38 AM IST] render vishnu24_short19
-01 Nov 08:39 AM IST] render vishnu24_short20
-01 Nov 08:40 AM IST] render vishnu24_short21
-01 Nov 08:40 AM IST] render vishnu24_short22
-01 Nov 08:42 AM IST] render vishnu24_short23
-01 Nov 08:42 AM IST] render vishnu24_short24
-01 Nov 08:44 AM IST] pictures for cosmicwa02
-01 Nov 08:53 AM IST] cosmicwa02: free picture limit for today - its pictures continue after the 05:30 IST reset
-01 Nov 08:53 AM IST] pictures for chinnama01
-01 Nov 09:35 AM IST] render chinnama01
-01 Nov 09:50 AM IST] chinnama01: the video reviewer fixed face in 'chhinnamasta_goddess_full' stays still; face in 'kama_rati_embrace' stays still; face in 'energy_rising_chakras' stays still - rendering once more
-01 Nov 09:50 AM IST] render chinnama01
-01 Nov 10:02 AM IST] chinnama01 complete
-01 Nov 10:02 AM IST] pictures for chinnama02
-01 Nov 10:20 AM IST] chinnama02: free picture limit for today - its pictures continue after the 05:30 IST reset
-01 Nov 10:20 AM IST] queue worked through
-01 Nov 10:37 AM IST] pictures for short_promocatacly_1
-01 Nov 10:47 AM IST] render short_promocatacly_1_short1
-01 Nov 10:49 AM IST] metadata short_promocatacly_1
-01 Nov 10:49 AM IST] promotion Short made: promotion for the series 'द वेल क्रैक्स: महाप्रलय' (The Veil - uploads when an upload is free
+01 Nov 02:10 PM IST] vishnu24: 1 Short(s) a day - the next one goes tomorrow
+01 Nov 02:10 PM IST] pictures for cosmicwa02
+01 Nov 02:40 PM IST] render cosmicwa02_short1
+01 Nov 02:42 PM IST] metadata cosmicwa02
+01 Nov 02:43 PM IST] render cosmicwa02_short2
+01 Nov 02:49 PM IST] metadata cosmicwa02
+01 Nov 02:49 PM IST] cosmicwa02 complete
+01 Nov 02:49 PM IST] pictures for cosmicwa03
+01 Nov 03:25 PM IST] render cosmicwa03
+01 Nov 03:54 PM IST] cosmicwa03: the video reviewer fixed face in 'hiranyakashipu_interrogating_prahlad' stays still; face in 'narasimha_tearing_demon' stays still - rendering once more
+01 Nov 03:54 PM IST] render cosmicwa03
+01 Nov 04:17 PM IST] metadata cosmicwa03
+01 Nov 04:18 PM IST] render cosmicwa03_short1
+01 Nov 04:21 PM IST] metadata cosmicwa03
+01 Nov 04:21 PM IST] render cosmicwa03_short2
+01 Nov 04:23 PM IST] metadata cosmicwa03
+01 Nov 04:24 PM IST] cosmicwa03 complete
+01 Nov 04:24 PM IST] pictures for cosmicwa04
+01 Nov 04:43 PM IST] stopping for now: not enough time left in this run for the renders - continuing next run
+01 Nov 04:43 PM IST] render prodday261101_short1
+01 Nov 04:45 PM IST] metadata prodday261101
+01 Nov 04:45 PM IST] product Short with 3 products: https://youtu.be/-yEaACy5xq4
+01 Nov 04:45 PM IST] render prodweek261101
+01 Nov 04:54 PM IST] metadata prodweek261101
+01 Nov 04:55 PM IST] weekly product video with 15 products: https://youtu.be/uLIYVsoeEY8
 ```
