@@ -1,12 +1,12 @@
 # 🤖 Video bot status
-_Updated 01 Nov 2026, 11:14 PM IST by the bot._
+_Updated 02 Nov 2026, 07:40 AM IST by the bot._
 
 ## Targets
 | | Now | Target |
 |---|---|---|
-| Watch hours / day (28-day avg) | 0.76 | 10.0 |
+| Watch hours / day (28-day avg) | 0.79 | 10.0 |
 | New subscribers / day | 0.04 | 3.0 |
-| Watch hours, last 12 months (4,000 for monetization) | 312.6 | 4000 |
+| Watch hours, last 12 months (4,000 for monetization) | 312.8 | 4000 |
 
 ## Series
 | Series | Language | Channel | Status | Written | Movie |
@@ -41,6 +41,7 @@ short_songbhajan_4, short_poemdevotion_1, vishnu24, cosmicwa04, cosmicwa05, cosm
 - कलि की बहन दुरुक्ति 😱 साध्वी बनकर आई असुरी! घर का भेदी | Kalki vs Kali | Kalki Puran भाग 8 → **साध्वी बनकर क्यों आई कलि की बहन दुरुक्ति? 😱 Kalki Avatar | Kalki Puran भाग 8**
 
 ## Promotion Shorts (unlisted, for paid ads)
+- 2026-11-02: promotion for the whole channel: the best of Sujay Ganguly Creations - - uploads when an upload is free
 - 2026-11-01: promotion for the series 'द वेल क्रैक्स: महाप्रलय' (The Veil Cracks (E - uploads when an upload is free
 - 2026-10-26: promotion for the series 'द वेल क्रैक्स: महाप्रलय' (The Veil Cracks (E - https://youtu.be/1XSYpJkGnh4
 - 2026-10-25: promotion for the series 'कल्कि' (Kalki Purana and Puranic belief, dra - https://youtu.be/zNXQ49V7FD4
@@ -53,20 +54,22 @@ short_songbhajan_4, short_poemdevotion_1, vishnu24, cosmicwa04, cosmicwa05, cosm
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 700 (public repo: no limit)
-- YouTube quota today (Pacific): 768 / 9,800
+- GitHub minutes this month: 752 (public repo: no limit)
+- YouTube quota today (Pacific): 1550 / 9,800
 
 ## This run
 ```
-01 Nov 10:18 PM IST] health ok | YouTube quota used today 757 | GitHub minutes this month 642
-01 Nov 11:03 PM IST] pictures for short_songbhajan_4
-01 Nov 11:10 PM IST] render short_songbhajan_4_short1
-01 Nov 11:14 PM IST] metadata short_songbhajan_4
-01 Nov 11:14 PM IST] short_songbhajan_4_short1: upload waits (10 uploads done today - rest upload after the reset)
-01 Nov 11:14 PM IST] pictures for short_poemdevotion_1
-01 Nov 11:14 PM IST] pictures for vishnu24
-01 Nov 11:14 PM IST] vishnu24: 1 Short(s) a day - the next one goes tomorrow
-01 Nov 11:14 PM IST] pictures for cosmicwa04
-01 Nov 11:14 PM IST] metadata cosmicwa04
-01 Nov 11:14 PM IST] queue worked through
+02 Nov 06:50 AM IST] health ok | YouTube quota used today 768 | GitHub minutes this month 700
+02 Nov 07:24 AM IST] pictures for short_songbhajan_4
+02 Nov 07:24 AM IST] metadata short_songbhajan_4
+02 Nov 07:24 AM IST] short_songbhajan_4_short1: upload waits (10 uploads done today - rest upload after the reset)
+02 Nov 07:24 AM IST] pictures for short_poemdevotion_1
+02 Nov 07:24 AM IST] pictures for vishnu24
+02 Nov 07:24 AM IST] pictures for cosmicwa04
+02 Nov 07:24 AM IST] metadata cosmicwa04
+02 Nov 07:24 AM IST] queue worked through
+02 Nov 07:29 AM IST] pictures for short_promoshowcas_1
+02 Nov 07:34 AM IST] render short_promoshowcas_1_short1
+02 Nov 07:37 AM IST] metadata short_promoshowcas_1
+02 Nov 07:37 AM IST] promotion Short made: promotion for the whole channel: the best of Sujay Ganguly C - uploads when an upload is free
 ```
