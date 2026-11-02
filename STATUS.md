@@ -1,5 +1,5 @@
 # 🤖 Video bot status
-_Updated 02 Nov 2026, 07:40 AM IST by the bot._
+_Updated 02 Nov 2026, 04:47 PM IST by the bot._
 
 ## Targets
 | | Now | Target |
@@ -21,17 +21,17 @@ _Updated 02 Nov 2026, 07:40 AM IST by the bot._
 | द वेल क्रैक्स: महाप्रलय | hi | main | done | 5/5 | – |
 
 ## Queue (next to make)
-short_songbhajan_4, short_poemdevotion_1, vishnu24, cosmicwa04, cosmicwa05, cosmicwa06
+vishnu24, cosmicwa06
 
 ## Latest uploads
-- prodweek261101: https://youtu.be/uLIYVsoeEY8
-- prodday261101_short1: https://youtu.be/-yEaACy5xq4
-- cosmicwa03_short2: https://youtu.be/VaGtaeVLnT0
-- cosmicwa03_short1: https://youtu.be/O8VQzeJhJtA
-- cosmicwa03: https://youtu.be/A9gUlUuHqjA
-- cosmicwa02_short2: https://youtu.be/XrwNKVXWZXs
-- cosmicwa02_short1: https://youtu.be/8rCi6MmoKYw
-- vishnu24_short9: https://youtu.be/irpTDi65r7k
+- cosmicwa06: https://youtu.be/r9kWoaJFijg
+- cosmicwa05_short2: https://youtu.be/5GQtk4sKkuQ
+- cosmicwa05_short1: https://youtu.be/nKsaHT6e8X0
+- cosmicwa05: https://youtu.be/n6U1o_GfvVg
+- cosmicwa04_short2: https://youtu.be/v2pCJVOnTXI
+- cosmicwa04_short1: https://youtu.be/I1aJP10_0og
+- cosmicwa04: https://youtu.be/kj5J_AFPeWs
+- vishnu24_short10: https://youtu.be/wuLFY4BLIQg
 
 ## Titles the bot improved
 - द वेल क्रैक्स | भाग 3: श्मशान का रहस्य 💀 | Indian Dark Fantasy Anime | Arav's Dark Secret → **क्या श्मशान में छिपा है कल्कि अवतार का रहस्य? 💀 द वेल क्रैक्स | भाग 3 #Shorts**
@@ -54,22 +54,34 @@ short_songbhajan_4, short_poemdevotion_1, vishnu24, cosmicwa04, cosmicwa05, cosm
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 752 (public repo: no limit)
-- YouTube quota today (Pacific): 1550 / 9,800
+- GitHub minutes this month: 926 (public repo: no limit)
+- YouTube quota today (Pacific): 801 / 9,800
 
 ## This run
 ```
-02 Nov 06:50 AM IST] health ok | YouTube quota used today 768 | GitHub minutes this month 700
-02 Nov 07:24 AM IST] pictures for short_songbhajan_4
-02 Nov 07:24 AM IST] metadata short_songbhajan_4
-02 Nov 07:24 AM IST] short_songbhajan_4_short1: upload waits (10 uploads done today - rest upload after the reset)
-02 Nov 07:24 AM IST] pictures for short_poemdevotion_1
-02 Nov 07:24 AM IST] pictures for vishnu24
-02 Nov 07:24 AM IST] pictures for cosmicwa04
-02 Nov 07:24 AM IST] metadata cosmicwa04
-02 Nov 07:24 AM IST] queue worked through
-02 Nov 07:29 AM IST] pictures for short_promoshowcas_1
-02 Nov 07:34 AM IST] render short_promoshowcas_1_short1
-02 Nov 07:37 AM IST] metadata short_promoshowcas_1
-02 Nov 07:37 AM IST] promotion Short made: promotion for the whole channel: the best of Sujay Ganguly C - uploads when an upload is free
+02 Nov 01:55 PM IST] short_poemdevotion_1 complete
+02 Nov 01:55 PM IST] pictures for vishnu24
+02 Nov 01:55 PM IST] metadata vishnu24
+02 Nov 01:55 PM IST] vishnu24: 1 Short(s) a day - the next one goes tomorrow
+02 Nov 01:55 PM IST] pictures for cosmicwa04
+02 Nov 01:55 PM IST] metadata cosmicwa04
+02 Nov 01:57 PM IST] metadata cosmicwa04
+02 Nov 01:57 PM IST] metadata cosmicwa04
+02 Nov 01:57 PM IST] cosmicwa04 complete
+02 Nov 01:57 PM IST] pictures for cosmicwa05
+02 Nov 01:58 PM IST] render cosmicwa05
+02 Nov 02:37 PM IST] metadata cosmicwa05
+02 Nov 02:38 PM IST] render cosmicwa05_short1
+02 Nov 02:43 PM IST] metadata cosmicwa05
+02 Nov 02:43 PM IST] render cosmicwa05_short2
+02 Nov 02:48 PM IST] metadata cosmicwa05
+02 Nov 02:48 PM IST] cosmicwa05 complete
+02 Nov 02:48 PM IST] pictures for cosmicwa06
+02 Nov 03:16 PM IST] render cosmicwa06
+02 Nov 03:54 PM IST] metadata cosmicwa06
+02 Nov 03:55 PM IST] render cosmicwa06_short1
+02 Nov 03:58 PM IST] metadata cosmicwa06
+02 Nov 03:58 PM IST] YouTube quota used up (10 uploads done today - rest upload after the reset) - rendering continues, uploads next run
+02 Nov 03:58 PM IST] render cosmicwa06_short2
+02 Nov 04:03 PM IST] queue worked through
 ```
