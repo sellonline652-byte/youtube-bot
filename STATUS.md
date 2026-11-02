@@ -1,5 +1,5 @@
 # 🤖 Video bot status
-_Updated 02 Nov 2026, 04:47 PM IST by the bot._
+_Updated 02 Nov 2026, 06:11 PM IST by the bot._
 
 ## Targets
 | | Now | Target |
@@ -13,7 +13,7 @@ _Updated 02 Nov 2026, 04:47 PM IST by the bot._
 |---|---|---|---|---|---|
 | बप्पा रावल: मेवाड़ का सूर्य और अरबों का अंत | hi | main | done | 4/4 | ✅ |
 | माँ छिन्नमस्ता साधना: गुप्त तंत्र और कटी मुंड का रहस्य | hi | main | done | 3/3 | ⏳ |
-| ब्रह्मांडीय महायुद्ध: 24 अवतारों की गाथा | hi | main | active | 6/10 | ⏳ |
+| ब्रह्मांडीय महायुद्ध: 24 अवतारों की गाथा | hi | main | active | 8/10 | ⏳ |
 | I Regressed 30 Days Before the Glitch Apocalypse | en | main | done | 10/10 | ✅ |
 | कल्कि | hi | main | done | 15/15 | ✅ |
 | कलि संहार: कल्कि अवतार और महायुद्ध | hi | main | done | 5/5 | ✅ |
@@ -21,7 +21,7 @@ _Updated 02 Nov 2026, 04:47 PM IST by the bot._
 | द वेल क्रैक्स: महाप्रलय | hi | main | done | 5/5 | – |
 
 ## Queue (next to make)
-vishnu24, cosmicwa06
+short_poemdemise_1, vishnu24, cosmicwa06, cosmicwa07, cosmicwa08
 
 ## Latest uploads
 - cosmicwa06: https://youtu.be/r9kWoaJFijg
@@ -54,34 +54,18 @@ vishnu24, cosmicwa06
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 926 (public repo: no limit)
-- YouTube quota today (Pacific): 801 / 9,800
+- GitHub minutes this month: 1010 (public repo: no limit)
+- YouTube quota today (Pacific): 862 / 9,800
 
 ## This run
 ```
-02 Nov 01:55 PM IST] short_poemdevotion_1 complete
-02 Nov 01:55 PM IST] pictures for vishnu24
-02 Nov 01:55 PM IST] metadata vishnu24
-02 Nov 01:55 PM IST] vishnu24: 1 Short(s) a day - the next one goes tomorrow
-02 Nov 01:55 PM IST] pictures for cosmicwa04
-02 Nov 01:55 PM IST] metadata cosmicwa04
-02 Nov 01:57 PM IST] metadata cosmicwa04
-02 Nov 01:57 PM IST] metadata cosmicwa04
-02 Nov 01:57 PM IST] cosmicwa04 complete
-02 Nov 01:57 PM IST] pictures for cosmicwa05
-02 Nov 01:58 PM IST] render cosmicwa05
-02 Nov 02:37 PM IST] metadata cosmicwa05
-02 Nov 02:38 PM IST] render cosmicwa05_short1
-02 Nov 02:43 PM IST] metadata cosmicwa05
-02 Nov 02:43 PM IST] render cosmicwa05_short2
-02 Nov 02:48 PM IST] metadata cosmicwa05
-02 Nov 02:48 PM IST] cosmicwa05 complete
-02 Nov 02:48 PM IST] pictures for cosmicwa06
-02 Nov 03:16 PM IST] render cosmicwa06
-02 Nov 03:54 PM IST] metadata cosmicwa06
-02 Nov 03:55 PM IST] render cosmicwa06_short1
-02 Nov 03:58 PM IST] metadata cosmicwa06
-02 Nov 03:58 PM IST] YouTube quota used up (10 uploads done today - rest upload after the reset) - rendering continues, uploads next run
-02 Nov 03:58 PM IST] render cosmicwa06_short2
-02 Nov 04:03 PM IST] queue worked through
+02 Nov 04:49 PM IST] health ok | YouTube quota used today 801 | GitHub minutes this month 926
+02 Nov 06:04 PM IST] pictures for short_poemdemise_1
+02 Nov 06:07 PM IST] render short_poemdemise_1_short1
+02 Nov 06:11 PM IST] metadata short_poemdemise_1
+02 Nov 06:11 PM IST] short_poemdemise_1_short1: upload waits (10 uploads done today - rest upload after the reset)
+02 Nov 06:11 PM IST] pictures for vishnu24
+02 Nov 06:11 PM IST] vishnu24: 1 Short(s) a day - the next one goes tomorrow
+02 Nov 06:11 PM IST] pictures for cosmicwa06
+02 Nov 06:11 PM IST] queue worked through
 ```
