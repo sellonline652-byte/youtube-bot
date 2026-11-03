@@ -1,5 +1,5 @@
 # 🤖 Video bot status
-_Updated 03 Nov 2026, 05:01 PM IST by the bot._
+_Updated 03 Nov 2026, 11:43 PM IST by the bot._
 
 ## Targets
 | | Now | Target |
@@ -22,7 +22,7 @@ _Updated 03 Nov 2026, 05:01 PM IST by the bot._
 | विष्णु पुराण: कलियुग महाप्रलय | hi | main | next | 0/10 | ⏳ |
 
 ## Queue (next to make)
-short_poemnavratri_1, vishnu24, cosmicwa08, cosmicwa09, cosmicwa10
+short_songhymn_3, short_poemnavratri_1, vishnu24, cosmicwa08, cosmicwa09, cosmicwa10
 
 ## Latest uploads
 - cosmicwa08_short1: https://youtu.be/edv-2GZIFGw
@@ -56,18 +56,19 @@ short_poemnavratri_1, vishnu24, cosmicwa08, cosmicwa09, cosmicwa10
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 1354 (public repo: no limit)
-- YouTube quota today (Pacific): 812 / 9,800
+- GitHub minutes this month: 1420 (public repo: no limit)
+- YouTube quota today (Pacific): 873 / 9,800
 
 ## This run
 ```
-03 Nov 03:05 PM IST] health ok | YouTube quota used today 751 | GitHub minutes this month 1236
-03 Nov 04:14 PM IST] pictures for short_poemnavratri_1
-03 Nov 04:17 PM IST] render short_poemnavratri_1_short1
-03 Nov 04:21 PM IST] metadata short_poemnavratri_1
-03 Nov 04:21 PM IST] short_poemnavratri_1_short1: upload waits (10 uploads done today - rest upload after the reset)
-03 Nov 04:21 PM IST] pictures for vishnu24
-03 Nov 04:21 PM IST] vishnu24: 1 Short(s) a day - the next one goes tomorrow
-03 Nov 04:21 PM IST] pictures for cosmicwa08
-03 Nov 04:21 PM IST] queue worked through
+03 Nov 10:38 PM IST] health ok | YouTube quota used today 812 | GitHub minutes this month 1354
+03 Nov 11:36 PM IST] pictures for short_songhymn_3
+03 Nov 11:40 PM IST] render short_songhymn_3_short1
+03 Nov 11:43 PM IST] metadata short_songhymn_3
+03 Nov 11:43 PM IST] short_songhymn_3_short1: upload waits (10 uploads done today - rest upload after the reset)
+03 Nov 11:43 PM IST] pictures for short_poemnavratri_1
+03 Nov 11:43 PM IST] pictures for vishnu24
+03 Nov 11:43 PM IST] vishnu24: 1 Short(s) a day - the next one goes tomorrow
+03 Nov 11:43 PM IST] pictures for cosmicwa08
+03 Nov 11:43 PM IST] queue worked through
 ```
