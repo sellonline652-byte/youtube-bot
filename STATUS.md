@@ -1,5 +1,5 @@
 # 🤖 Video bot status
-_Updated 03 Nov 2026, 06:49 AM IST by the bot._
+_Updated 03 Nov 2026, 03:02 PM IST by the bot._
 
 ## Targets
 | | Now | Target |
@@ -22,17 +22,17 @@ _Updated 03 Nov 2026, 06:49 AM IST by the bot._
 | विष्णु पुराण: कलियुग महाप्रलय | hi | main | next | 0/10 | ⏳ |
 
 ## Queue (next to make)
-short_songbhajan_5, short_poemdemise_1, vishnu24, cosmicwa06, cosmicwa07, cosmicwa08
+vishnu24, cosmicwa08
 
 ## Latest uploads
-- cosmicwa06: https://youtu.be/r9kWoaJFijg
-- cosmicwa05_short2: https://youtu.be/5GQtk4sKkuQ
-- cosmicwa05_short1: https://youtu.be/nKsaHT6e8X0
-- cosmicwa05: https://youtu.be/n6U1o_GfvVg
-- cosmicwa04_short2: https://youtu.be/v2pCJVOnTXI
-- cosmicwa04_short1: https://youtu.be/I1aJP10_0og
-- cosmicwa04: https://youtu.be/kj5J_AFPeWs
-- vishnu24_short10: https://youtu.be/wuLFY4BLIQg
+- cosmicwa08_short1: https://youtu.be/edv-2GZIFGw
+- cosmicwa08: https://youtu.be/gW5kYmj-BWc
+- cosmicwa07_short2: https://youtu.be/bxKfcw_xZ9Y
+- cosmicwa07_short1: https://youtu.be/t4K-4c3eRMU
+- cosmicwa07: https://youtu.be/v5g4Lxp260c
+- cosmicwa06_short2: https://youtu.be/29l0Ruee55c
+- cosmicwa06_short1: https://youtu.be/Mim3cEsMhQ4
+- vishnu24_short11: https://youtu.be/la5MNX8TsLQ
 
 ## Titles the bot improved
 - कौन है कलि की बहन दुरुक्ति? कल्कि अवतार का रहस्य 😱 #shorts #kalkiavatar → **कौन थी कलि की बहन दुरुक्ति? Kalki Avatar का सच 😱 #shorts**
@@ -56,17 +56,34 @@ short_songbhajan_5, short_poemdemise_1, vishnu24, cosmicwa06, cosmicwa07, cosmic
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 1151 (public repo: no limit)
-- YouTube quota today (Pacific): 1347 / 9,800
+- GitHub minutes this month: 1236 (public repo: no limit)
+- YouTube quota today (Pacific): 751 / 9,800
 
 ## This run
 ```
-03 Nov 06:48 AM IST] health ok | YouTube quota used today 1336 | GitHub minutes this month 1148
-03 Nov 06:48 AM IST] pictures for short_songbhajan_5
-03 Nov 06:48 AM IST] metadata short_songbhajan_5
-03 Nov 06:48 AM IST] short_songbhajan_5_short1: upload waits (10 uploads done today - rest upload after the reset)
-03 Nov 06:48 AM IST] pictures for short_poemdemise_1
-03 Nov 06:48 AM IST] pictures for vishnu24
-03 Nov 06:48 AM IST] pictures for cosmicwa06
-03 Nov 06:48 AM IST] queue worked through
+03 Nov 01:39 PM IST] metadata vishnu24
+03 Nov 01:39 PM IST] vishnu24: 1 Short(s) a day - the next one goes tomorrow
+03 Nov 01:39 PM IST] pictures for cosmicwa06
+03 Nov 01:39 PM IST] metadata cosmicwa06
+03 Nov 01:40 PM IST] metadata cosmicwa06
+03 Nov 01:40 PM IST] cosmicwa06 complete
+03 Nov 01:40 PM IST] pictures for cosmicwa07
+03 Nov 01:40 PM IST] render cosmicwa07
+03 Nov 02:02 PM IST] metadata cosmicwa07
+03 Nov 02:03 PM IST] render cosmicwa07_short1
+03 Nov 02:06 PM IST] metadata cosmicwa07
+03 Nov 02:07 PM IST] render cosmicwa07_short2
+03 Nov 02:09 PM IST] metadata cosmicwa07
+03 Nov 02:11 PM IST] cosmicwa07 complete
+03 Nov 02:11 PM IST] pictures for cosmicwa08
+03 Nov 02:12 PM IST] render cosmicwa08
+03 Nov 02:35 PM IST] cosmicwa08: the video reviewer fixed face in 'dhanvantari_golden_pot' stays still - rendering once more
+03 Nov 02:35 PM IST] render cosmicwa08
+03 Nov 02:54 PM IST] metadata cosmicwa08
+03 Nov 02:56 PM IST] render cosmicwa08_short1
+03 Nov 02:59 PM IST] metadata cosmicwa08
+03 Nov 02:59 PM IST] render cosmicwa08_short2
+03 Nov 03:02 PM IST] metadata cosmicwa08
+03 Nov 03:02 PM IST] YouTube quota used up (10 uploads done today - rest upload after the reset) - rendering continues, uploads next run
+03 Nov 03:02 PM IST] queue worked through
 ```
