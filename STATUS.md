@@ -1,12 +1,12 @@
 # 🤖 Video bot status
-_Updated 03 Nov 2026, 12:57 AM IST by the bot._
+_Updated 03 Nov 2026, 06:49 AM IST by the bot._
 
 ## Targets
 | | Now | Target |
 |---|---|---|
-| Watch hours / day (28-day avg) | 0.79 | 10.0 |
-| New subscribers / day | 0.04 | 3.0 |
-| Watch hours, last 12 months (4,000 for monetization) | 312.8 | 4000 |
+| Watch hours / day (28-day avg) | 0.82 | 10.0 |
+| New subscribers / day | 0.07 | 3.0 |
+| Watch hours, last 12 months (4,000 for monetization) | 312.9 | 4000 |
 
 ## Series
 | Series | Language | Channel | Status | Written | Movie |
@@ -56,24 +56,17 @@ short_songbhajan_5, short_poemdemise_1, vishnu24, cosmicwa06, cosmicwa07, cosmic
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 1148 (public repo: no limit)
-- YouTube quota today (Pacific): 1336 / 9,800
+- GitHub minutes this month: 1151 (public repo: no limit)
+- YouTube quota today (Pacific): 1347 / 9,800
 
 ## This run
 ```
-02 Nov 10:44 PM IST] self-check found broken behaviour - self-repair started
-02 Nov 10:49 PM IST] self-check still failing - the run goes on, repair tries again later
-02 Nov 10:49 PM IST] health ok | YouTube quota used today 862 | GitHub minutes this month 1010
-03 Nov 12:37 AM IST] pictures for short_songbhajan_5
-03 Nov 12:41 AM IST] render short_songbhajan_5_short1
-03 Nov 12:44 AM IST] metadata short_songbhajan_5
-03 Nov 12:44 AM IST] short_songbhajan_5_short1: upload waits (10 uploads done today - rest upload after the reset)
-03 Nov 12:44 AM IST] pictures for short_poemdemise_1
-03 Nov 12:44 AM IST] pictures for vishnu24
-03 Nov 12:44 AM IST] pictures for cosmicwa06
-03 Nov 12:44 AM IST] queue worked through
-03 Nov 12:46 AM IST] pictures for short_promoavatars_1
-03 Nov 12:50 AM IST] render short_promoavatars_1_short1
-03 Nov 12:53 AM IST] metadata short_promoavatars_1
-03 Nov 12:53 AM IST] promotion Short made: promotion for the series 'ब्रह्मांडीय महायुद्ध: 24 अवतारों क - uploads when an upload is free
+03 Nov 06:48 AM IST] health ok | YouTube quota used today 1336 | GitHub minutes this month 1148
+03 Nov 06:48 AM IST] pictures for short_songbhajan_5
+03 Nov 06:48 AM IST] metadata short_songbhajan_5
+03 Nov 06:48 AM IST] short_songbhajan_5_short1: upload waits (10 uploads done today - rest upload after the reset)
+03 Nov 06:48 AM IST] pictures for short_poemdemise_1
+03 Nov 06:48 AM IST] pictures for vishnu24
+03 Nov 06:48 AM IST] pictures for cosmicwa06
+03 Nov 06:48 AM IST] queue worked through
 ```
