@@ -1,5 +1,5 @@
 # 🤖 Video bot status
-_Updated 04 Nov 2026, 04:10 PM IST by the bot._
+_Updated 04 Nov 2026, 05:32 PM IST by the bot._
 
 ## Targets
 | | Now | Target |
@@ -13,7 +13,7 @@ _Updated 04 Nov 2026, 04:10 PM IST by the bot._
 |---|---|---|---|---|---|
 | बप्पा रावल: मेवाड़ का सूर्य और अरबों का अंत | hi | main | done | 4/4 | ✅ |
 | माँ छिन्नमस्ता साधना: गुप्त तंत्र और कटी मुंड का रहस्य | hi | main | done | 3/3 | ⏳ |
-| ब्रह्मांडीय महायुद्ध: 24 अवतारों की गाथा | hi | main | active | 10/10 | ⏳ |
+| ब्रह्मांडीय महायुद्ध: 24 अवतारों की गाथा | hi | main | done | 10/10 | ⏳ |
 | I Regressed 30 Days Before the Glitch Apocalypse | en | main | done | 10/10 | ✅ |
 | कल्कि | hi | main | done | 15/15 | ✅ |
 | कलि संहार: कल्कि अवतार और महायुद्ध | hi | main | done | 5/5 | ✅ |
@@ -22,7 +22,7 @@ _Updated 04 Nov 2026, 04:10 PM IST by the bot._
 | विष्णु पुराण: कलियुग महाप्रलय | hi | main | next | 0/10 | ⏳ |
 
 ## Queue (next to make)
-vishnu24
+short_poemreplicat_1, vishnu24
 
 ## Latest uploads
 - cosmicwa10_short2: https://youtu.be/PjhpvL_uGB4
@@ -57,34 +57,17 @@ vishnu24
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 1624 (public repo: no limit)
-- YouTube quota today (Pacific): 798 / 9,800
+- GitHub minutes this month: 1705 (public repo: no limit)
+- YouTube quota today (Pacific): 859 / 9,800
 
 ## This run
 ```
-04 Nov 02:26 PM IST] render cosmicwa09_short1
-04 Nov 02:29 PM IST] metadata cosmicwa09
-04 Nov 02:30 PM IST] render cosmicwa09_short2
-04 Nov 02:33 PM IST] metadata cosmicwa09
-04 Nov 02:34 PM IST] cosmicwa09 complete
-04 Nov 02:34 PM IST] pictures for cosmicwa10
-04 Nov 02:35 PM IST] render cosmicwa10
-04 Nov 02:59 PM IST] cosmicwa10: the video reviewer fixed picture 'kalki_sword_raise' made again; face in 'earth_mother_healed' stays still - rendering once more
-04 Nov 02:59 PM IST] pictures for cosmicwa10
-04 Nov 02:59 PM IST] render cosmicwa10
-04 Nov 03:16 PM IST] metadata cosmicwa10
-04 Nov 03:17 PM IST] render cosmicwa10_short1
-04 Nov 03:19 PM IST] metadata cosmicwa10
-04 Nov 03:21 PM IST] render cosmicwa10_short2
-04 Nov 03:23 PM IST] metadata cosmicwa10
-04 Nov 03:23 PM IST] cosmicwa10 complete
-04 Nov 03:23 PM IST] queue worked through
-04 Nov 03:56 PM IST] pictures for short_dharma_1
-04 Nov 04:00 PM IST] render short_dharma_1_short1
-04 Nov 04:01 PM IST] metadata short_dharma_1
-04 Nov 04:01 PM IST] backup Short ready: Why Lord Shiva Gave Kalki Avatar The Divine Sword (1/2)
-04 Nov 04:04 PM IST] pictures for short_curse_1
-04 Nov 04:08 PM IST] render short_curse_1_short1
-04 Nov 04:10 PM IST] metadata short_curse_1
-04 Nov 04:10 PM IST] backup Short ready: Why Lord Vishnu Was Cursed To Take Human Avatars (2/2)
+04 Nov 04:13 PM IST] health ok | YouTube quota used today 798 | GitHub minutes this month 1624
+04 Nov 05:23 PM IST] pictures for short_poemreplicat_1
+04 Nov 05:29 PM IST] render short_poemreplicat_1_short1
+04 Nov 05:32 PM IST] metadata short_poemreplicat_1
+04 Nov 05:32 PM IST] short_poemreplicat_1_short1: upload waits (10 uploads done today - rest upload after the reset)
+04 Nov 05:32 PM IST] pictures for vishnu24
+04 Nov 05:32 PM IST] vishnu24: 1 Short(s) a day - the next one goes tomorrow
+04 Nov 05:32 PM IST] queue worked through
 ```
