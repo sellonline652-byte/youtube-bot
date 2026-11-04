@@ -1,10 +1,10 @@
 # 🤖 Video bot status
-_Updated 03 Nov 2026, 11:43 PM IST by the bot._
+_Updated 04 Nov 2026, 07:47 AM IST by the bot._
 
 ## Targets
 | | Now | Target |
 |---|---|---|
-| Watch hours / day (28-day avg) | 0.82 | 10.0 |
+| Watch hours / day (28-day avg) | 0.83 | 10.0 |
 | New subscribers / day | 0.07 | 3.0 |
 | Watch hours, last 12 months (4,000 for monetization) | 312.9 | 4000 |
 
@@ -42,6 +42,7 @@ short_songhymn_3, short_poemnavratri_1, vishnu24, cosmicwa08, cosmicwa09, cosmic
 - कलि का अंत 😱 महायुद्ध में टूटा कलि का अहंकार! | Kalki vs Kali Duel | Kalki Puran भाग 14 → **क्या कल्कि अवतार करेंगे कलि का सर्वनाश? महायुद्ध का सच! 😱 Kalki Puran भाग 14**
 
 ## Promotion Shorts (unlisted, for paid ads)
+- 2026-11-04: promotion for the series 'कल्कि' (Kalki Purana and Puranic belief, dra - uploads when an upload is free
 - 2026-11-03: promotion for the series 'ब्रह्मांडीय महायुद्ध: 24 अवतारों की गाथा' (श - uploads when an upload is free
 - 2026-11-02: promotion for the whole channel: the best of Sujay Ganguly Creations - - uploads when an upload is free
 - 2026-11-01: promotion for the series 'द वेल क्रैक्स: महाप्रलय' (The Veil Cracks (E - uploads when an upload is free
@@ -56,19 +57,21 @@ short_songhymn_3, short_poemnavratri_1, vishnu24, cosmicwa08, cosmicwa09, cosmic
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 1420 (public repo: no limit)
-- YouTube quota today (Pacific): 873 / 9,800
+- GitHub minutes this month: 1479 (public repo: no limit)
+- YouTube quota today (Pacific): 953 / 9,800
 
 ## This run
 ```
-03 Nov 10:38 PM IST] health ok | YouTube quota used today 812 | GitHub minutes this month 1354
-03 Nov 11:36 PM IST] pictures for short_songhymn_3
-03 Nov 11:40 PM IST] render short_songhymn_3_short1
-03 Nov 11:43 PM IST] metadata short_songhymn_3
-03 Nov 11:43 PM IST] short_songhymn_3_short1: upload waits (10 uploads done today - rest upload after the reset)
-03 Nov 11:43 PM IST] pictures for short_poemnavratri_1
-03 Nov 11:43 PM IST] pictures for vishnu24
-03 Nov 11:43 PM IST] vishnu24: 1 Short(s) a day - the next one goes tomorrow
-03 Nov 11:43 PM IST] pictures for cosmicwa08
-03 Nov 11:43 PM IST] queue worked through
+04 Nov 06:49 AM IST] health ok | YouTube quota used today 873 | GitHub minutes this month 1420
+04 Nov 07:39 AM IST] pictures for short_songhymn_3
+04 Nov 07:39 AM IST] metadata short_songhymn_3
+04 Nov 07:39 AM IST] short_songhymn_3_short1: upload waits (10 uploads done today - rest upload after the reset)
+04 Nov 07:39 AM IST] pictures for short_poemnavratri_1
+04 Nov 07:39 AM IST] pictures for vishnu24
+04 Nov 07:39 AM IST] pictures for cosmicwa08
+04 Nov 07:39 AM IST] queue worked through
+04 Nov 07:40 AM IST] pictures for short_promoavatar_1
+04 Nov 07:43 AM IST] render short_promoavatar_1_short1
+04 Nov 07:46 AM IST] metadata short_promoavatar_1
+04 Nov 07:46 AM IST] promotion Short made: promotion for the series 'कल्कि' (Kalki Purana and Puranic b - uploads when an upload is free
 ```
