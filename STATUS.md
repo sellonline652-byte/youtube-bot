@@ -1,5 +1,5 @@
 # 🤖 Video bot status
-_Updated 04 Nov 2026, 05:32 PM IST by the bot._
+_Updated 04 Nov 2026, 11:34 PM IST by the bot._
 
 ## Targets
 | | Now | Target |
@@ -19,10 +19,10 @@ _Updated 04 Nov 2026, 05:32 PM IST by the bot._
 | कलि संहार: कल्कि अवतार और महायुद्ध | hi | main | done | 5/5 | ✅ |
 | रक्तबीज बनाम महिषासुर: महाप्रलय | hi | main | done | 5/5 | ✅ |
 | द वेल क्रैक्स: महाप्रलय | hi | main | done | 5/5 | – |
-| विष्णु पुराण: कलियुग महाप्रलय | hi | main | next | 0/10 | ⏳ |
+| विष्णु पुराण: कलियुग महाप्रलय | hi | main | active | 0/10 | ⏳ |
 
 ## Queue (next to make)
-short_poemreplicat_1, vishnu24
+short_songrhapsody_1, short_poemreplicat_1, vishnu24
 
 ## Latest uploads
 - cosmicwa10_short2: https://youtu.be/PjhpvL_uGB4
@@ -57,17 +57,18 @@ short_poemreplicat_1, vishnu24
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 1705 (public repo: no limit)
-- YouTube quota today (Pacific): 859 / 9,800
+- GitHub minutes this month: 1766 (public repo: no limit)
+- YouTube quota today (Pacific): 1070 / 9,800
 
 ## This run
 ```
-04 Nov 04:13 PM IST] health ok | YouTube quota used today 798 | GitHub minutes this month 1624
-04 Nov 05:23 PM IST] pictures for short_poemreplicat_1
-04 Nov 05:29 PM IST] render short_poemreplicat_1_short1
-04 Nov 05:32 PM IST] metadata short_poemreplicat_1
-04 Nov 05:32 PM IST] short_poemreplicat_1_short1: upload waits (10 uploads done today - rest upload after the reset)
-04 Nov 05:32 PM IST] pictures for vishnu24
-04 Nov 05:32 PM IST] vishnu24: 1 Short(s) a day - the next one goes tomorrow
-04 Nov 05:32 PM IST] queue worked through
+04 Nov 10:35 PM IST] health ok | YouTube quota used today 859 | GitHub minutes this month 1705
+04 Nov 11:25 PM IST] pictures for short_songrhapsody_1
+04 Nov 11:30 PM IST] render short_songrhapsody_1_short1
+04 Nov 11:33 PM IST] metadata short_songrhapsody_1
+04 Nov 11:33 PM IST] short_songrhapsody_1_short1: upload waits (10 uploads done today - rest upload after the reset)
+04 Nov 11:33 PM IST] pictures for short_poemreplicat_1
+04 Nov 11:33 PM IST] pictures for vishnu24
+04 Nov 11:33 PM IST] vishnu24: 1 Short(s) a day - the next one goes tomorrow
+04 Nov 11:33 PM IST] queue worked through
 ```
