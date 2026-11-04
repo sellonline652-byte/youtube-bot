@@ -1,5 +1,5 @@
 # 🤖 Video bot status
-_Updated 04 Nov 2026, 07:47 AM IST by the bot._
+_Updated 04 Nov 2026, 04:10 PM IST by the bot._
 
 ## Targets
 | | Now | Target |
@@ -22,24 +22,24 @@ _Updated 04 Nov 2026, 07:47 AM IST by the bot._
 | विष्णु पुराण: कलियुग महाप्रलय | hi | main | next | 0/10 | ⏳ |
 
 ## Queue (next to make)
-short_songhymn_3, short_poemnavratri_1, vishnu24, cosmicwa08, cosmicwa09, cosmicwa10
+vishnu24
 
 ## Latest uploads
-- cosmicwa08_short1: https://youtu.be/edv-2GZIFGw
-- cosmicwa08: https://youtu.be/gW5kYmj-BWc
-- cosmicwa07_short2: https://youtu.be/bxKfcw_xZ9Y
-- cosmicwa07_short1: https://youtu.be/t4K-4c3eRMU
-- cosmicwa07: https://youtu.be/v5g4Lxp260c
-- cosmicwa06_short2: https://youtu.be/29l0Ruee55c
-- cosmicwa06_short1: https://youtu.be/Mim3cEsMhQ4
-- vishnu24_short11: https://youtu.be/la5MNX8TsLQ
+- cosmicwa10_short2: https://youtu.be/PjhpvL_uGB4
+- cosmicwa10_short1: https://youtu.be/bzZZUY6C5hg
+- cosmicwa10: https://youtu.be/gy1leibR-m8
+- cosmicwa09_short2: https://youtu.be/hhpsBC9PGPY
+- cosmicwa09_short1: https://youtu.be/AhLpxs6SRN4
+- cosmicwa09: https://youtu.be/aopyCIFJ8MM
+- cosmicwa08_short2: https://youtu.be/LbB_ACmsgwo
+- vishnu24_short12: https://youtu.be/8NNNJD5v3HA
 
 ## Titles the bot improved
-- श्मशान में उठा खून का तूफान! 😱 #shorts #horror #anime → **श्मशान में दिखे विष्णु के 24 अवतार? 😱 #shorts #kalkiavatar**
 - द वेल क्रैक्स | भाग 5: पाताल का द्वार | Indian Dark Fantasy Anime → **क्या कल्कि अवतार पाताल में हैं? द वेल क्रैक्स | भाग 5 | विष्णु के 24 अवतार 🔱**
 - कलि की बहन दुरुक्ति 😱 साध्वी बनकर आई असुरी! घर का भेदी | Kalki vs Kali | Kalki Puran भाग 8 → **साध्वी बनकर क्यों आई कलि की बहन दुरुक्ति? 😱 Kalki Avatar | Kalki Puran भाग 8**
 - कलि का असुरी परिवार 😱 ५ विकराल दुर्गुणों का तांडव! | Kalki vs Kali Vices | Kalki Puran भाग 12 → **कलि के ५ भयानक बच्चे कौन हैं? Kalki Avatar vs Kali | Kalki Puran भाग 12 😱**
 - कलि का अंत 😱 महायुद्ध में टूटा कलि का अहंकार! | Kalki vs Kali Duel | Kalki Puran भाग 14 → **क्या कल्कि अवतार करेंगे कलि का सर्वनाश? महायुद्ध का सच! 😱 Kalki Puran भाग 14**
+- महिषासुर का दैत्य भैंसा रूप देख थर्राई धरती 😱 #shorts #mythology → **महिषासुर के इस रूप से क्यों थर्राई धरती? 😱 #shorts**
 
 ## Promotion Shorts (unlisted, for paid ads)
 - 2026-11-04: promotion for the series 'कल्कि' (Kalki Purana and Puranic belief, dra - uploads when an upload is free
@@ -57,21 +57,34 @@ short_songhymn_3, short_poemnavratri_1, vishnu24, cosmicwa08, cosmicwa09, cosmic
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 1479 (public repo: no limit)
-- YouTube quota today (Pacific): 953 / 9,800
+- GitHub minutes this month: 1624 (public repo: no limit)
+- YouTube quota today (Pacific): 798 / 9,800
 
 ## This run
 ```
-04 Nov 06:49 AM IST] health ok | YouTube quota used today 873 | GitHub minutes this month 1420
-04 Nov 07:39 AM IST] pictures for short_songhymn_3
-04 Nov 07:39 AM IST] metadata short_songhymn_3
-04 Nov 07:39 AM IST] short_songhymn_3_short1: upload waits (10 uploads done today - rest upload after the reset)
-04 Nov 07:39 AM IST] pictures for short_poemnavratri_1
-04 Nov 07:39 AM IST] pictures for vishnu24
-04 Nov 07:39 AM IST] pictures for cosmicwa08
-04 Nov 07:39 AM IST] queue worked through
-04 Nov 07:40 AM IST] pictures for short_promoavatar_1
-04 Nov 07:43 AM IST] render short_promoavatar_1_short1
-04 Nov 07:46 AM IST] metadata short_promoavatar_1
-04 Nov 07:46 AM IST] promotion Short made: promotion for the series 'कल्कि' (Kalki Purana and Puranic b - uploads when an upload is free
+04 Nov 02:26 PM IST] render cosmicwa09_short1
+04 Nov 02:29 PM IST] metadata cosmicwa09
+04 Nov 02:30 PM IST] render cosmicwa09_short2
+04 Nov 02:33 PM IST] metadata cosmicwa09
+04 Nov 02:34 PM IST] cosmicwa09 complete
+04 Nov 02:34 PM IST] pictures for cosmicwa10
+04 Nov 02:35 PM IST] render cosmicwa10
+04 Nov 02:59 PM IST] cosmicwa10: the video reviewer fixed picture 'kalki_sword_raise' made again; face in 'earth_mother_healed' stays still - rendering once more
+04 Nov 02:59 PM IST] pictures for cosmicwa10
+04 Nov 02:59 PM IST] render cosmicwa10
+04 Nov 03:16 PM IST] metadata cosmicwa10
+04 Nov 03:17 PM IST] render cosmicwa10_short1
+04 Nov 03:19 PM IST] metadata cosmicwa10
+04 Nov 03:21 PM IST] render cosmicwa10_short2
+04 Nov 03:23 PM IST] metadata cosmicwa10
+04 Nov 03:23 PM IST] cosmicwa10 complete
+04 Nov 03:23 PM IST] queue worked through
+04 Nov 03:56 PM IST] pictures for short_dharma_1
+04 Nov 04:00 PM IST] render short_dharma_1_short1
+04 Nov 04:01 PM IST] metadata short_dharma_1
+04 Nov 04:01 PM IST] backup Short ready: Why Lord Shiva Gave Kalki Avatar The Divine Sword (1/2)
+04 Nov 04:04 PM IST] pictures for short_curse_1
+04 Nov 04:08 PM IST] render short_curse_1_short1
+04 Nov 04:10 PM IST] metadata short_curse_1
+04 Nov 04:10 PM IST] backup Short ready: Why Lord Vishnu Was Cursed To Take Human Avatars (2/2)
 ```
