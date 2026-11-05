@@ -1,5 +1,5 @@
 # 🤖 Video bot status
-_Updated 05 Nov 2026, 07:39 PM IST by the bot._
+_Updated 05 Nov 2026, 11:47 PM IST by the bot._
 
 ## Targets
 | | Now | Target |
@@ -23,7 +23,7 @@ _Updated 05 Nov 2026, 07:39 PM IST by the bot._
 | विष्णु पुराण: कलियुग महाप्रलय | hi | main | active | 3/10 | ⏳ |
 
 ## Queue (next to make)
-short_poemavatar_1, vishnu24, vishnupu02, vishnupu03
+short_songbhajan_6, short_poemavatar_1, vishnu24, vishnupu02, vishnupu03
 
 ## Latest uploads
 - short_promocatacly_1_short1: https://youtu.be/CsZy1-o466U
@@ -59,25 +59,20 @@ short_poemavatar_1, vishnu24, vishnupu02, vishnupu03
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 2191 (public repo: no limit)
-- YouTube quota today (Pacific): 908 / 9,800
+- GitHub minutes this month: 2243 (public repo: no limit)
+- YouTube quota today (Pacific): 920 / 9,800
 
 ## This run
 ```
-05 Nov 05:34 PM IST] health ok | YouTube quota used today 695 | GitHub minutes this month 2065
-05 Nov 06:20 PM IST] pictures for short_poemavatar_1
-05 Nov 06:23 PM IST] render short_poemavatar_1_short1
-05 Nov 06:27 PM IST] metadata short_poemavatar_1
-05 Nov 06:27 PM IST] short_poemavatar_1_short1: upload waits (10 uploads done today - rest upload after the reset)
-05 Nov 06:27 PM IST] pictures for vishnu24
-05 Nov 06:27 PM IST] vishnu24: 1 Short(s) a day - the next one goes tomorrow
-05 Nov 06:27 PM IST] pictures for vishnupu02
-05 Nov 06:27 PM IST] render vishnupu02
-05 Nov 06:59 PM IST] vishnupu02: the video reviewer fixed picture 'gold_worship_altar' made again; face in 'tax_collector_cruelty' stays still; picture 'truth_speaker_jailed' made again - rendering once more
-05 Nov 06:59 PM IST] pictures for vishnupu02
-05 Nov 06:59 PM IST] render vishnupu02
-05 Nov 07:29 PM IST] metadata vishnupu02
-05 Nov 07:29 PM IST] render vishnupu02_short1
-05 Nov 07:35 PM IST] render vishnupu02_short2
-05 Nov 07:38 PM IST] queue worked through
+05 Nov 10:56 PM IST] health ok | YouTube quota used today 908 | GitHub minutes this month 2191
+05 Nov 11:38 PM IST] pictures for short_songbhajan_6
+05 Nov 11:43 PM IST] render short_songbhajan_6_short1
+05 Nov 11:46 PM IST] metadata short_songbhajan_6
+05 Nov 11:46 PM IST] short_songbhajan_6_short1: upload waits (10 uploads done today - rest upload after the reset)
+05 Nov 11:46 PM IST] pictures for short_poemavatar_1
+05 Nov 11:46 PM IST] pictures for vishnu24
+05 Nov 11:46 PM IST] vishnu24: 1 Short(s) a day - the next one goes tomorrow
+05 Nov 11:46 PM IST] pictures for vishnupu02
+05 Nov 11:46 PM IST] metadata vishnupu02
+05 Nov 11:46 PM IST] queue worked through
 ```
