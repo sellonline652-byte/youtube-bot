@@ -1,12 +1,12 @@
 # 🤖 Video bot status
-_Updated 04 Nov 2026, 11:34 PM IST by the bot._
+_Updated 05 Nov 2026, 08:04 AM IST by the bot._
 
 ## Targets
 | | Now | Target |
 |---|---|---|
-| Watch hours / day (28-day avg) | 0.83 | 10.0 |
+| Watch hours / day (28-day avg) | 0.85 | 10.0 |
 | New subscribers / day | 0.07 | 3.0 |
-| Watch hours, last 12 months (4,000 for monetization) | 312.9 | 4000 |
+| Watch hours, last 12 months (4,000 for monetization) | 313.0 | 4000 |
 
 ## Series
 | Series | Language | Channel | Status | Written | Movie |
@@ -57,18 +57,17 @@ short_songrhapsody_1, short_poemreplicat_1, vishnu24
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 1766 (public repo: no limit)
-- YouTube quota today (Pacific): 1070 / 9,800
+- GitHub minutes this month: 1839 (public repo: no limit)
+- YouTube quota today (Pacific): 1100 / 9,800
 
 ## This run
 ```
-04 Nov 10:35 PM IST] health ok | YouTube quota used today 859 | GitHub minutes this month 1705
-04 Nov 11:25 PM IST] pictures for short_songrhapsody_1
-04 Nov 11:30 PM IST] render short_songrhapsody_1_short1
-04 Nov 11:33 PM IST] metadata short_songrhapsody_1
-04 Nov 11:33 PM IST] short_songrhapsody_1_short1: upload waits (10 uploads done today - rest upload after the reset)
-04 Nov 11:33 PM IST] pictures for short_poemreplicat_1
-04 Nov 11:33 PM IST] pictures for vishnu24
-04 Nov 11:33 PM IST] vishnu24: 1 Short(s) a day - the next one goes tomorrow
-04 Nov 11:33 PM IST] queue worked through
+05 Nov 06:53 AM IST] health ok | YouTube quota used today 1070 | GitHub minutes this month 1766
+05 Nov 08:03 AM IST] pictures for short_songrhapsody_1
+05 Nov 08:03 AM IST] metadata short_songrhapsody_1
+05 Nov 08:03 AM IST] short_songrhapsody_1_short1: upload waits (10 uploads done today - rest upload after the reset)
+05 Nov 08:03 AM IST] pictures for short_poemreplicat_1
+05 Nov 08:03 AM IST] pictures for vishnu24
+05 Nov 08:03 AM IST] queue worked through
+05 Nov 08:03 AM IST] promotion Short: waiting for Gemini's free limit (gemini-3.6-flash: 429 GenerateRequestsPerDayPerProjectPerModel-FreeTier (retry in 19585s) | gemini-3)
 ```
