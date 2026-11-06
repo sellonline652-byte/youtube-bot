@@ -1,5 +1,5 @@
 # 🤖 Video bot status
-_Updated 06 Nov 2026, 08:22 PM IST by the bot._
+_Updated 06 Nov 2026, 11:25 PM IST by the bot._
 
 ## Targets
 | | Now | Target |
@@ -23,7 +23,7 @@ _Updated 06 Nov 2026, 08:22 PM IST by the bot._
 | विष्णु पुराण: कलियुग महाप्रलय | hi | main | active | 4/10 | ⏳ |
 
 ## Queue (next to make)
-short_poemblindfol_1, vishnu24, vishnupu04
+short_songbhajan_7, short_poemblindfol_1, vishnu24, vishnupu04
 
 ## Latest uploads
 - vishnupu04: https://youtu.be/uLfOTTL2XiI
@@ -59,24 +59,19 @@ short_poemblindfol_1, vishnu24, vishnupu04
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 2695 (public repo: no limit)
-- YouTube quota today (Pacific): 964 / 9,800
+- GitHub minutes this month: 2750 (public repo: no limit)
+- YouTube quota today (Pacific): 1126 / 9,800
 
 ## This run
 ```
-06 Nov 06:16 PM IST] health ok | YouTube quota used today 902 | GitHub minutes this month 2561
-06 Nov 06:57 PM IST] pictures for short_poemblindfol_1
-06 Nov 07:03 PM IST] render short_poemblindfol_1_short1
-06 Nov 07:06 PM IST] metadata short_poemblindfol_1
-06 Nov 07:06 PM IST] short_poemblindfol_1_short1: upload waits (10 uploads done today - rest upload after the reset)
-06 Nov 07:06 PM IST] pictures for vishnu24
-06 Nov 07:06 PM IST] vishnu24: 1 Short(s) a day - the next one goes tomorrow
-06 Nov 07:06 PM IST] pictures for vishnupu04
-06 Nov 07:06 PM IST] pictures for narasimh02
-06 Nov 07:07 PM IST] render narasimh02
-06 Nov 07:34 PM IST] narasimh02: the video reviewer fixed picture 'prahlad_touching_feet' made again; picture 'narasimha_hand_blessing' made again - rendering once more
-06 Nov 07:34 PM IST] pictures for narasimh02
-06 Nov 07:35 PM IST] render narasimh02
-06 Nov 07:57 PM IST] narasimh02 complete
-06 Nov 07:57 PM IST] queue worked through
+06 Nov 10:32 PM IST] health ok | YouTube quota used today 964 | GitHub minutes this month 2695
+06 Nov 11:16 PM IST] pictures for short_songbhajan_7
+06 Nov 11:20 PM IST] render short_songbhajan_7_short1
+06 Nov 11:24 PM IST] metadata short_songbhajan_7
+06 Nov 11:24 PM IST] short_songbhajan_7_short1: upload waits (10 uploads done today - rest upload after the reset)
+06 Nov 11:24 PM IST] pictures for short_poemblindfol_1
+06 Nov 11:24 PM IST] pictures for vishnu24
+06 Nov 11:24 PM IST] vishnu24: 1 Short(s) a day - the next one goes tomorrow
+06 Nov 11:24 PM IST] pictures for vishnupu04
+06 Nov 11:24 PM IST] queue worked through
 ```
