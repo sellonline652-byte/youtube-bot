@@ -1,12 +1,12 @@
 # 🤖 Video bot status
-_Updated 05 Nov 2026, 11:47 PM IST by the bot._
+_Updated 06 Nov 2026, 07:42 AM IST by the bot._
 
 ## Targets
 | | Now | Target |
 |---|---|---|
-| Watch hours / day (28-day avg) | 0.85 | 10.0 |
+| Watch hours / day (28-day avg) | 0.86 | 10.0 |
 | New subscribers / day | 0.07 | 3.0 |
-| Watch hours, last 12 months (4,000 for monetization) | 313.0 | 4000 |
+| Watch hours, last 12 months (4,000 for monetization) | 313.4 | 4000 |
 
 ## Series
 | Series | Language | Channel | Status | Written | Movie |
@@ -36,11 +36,11 @@ short_songbhajan_6, short_poemavatar_1, vishnu24, vishnupu02, vishnupu03
 - vishnu24_short13: https://youtu.be/STUTQ4BbrPA
 
 ## Titles the bot improved
-- कलि की बहन दुरुक्ति 😱 साध्वी बनकर आई असुरी! घर का भेदी | Kalki vs Kali | Kalki Puran भाग 8 → **साध्वी बनकर क्यों आई कलि की बहन दुरुक्ति? 😱 Kalki Avatar | Kalki Puran भाग 8**
 - कलि का असुरी परिवार 😱 ५ विकराल दुर्गुणों का तांडव! | Kalki vs Kali Vices | Kalki Puran भाग 12 → **कलि के ५ भयानक बच्चे कौन हैं? Kalki Avatar vs Kali | Kalki Puran भाग 12 😱**
 - कलि का अंत 😱 महायुद्ध में टूटा कलि का अहंकार! | Kalki vs Kali Duel | Kalki Puran भाग 14 → **क्या कल्कि अवतार करेंगे कलि का सर्वनाश? महायुद्ध का सच! 😱 Kalki Puran भाग 14**
 - महिषासुर का दैत्य भैंसा रूप देख थर्राई धरती 😱 #shorts #mythology → **महिषासुर के इस रूप से क्यों थर्राई धरती? 😱 #shorts**
 - Printable Planners, AI Prompts & Kids Activities PDF #shorts → **Who is the Kalki Avatar? Bhagwan Vishnu ke 24 Avatar activities 🕉️ #shorts**
+- भगवान विष्णु का वराह अवतार: पाताल से पृथ्वी का उद्धार 💥 Hiranyaksha Vadh | भाग 2 | Kalki Avatar → **वराह अवतार ने पृथ्वी को कैसे बचाया? भगवान विष्णु के 24 अवतार | भाग 2 | Kalki Avatar 🐗**
 
 ## Promotion Shorts (unlisted, for paid ads)
 - 2026-11-05: promotion for the series 'कल्कि' (Kalki Purana and Puranic belief, dra - uploads when an upload is free
@@ -59,20 +59,19 @@ short_songbhajan_6, short_poemavatar_1, vishnu24, vishnupu02, vishnupu03
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 2243 (public repo: no limit)
-- YouTube quota today (Pacific): 920 / 9,800
+- GitHub minutes this month: 2291 (public repo: no limit)
+- YouTube quota today (Pacific): 1052 / 9,800
 
 ## This run
 ```
-05 Nov 10:56 PM IST] health ok | YouTube quota used today 908 | GitHub minutes this month 2191
-05 Nov 11:38 PM IST] pictures for short_songbhajan_6
-05 Nov 11:43 PM IST] render short_songbhajan_6_short1
-05 Nov 11:46 PM IST] metadata short_songbhajan_6
-05 Nov 11:46 PM IST] short_songbhajan_6_short1: upload waits (10 uploads done today - rest upload after the reset)
-05 Nov 11:46 PM IST] pictures for short_poemavatar_1
-05 Nov 11:46 PM IST] pictures for vishnu24
-05 Nov 11:46 PM IST] vishnu24: 1 Short(s) a day - the next one goes tomorrow
-05 Nov 11:46 PM IST] pictures for vishnupu02
-05 Nov 11:46 PM IST] metadata vishnupu02
-05 Nov 11:46 PM IST] queue worked through
+06 Nov 06:55 AM IST] health ok | YouTube quota used today 920 | GitHub minutes this month 2243
+06 Nov 07:34 AM IST] pictures for short_songbhajan_6
+06 Nov 07:34 AM IST] metadata short_songbhajan_6
+06 Nov 07:34 AM IST] short_songbhajan_6_short1: upload waits (10 uploads done today - rest upload after the reset)
+06 Nov 07:34 AM IST] pictures for short_poemavatar_1
+06 Nov 07:34 AM IST] pictures for vishnu24
+06 Nov 07:34 AM IST] pictures for vishnupu02
+06 Nov 07:34 AM IST] metadata vishnupu02
+06 Nov 07:34 AM IST] queue worked through
+06 Nov 07:35 AM IST] promotion Short: waiting for Gemini's free limit (gemini-3.6-flash: 429 GenerateRequestsPerDayPerProjectPerModel-FreeTier (retry in 21278s) | gemini-3)
 ```
