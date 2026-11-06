@@ -1,5 +1,5 @@
 # 🤖 Video bot status
-_Updated 06 Nov 2026, 06:14 PM IST by the bot._
+_Updated 06 Nov 2026, 08:22 PM IST by the bot._
 
 ## Targets
 | | Now | Target |
@@ -17,13 +17,13 @@ _Updated 06 Nov 2026, 06:14 PM IST by the bot._
 | I Regressed 30 Days Before the Glitch Apocalypse | en | main | done | 10/10 | ✅ |
 | कल्कि | hi | main | done | 15/15 | ✅ |
 | कलि संहार: कल्कि अवतार और महायुद्ध | hi | main | done | 5/5 | ✅ |
-| श्री नृसिंह कवच: उत्पत्ति, रहस्य और संपूर्ण अर्थ | hi | main | active | 1/2 | ⏳ |
+| श्री नृसिंह कवच: उत्पत्ति, रहस्य और संपूर्ण अर्थ | hi | main | done | 2/2 | ⏳ |
 | रक्तबीज बनाम महिषासुर: महाप्रलय | hi | main | done | 5/5 | ✅ |
 | द वेल क्रैक्स: महाप्रलय | hi | main | done | 5/5 | – |
 | विष्णु पुराण: कलियुग महाप्रलय | hi | main | active | 4/10 | ⏳ |
 
 ## Queue (next to make)
-vishnu24, vishnupu04
+short_poemblindfol_1, vishnu24, vishnupu04
 
 ## Latest uploads
 - vishnupu04: https://youtu.be/uLfOTTL2XiI
@@ -59,34 +59,24 @@ vishnu24, vishnupu04
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 2561 (public repo: no limit)
-- YouTube quota today (Pacific): 902 / 9,800
+- GitHub minutes this month: 2695 (public repo: no limit)
+- YouTube quota today (Pacific): 964 / 9,800
 
 ## This run
 ```
-06 Nov 02:24 PM IST] vishnupu02 complete
-06 Nov 02:24 PM IST] pictures for vishnupu03
-06 Nov 02:25 PM IST] render vishnupu03
-06 Nov 02:51 PM IST] metadata vishnupu03
-06 Nov 02:54 PM IST] render vishnupu03_short1
-06 Nov 02:56 PM IST] metadata vishnupu03
-06 Nov 02:57 PM IST] render vishnupu03_short2
-06 Nov 03:00 PM IST] metadata vishnupu03
-06 Nov 03:00 PM IST] vishnupu03 complete
-06 Nov 03:00 PM IST] pictures for vishnupu04
-06 Nov 03:19 PM IST] render vishnupu04
-06 Nov 03:51 PM IST] metadata vishnupu04
-06 Nov 03:53 PM IST] render vishnupu04_short1
-06 Nov 03:56 PM IST] metadata vishnupu04
-06 Nov 03:56 PM IST] YouTube quota used up (10 uploads done today - rest upload after the reset) - rendering continues, uploads next run
-06 Nov 03:56 PM IST] render vishnupu04_short2
-06 Nov 04:00 PM IST] pictures for narasimh01
-06 Nov 04:03 PM IST] render narasimh01
-06 Nov 04:30 PM IST] render narasimh01_short1
-06 Nov 04:34 PM IST] narasimh01 complete
-06 Nov 04:34 PM IST] queue worked through
-06 Nov 05:32 PM IST] pictures for short_promopromo_3
-06 Nov 05:36 PM IST] render short_promopromo_3_short1
-06 Nov 05:38 PM IST] metadata short_promopromo_3
-06 Nov 05:38 PM IST] promotion Short made: promotion for the series 'द वेल क्रैक्स: महाप्रलय' (The Veil - uploads when an upload is free
+06 Nov 06:16 PM IST] health ok | YouTube quota used today 902 | GitHub minutes this month 2561
+06 Nov 06:57 PM IST] pictures for short_poemblindfol_1
+06 Nov 07:03 PM IST] render short_poemblindfol_1_short1
+06 Nov 07:06 PM IST] metadata short_poemblindfol_1
+06 Nov 07:06 PM IST] short_poemblindfol_1_short1: upload waits (10 uploads done today - rest upload after the reset)
+06 Nov 07:06 PM IST] pictures for vishnu24
+06 Nov 07:06 PM IST] vishnu24: 1 Short(s) a day - the next one goes tomorrow
+06 Nov 07:06 PM IST] pictures for vishnupu04
+06 Nov 07:06 PM IST] pictures for narasimh02
+06 Nov 07:07 PM IST] render narasimh02
+06 Nov 07:34 PM IST] narasimh02: the video reviewer fixed picture 'prahlad_touching_feet' made again; picture 'narasimha_hand_blessing' made again - rendering once more
+06 Nov 07:34 PM IST] pictures for narasimh02
+06 Nov 07:35 PM IST] render narasimh02
+06 Nov 07:57 PM IST] narasimh02 complete
+06 Nov 07:57 PM IST] queue worked through
 ```
