@@ -1,5 +1,5 @@
 # 🤖 Video bot status
-_Updated 06 Nov 2026, 07:42 AM IST by the bot._
+_Updated 06 Nov 2026, 06:14 PM IST by the bot._
 
 ## Targets
 | | Now | Target |
@@ -17,23 +17,23 @@ _Updated 06 Nov 2026, 07:42 AM IST by the bot._
 | I Regressed 30 Days Before the Glitch Apocalypse | en | main | done | 10/10 | ✅ |
 | कल्कि | hi | main | done | 15/15 | ✅ |
 | कलि संहार: कल्कि अवतार और महायुद्ध | hi | main | done | 5/5 | ✅ |
-| श्री नृसिंह कवच: उत्पत्ति, रहस्य और संपूर्ण अर्थ | hi | main | active | 0/2 | ⏳ |
+| श्री नृसिंह कवच: उत्पत्ति, रहस्य और संपूर्ण अर्थ | hi | main | active | 1/2 | ⏳ |
 | रक्तबीज बनाम महिषासुर: महाप्रलय | hi | main | done | 5/5 | ✅ |
 | द वेल क्रैक्स: महाप्रलय | hi | main | done | 5/5 | – |
-| विष्णु पुराण: कलियुग महाप्रलय | hi | main | active | 3/10 | ⏳ |
+| विष्णु पुराण: कलियुग महाप्रलय | hi | main | active | 4/10 | ⏳ |
 
 ## Queue (next to make)
-short_songbhajan_6, short_poemavatar_1, vishnu24, vishnupu02, vishnupu03
+vishnu24, vishnupu04
 
 ## Latest uploads
-- short_promocatacly_1_short1: https://youtu.be/CsZy1-o466U
-- prodday261105_short1: https://youtu.be/--AMfonECT8
-- chinnama02_short1: https://youtu.be/W3DAJB9XyL0
-- chinnama_movie: https://youtu.be/iKwD0g3SRzs
-- vishnupu01_short2: https://youtu.be/ILeuZlO4xfY
-- vishnupu01_short1: https://youtu.be/nkapc6wWHdE
-- vishnupu01: https://youtu.be/SIaSy0XUxKk
-- vishnu24_short13: https://youtu.be/STUTQ4BbrPA
+- vishnupu04: https://youtu.be/uLfOTTL2XiI
+- vishnupu03_short2: https://youtu.be/CMdmv6kLzjE
+- vishnupu03_short1: https://youtu.be/les-vwJT3k4
+- vishnupu03: https://youtu.be/IDz6xXcy7bc
+- vishnupu02_short2: https://youtu.be/6OcLdAUlnco
+- vishnupu02_short1: https://youtu.be/A5fPh94M1Cg
+- vishnupu02: https://youtu.be/HHX2rbFMot0
+- vishnu24_short14: https://youtu.be/eniA-tewf9A
 
 ## Titles the bot improved
 - कलि का असुरी परिवार 😱 ५ विकराल दुर्गुणों का तांडव! | Kalki vs Kali Vices | Kalki Puran भाग 12 → **कलि के ५ भयानक बच्चे कौन हैं? Kalki Avatar vs Kali | Kalki Puran भाग 12 😱**
@@ -43,13 +43,13 @@ short_songbhajan_6, short_poemavatar_1, vishnu24, vishnupu02, vishnupu03
 - भगवान विष्णु का वराह अवतार: पाताल से पृथ्वी का उद्धार 💥 Hiranyaksha Vadh | भाग 2 | Kalki Avatar → **वराह अवतार ने पृथ्वी को कैसे बचाया? भगवान विष्णु के 24 अवतार | भाग 2 | Kalki Avatar 🐗**
 
 ## Promotion Shorts (unlisted, for paid ads)
+- 2026-11-06: promotion for the series 'द वेल क्रैक्स: महाप्रलय' (The Veil Cracks (E - uploads when an upload is free
 - 2026-11-05: promotion for the series 'कल्कि' (Kalki Purana and Puranic belief, dra - uploads when an upload is free
 - 2026-11-04: promotion for the series 'कल्कि' (Kalki Purana and Puranic belief, dra - uploads when an upload is free
 - 2026-11-03: promotion for the series 'ब्रह्मांडीय महायुद्ध: 24 अवतारों की गाथा' (श - uploads when an upload is free
 - 2026-11-02: promotion for the whole channel: the best of Sujay Ganguly Creations - - uploads when an upload is free
 - 2026-11-01: promotion for the series 'द वेल क्रैक्स: महाप्रलय' (The Veil Cracks (E - https://youtu.be/CsZy1-o466U
 - 2026-10-26: promotion for the series 'द वेल क्रैक्स: महाप्रलय' (The Veil Cracks (E - https://youtu.be/1XSYpJkGnh4
-- 2026-10-25: promotion for the series 'कल्कि' (Kalki Purana and Puranic belief, dra - https://youtu.be/zNXQ49V7FD4
 
 ## Sponsorship outreach (weekly)
 - 2026-10-26: 1 new companies stored (not emailed - growing first), 1 stored in total
@@ -59,19 +59,34 @@ short_songbhajan_6, short_poemavatar_1, vishnu24, vishnupu02, vishnupu03
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 2291 (public repo: no limit)
-- YouTube quota today (Pacific): 1052 / 9,800
+- GitHub minutes this month: 2561 (public repo: no limit)
+- YouTube quota today (Pacific): 902 / 9,800
 
 ## This run
 ```
-06 Nov 06:55 AM IST] health ok | YouTube quota used today 920 | GitHub minutes this month 2243
-06 Nov 07:34 AM IST] pictures for short_songbhajan_6
-06 Nov 07:34 AM IST] metadata short_songbhajan_6
-06 Nov 07:34 AM IST] short_songbhajan_6_short1: upload waits (10 uploads done today - rest upload after the reset)
-06 Nov 07:34 AM IST] pictures for short_poemavatar_1
-06 Nov 07:34 AM IST] pictures for vishnu24
-06 Nov 07:34 AM IST] pictures for vishnupu02
-06 Nov 07:34 AM IST] metadata vishnupu02
-06 Nov 07:34 AM IST] queue worked through
-06 Nov 07:35 AM IST] promotion Short: waiting for Gemini's free limit (gemini-3.6-flash: 429 GenerateRequestsPerDayPerProjectPerModel-FreeTier (retry in 21278s) | gemini-3)
+06 Nov 02:24 PM IST] vishnupu02 complete
+06 Nov 02:24 PM IST] pictures for vishnupu03
+06 Nov 02:25 PM IST] render vishnupu03
+06 Nov 02:51 PM IST] metadata vishnupu03
+06 Nov 02:54 PM IST] render vishnupu03_short1
+06 Nov 02:56 PM IST] metadata vishnupu03
+06 Nov 02:57 PM IST] render vishnupu03_short2
+06 Nov 03:00 PM IST] metadata vishnupu03
+06 Nov 03:00 PM IST] vishnupu03 complete
+06 Nov 03:00 PM IST] pictures for vishnupu04
+06 Nov 03:19 PM IST] render vishnupu04
+06 Nov 03:51 PM IST] metadata vishnupu04
+06 Nov 03:53 PM IST] render vishnupu04_short1
+06 Nov 03:56 PM IST] metadata vishnupu04
+06 Nov 03:56 PM IST] YouTube quota used up (10 uploads done today - rest upload after the reset) - rendering continues, uploads next run
+06 Nov 03:56 PM IST] render vishnupu04_short2
+06 Nov 04:00 PM IST] pictures for narasimh01
+06 Nov 04:03 PM IST] render narasimh01
+06 Nov 04:30 PM IST] render narasimh01_short1
+06 Nov 04:34 PM IST] narasimh01 complete
+06 Nov 04:34 PM IST] queue worked through
+06 Nov 05:32 PM IST] pictures for short_promopromo_3
+06 Nov 05:36 PM IST] render short_promopromo_3_short1
+06 Nov 05:38 PM IST] metadata short_promopromo_3
+06 Nov 05:38 PM IST] promotion Short made: promotion for the series 'द वेल क्रैक्स: महाप्रलय' (The Veil - uploads when an upload is free
 ```
