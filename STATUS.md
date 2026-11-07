@@ -1,12 +1,12 @@
 # 🤖 Video bot status
-_Updated 06 Nov 2026, 11:25 PM IST by the bot._
+_Updated 07 Nov 2026, 07:51 AM IST by the bot._
 
 ## Targets
 | | Now | Target |
 |---|---|---|
-| Watch hours / day (28-day avg) | 0.86 | 10.0 |
-| New subscribers / day | 0.07 | 3.0 |
-| Watch hours, last 12 months (4,000 for monetization) | 313.4 | 4000 |
+| Watch hours / day (28-day avg) | 0.94 | 10.0 |
+| New subscribers / day | 0.04 | 3.0 |
+| Watch hours, last 12 months (4,000 for monetization) | 315.2 | 4000 |
 
 ## Series
 | Series | Language | Channel | Status | Written | Movie |
@@ -23,7 +23,7 @@ _Updated 06 Nov 2026, 11:25 PM IST by the bot._
 | विष्णु पुराण: कलियुग महाप्रलय | hi | main | active | 4/10 | ⏳ |
 
 ## Queue (next to make)
-short_songbhajan_7, short_poemblindfol_1, vishnu24, vishnupu04
+short_shadowhunt_1, short_songbhajan_7, short_poemblindfol_1, vishnu24, vishnupu04
 
 ## Latest uploads
 - vishnupu04: https://youtu.be/uLfOTTL2XiI
@@ -36,11 +36,11 @@ short_songbhajan_7, short_poemblindfol_1, vishnu24, vishnupu04
 - vishnu24_short14: https://youtu.be/eniA-tewf9A
 
 ## Titles the bot improved
-- कलि का असुरी परिवार 😱 ५ विकराल दुर्गुणों का तांडव! | Kalki vs Kali Vices | Kalki Puran भाग 12 → **कलि के ५ भयानक बच्चे कौन हैं? Kalki Avatar vs Kali | Kalki Puran भाग 12 😱**
 - कलि का अंत 😱 महायुद्ध में टूटा कलि का अहंकार! | Kalki vs Kali Duel | Kalki Puran भाग 14 → **क्या कल्कि अवतार करेंगे कलि का सर्वनाश? महायुद्ध का सच! 😱 Kalki Puran भाग 14**
 - महिषासुर का दैत्य भैंसा रूप देख थर्राई धरती 😱 #shorts #mythology → **महिषासुर के इस रूप से क्यों थर्राई धरती? 😱 #shorts**
 - Printable Planners, AI Prompts & Kids Activities PDF #shorts → **Who is the Kalki Avatar? Bhagwan Vishnu ke 24 Avatar activities 🕉️ #shorts**
 - भगवान विष्णु का वराह अवतार: पाताल से पृथ्वी का उद्धार 💥 Hiranyaksha Vadh | भाग 2 | Kalki Avatar → **वराह अवतार ने पृथ्वी को कैसे बचाया? भगवान विष्णु के 24 अवतार | भाग 2 | Kalki Avatar 🐗**
+- रामायण का सबसे महान और मौन त्याग: उर्मिला 💔 #shorts #ramayan #history → **उर्मिला ने 14 साल तक क्यों किया यह महान त्याग? 🙏 #shorts #ramayan #history**
 
 ## Promotion Shorts (unlisted, for paid ads)
 - 2026-11-06: promotion for the series 'द वेल क्रैक्स: महाप्रलय' (The Veil Cracks (E - uploads when an upload is free
@@ -59,19 +59,21 @@ short_songbhajan_7, short_poemblindfol_1, vishnu24, vishnupu04
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 2750 (public repo: no limit)
-- YouTube quota today (Pacific): 1126 / 9,800
+- GitHub minutes this month: 2820 (public repo: no limit)
+- YouTube quota today (Pacific): 1260 / 9,800
 
 ## This run
 ```
-06 Nov 10:32 PM IST] health ok | YouTube quota used today 964 | GitHub minutes this month 2695
-06 Nov 11:16 PM IST] pictures for short_songbhajan_7
-06 Nov 11:20 PM IST] render short_songbhajan_7_short1
-06 Nov 11:24 PM IST] metadata short_songbhajan_7
-06 Nov 11:24 PM IST] short_songbhajan_7_short1: upload waits (10 uploads done today - rest upload after the reset)
-06 Nov 11:24 PM IST] pictures for short_poemblindfol_1
-06 Nov 11:24 PM IST] pictures for vishnu24
-06 Nov 11:24 PM IST] vishnu24: 1 Short(s) a day - the next one goes tomorrow
-06 Nov 11:24 PM IST] pictures for vishnupu04
-06 Nov 11:24 PM IST] queue worked through
+07 Nov 06:45 AM IST] health ok | YouTube quota used today 1126 | GitHub minutes this month 2750
+07 Nov 07:26 AM IST] email requests problem (the run continues): abort: command: STORE => socket error: EOF
+07 Nov 07:41 AM IST] pictures for short_shadowhunt_1
+07 Nov 07:45 AM IST] render short_shadowhunt_1_short1
+07 Nov 07:47 AM IST] metadata short_shadowhunt_1
+07 Nov 07:47 AM IST] short_shadowhunt_1_short1: upload waits (10 uploads done today - rest upload after the reset)
+07 Nov 07:47 AM IST] pictures for short_songbhajan_7
+07 Nov 07:47 AM IST] pictures for short_poemblindfol_1
+07 Nov 07:47 AM IST] pictures for vishnu24
+07 Nov 07:47 AM IST] pictures for vishnupu04
+07 Nov 07:47 AM IST] queue worked through
+07 Nov 07:48 AM IST] promotion Short: waiting for Gemini's free limit (gemini-3.7-flash: 429 GenerateRequestsPerDayPerProjectPerModel-FreeTier (retry in 20478s) | gemini-3)
 ```
