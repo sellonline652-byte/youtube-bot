@@ -1,5 +1,5 @@
 # 🤖 Video bot status
-_Updated 07 Nov 2026, 07:51 AM IST by the bot._
+_Updated 07 Nov 2026, 08:54 AM IST by the bot._
 
 ## Targets
 | | Now | Target |
@@ -59,21 +59,22 @@ short_shadowhunt_1, short_songbhajan_7, short_poemblindfol_1, vishnu24, vishnupu
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 2820 (public repo: no limit)
-- YouTube quota today (Pacific): 1260 / 9,800
+- GitHub minutes this month: 2885 (public repo: no limit)
+- YouTube quota today (Pacific): 1272 / 9,800
 
 ## This run
 ```
-07 Nov 06:45 AM IST] health ok | YouTube quota used today 1126 | GitHub minutes this month 2750
-07 Nov 07:26 AM IST] email requests problem (the run continues): abort: command: STORE => socket error: EOF
-07 Nov 07:41 AM IST] pictures for short_shadowhunt_1
-07 Nov 07:45 AM IST] render short_shadowhunt_1_short1
-07 Nov 07:47 AM IST] metadata short_shadowhunt_1
-07 Nov 07:47 AM IST] short_shadowhunt_1_short1: upload waits (10 uploads done today - rest upload after the reset)
-07 Nov 07:47 AM IST] pictures for short_songbhajan_7
-07 Nov 07:47 AM IST] pictures for short_poemblindfol_1
-07 Nov 07:47 AM IST] pictures for vishnu24
-07 Nov 07:47 AM IST] pictures for vishnupu04
-07 Nov 07:47 AM IST] queue worked through
-07 Nov 07:48 AM IST] promotion Short: waiting for Gemini's free limit (gemini-3.7-flash: 429 GenerateRequestsPerDayPerProjectPerModel-FreeTier (retry in 20478s) | gemini-3)
+07 Nov 07:53 AM IST] health ok | YouTube quota used today 1260 | GitHub minutes this month 2820
+07 Nov 08:34 AM IST] email requests problem (the run continues): abort: socket error: EOF occurred in violation of protocol (_ssl.c:2428)
+07 Nov 08:47 AM IST] writer: waiting for Gemini's free limit (gemini-3.7-flash: 429 GenerateRequestsPerDayPerProjectPerModel-FreeTier (retry in 17144s) | gemini-3)
+07 Nov 08:47 AM IST] pictures for short_shadowhunt_1
+07 Nov 08:47 AM IST] metadata short_shadowhunt_1
+07 Nov 08:47 AM IST] short_shadowhunt_1_short1: upload waits (10 uploads done today - rest upload after the reset)
+07 Nov 08:47 AM IST] pictures for short_songbhajan_7
+07 Nov 08:47 AM IST] pictures for short_poemblindfol_1
+07 Nov 08:47 AM IST] pictures for vishnu24
+07 Nov 08:47 AM IST] pictures for vishnupu04
+07 Nov 08:47 AM IST] queue worked through
+07 Nov 08:47 AM IST] promotion Short: waiting for Gemini's free limit (gemini-3.7-flash: 429 GenerateRequestsPerDayPerProjectPerModel-FreeTier (retry in 16943s) | gemini-3)
+watchdog: stuck for 3 runs - self-repair started
 ```
