@@ -1,5 +1,5 @@
 # 🤖 Video bot status
-_Updated 07 Nov 2026, 03:46 PM IST by the bot._
+_Updated 07 Nov 2026, 05:02 PM IST by the bot._
 
 ## Targets
 | | Now | Target |
@@ -19,11 +19,12 @@ _Updated 07 Nov 2026, 03:46 PM IST by the bot._
 | कलि संहार: कल्कि अवतार और महायुद्ध | hi | main | done | 5/5 | ✅ |
 | श्री नृसिंह कवच: उत्पत्ति, रहस्य और संपूर्ण अर्थ | hi | main | done | 2/2 | ✅ |
 | रक्तबीज बनाम महिषासुर: महाप्रलय | hi | main | done | 5/5 | ✅ |
+| रामायण: रावण का उदय और पतन | hi | main | next | 0/30 | ⏳ |
 | द वेल क्रैक्स: महाप्रलय | hi | main | done | 5/5 | – |
 | विष्णु पुराण: कलियुग महाप्रलय | hi | main | active | 4/10 | ⏳ |
 
 ## Queue (next to make)
-vishnu24
+short_katha_11, short_katha_10, short_katha_9, short_katha_8, short_katha_7, short_katha_6, short_katha_5, short_katha_4, short_katha_3, short_katha_2, short_katha_1, vishnu24
 
 ## Latest uploads
 - prodday261107_short1: https://youtu.be/dcMtzsY6mrg
@@ -59,34 +60,18 @@ vishnu24
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 3028 (public repo: no limit)
-- YouTube quota today (Pacific): 544 / 9,800
+- GitHub minutes this month: 3103 (public repo: no limit)
+- YouTube quota today (Pacific): 708 / 9,800
 
 ## This run
 ```
-07 Nov 03:00 PM IST] standalone Short short_shadowhunt_1 uploaded: https://youtu.be/g_J-O5CIpa8
-07 Nov 03:00 PM IST] short_shadowhunt_1 complete
-07 Nov 03:00 PM IST] pictures for short_songbhajan_7
-07 Nov 03:00 PM IST] metadata short_songbhajan_7
-07 Nov 03:04 PM IST] standalone Short short_songbhajan_7 uploaded: https://youtu.be/Be2UA7L1zwY
-07 Nov 03:04 PM IST] short_songbhajan_7 complete
-07 Nov 03:04 PM IST] pictures for short_poemblindfol_1
-07 Nov 03:04 PM IST] metadata short_poemblindfol_1
-07 Nov 03:08 PM IST] standalone Short short_poemblindfol_1 uploaded: https://youtu.be/Rgpl8DU_rMI
-07 Nov 03:08 PM IST] short_poemblindfol_1 complete
-07 Nov 03:08 PM IST] pictures for vishnu24
-07 Nov 03:08 PM IST] metadata vishnu24
-07 Nov 03:10 PM IST] vishnu24: 1 Short(s) a day - the next one goes tomorrow
-07 Nov 03:10 PM IST] pictures for vishnupu04
-07 Nov 03:10 PM IST] metadata vishnupu04
-07 Nov 03:11 PM IST] metadata vishnupu04
-07 Nov 03:13 PM IST] vishnupu04 complete
-07 Nov 03:13 PM IST] queue worked through
-07 Nov 03:22 PM IST] render prodday261107_short1
-07 Nov 03:27 PM IST] metadata prodday261107
-07 Nov 03:27 PM IST] product Short with 11 products: https://youtu.be/dcMtzsY6mrg
-07 Nov 03:36 PM IST] pictures for short_promopromo_4
-07 Nov 03:40 PM IST] render short_promopromo_4_short1
-07 Nov 03:43 PM IST] metadata short_promopromo_4
-07 Nov 03:43 PM IST] promotion Short made: promotion for the series 'विष्णु पुराण: कलियुग महाप्रलय' (वि - uploads when an upload is free
+07 Nov 03:48 PM IST] health ok | YouTube quota used today 544 | GitHub minutes this month 3028
+07 Nov 04:55 PM IST] writer: waiting for Gemini's free limit (gemini-3.6-flash: 429 GenerateRequestsPerDayPerProjectPerModel-FreeTier (retry in 74058s) | gemini-3)
+07 Nov 04:55 PM IST] pictures for short_katha_1
+07 Nov 04:59 PM IST] render short_katha_1_short1
+07 Nov 05:01 PM IST] metadata short_katha_1
+07 Nov 05:01 PM IST] short_katha_1_short1: upload waits (10 uploads done today - rest upload after the reset)
+07 Nov 05:01 PM IST] pictures for vishnu24
+07 Nov 05:01 PM IST] vishnu24: 1 Short(s) a day - the next one goes tomorrow
+07 Nov 05:01 PM IST] queue worked through
 ```
