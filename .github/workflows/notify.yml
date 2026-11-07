@@ -1,0 +1,53 @@
+name: Email the owner (samples / guide)
+
+on:
+  push:
+    paths: ["samples/notify.json"]     # Claude / the owner: push it to send the emails at once
+  workflow_dispatch:
+
+concurrency:
+  group: notify-${{ github.run_id }}   # read-only jobs run side by side: a slow dry run never holds up the samples
+  cancel-in-progress: false
+
+permissions:
+  contents: write                  # only to save the encrypted accounts check
+
+env:
+  BOT_WORK: ${{ github.workspace }}/work
+  REPO_KEY: ${{ secrets.REPO_KEY }}
+  YT_TOKEN: ${{ secrets.YT_TOKEN }}
+  BOT_KEY: ${{ secrets.BOT_KEY }}
+  GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+  GEMINI_API_KEY_2: ${{ secrets.GEMINI_API_KEY_2 }}   # optional second key
+  GUMROAD_TOKEN: ${{ secrets.GUMROAD_TOKEN }}     # optional: a new Gumroad token set by the owner wins
+  GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+  CF_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
+  CF_TOKEN: ${{ secrets.CF_TOKEN }}
+  GH_TOKEN: ${{ github.token }}                   # sample pictures go to the public 'samples' release
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: Unlock the bot
+        run: pip install -q cryptography && python vault/boot.py open
+      - run: pip install -q -r requirements.txt
+      - name: Send the emails
+        run: python -u bot/notify.py
+      - name: Save the encrypted accounts check (if made)
+        if: hashFiles('samples/accounts_check.enc') != ''
+        run: |
+          git config user.name "video-bot"
+          git config user.email "video-bot@users.noreply.github.com"
+          git add samples/accounts_check.enc
+          git diff --cached --quiet && exit 0
+          git commit -q -m "accounts check (encrypted)"
+          for try in 1 2 3; do git pull -q --rebase origin main && git push -q && break; sleep 5; done
