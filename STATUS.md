@@ -1,5 +1,5 @@
 # 🤖 Video bot status
-_Updated 08 Nov 2026, 06:18 PM IST by the bot._
+_Updated 08 Nov 2026, 11:29 PM IST by the bot._
 
 ## Targets
 | | Now | Target |
@@ -28,6 +28,7 @@ _Updated 08 Nov 2026, 06:18 PM IST by the bot._
 | रामायण: दशानन और धर्मयुद्ध | hi | main | active | 0/30 | ⏳ |
 | सनातन गाथा: अहल्या उद्धार और रामायण | hi | main | active | 0/30 | ⏳ |
 | रामायण: रावण का उत्थान और पतन | hi | main | active | 0/30 | ⏳ |
+| मर्यादा पुरुषोत्तम: दशानन का उदय और पतन | hi | main | active | 0/30 | ⏳ |
 | रावण: महाशक्ति का उदय और पतन | hi | main | next | 0/30 | ⏳ |
 | रावण: महाशक्ति का उदय और पतन | hi | main | active | 0/30 | ⏳ |
 | रावण: ब्रह्मांड का अधिनायक | hi | main | active | 0/30 | ⏳ |
@@ -38,7 +39,7 @@ _Updated 08 Nov 2026, 06:18 PM IST by the bot._
 | विष्णु पुराण: कलियुग महाप्रलय | hi | main | active | 4/10 | ⏳ |
 
 ## Queue (next to make)
-short_mythshorts_3, short_mythshorts_2, short_mythshorts_1, short_epics_26, short_epics_25, short_epics_24, short_epics_23, short_epics_22, short_epics_21, short_epics_20, short_epics_19, short_epics_18
+short_katha_13, short_katha_12, short_mythshorts_3, short_mythshorts_2, short_mythshorts_1, short_epics_26, short_epics_25, short_epics_24, short_epics_23, short_epics_22, short_epics_21, short_epics_20
 
 ## Latest uploads
 - prodweek261108: https://youtu.be/pUXbEq-wkUU
@@ -74,21 +75,22 @@ short_mythshorts_3, short_mythshorts_2, short_mythshorts_1, short_epics_26, shor
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 3533 (public repo: no limit)
-- YouTube quota today (Pacific): 2619 / 9,800
+- GitHub minutes this month: 3605 (public repo: no limit)
+- YouTube quota today (Pacific): 3083 / 9,800
 
 ## This run
 ```
-08 Nov 05:02 PM IST] health ok | YouTube quota used today 2003 | GitHub minutes this month 3456
-08 Nov 06:05 PM IST] planner: waiting for Gemini's free limit (gemini-3.6-flash: 429 GenerateRequestsPerDayPerProjectPerModel-FreeTier (retry in 69872s) | gemini-3)
-08 Nov 06:05 PM IST] writer: waiting for Gemini's free limit (gemini-3.6-flash: 429 GenerateRequestsPerDayPerProjectPerModel-FreeTier (retry in 69844s) | gemini-3)
-08 Nov 06:06 PM IST] pictures for short_mythshorts_1
-08 Nov 06:09 PM IST] render short_mythshorts_1_short1
-08 Nov 06:13 PM IST] metadata short_mythshorts_1
-08 Nov 06:13 PM IST] short_mythshorts_1_short1: upload waits (10 uploads done today - rest upload after the reset)
-08 Nov 06:13 PM IST] pictures for vishnu24
-08 Nov 06:13 PM IST] vishnu24: 1 Short(s) a day - the next one goes tomorrow
-08 Nov 06:13 PM IST] queue worked through
-08 Nov 06:18 PM IST] backup Shorts: waiting for Gemini's free limit (gemini-3.6-flash: 429 GenerateRequestsPerDayPerProjectPerModel-FreeTier (retry in 69203s) | gemini-3)
-08 Nov 06:18 PM IST] promotion Short: waiting for Gemini's free limit (free Gemini kept for today's scripts first (they are not written yet))
+08 Nov 10:19 PM IST] health ok | YouTube quota used today 2619 | GitHub minutes this month 3533
+08 Nov 11:15 PM IST] planner: waiting for Gemini's free limit (gemini-3.6-flash: 429 GenerateRequestsPerDayPerProjectPerModel-FreeTier (retry in 51263s) | gemini-3)
+08 Nov 11:15 PM IST] writer: waiting for Gemini's free limit (gemini-3.6-flash: 429 GenerateRequestsPerDayPerProjectPerModel-FreeTier (retry in 51262s) | gemini-3)
+08 Nov 11:15 PM IST] pictures for short_katha_12
+08 Nov 11:20 PM IST] render short_katha_12_short1
+08 Nov 11:22 PM IST] metadata short_katha_12
+08 Nov 11:22 PM IST] short_katha_12_short1: upload waits (10 uploads done today - rest upload after the reset)
+08 Nov 11:22 PM IST] pictures for short_mythshorts_1
+08 Nov 11:22 PM IST] pictures for vishnu24
+08 Nov 11:22 PM IST] vishnu24: 1 Short(s) a day - the next one goes tomorrow
+08 Nov 11:22 PM IST] queue worked through
+08 Nov 11:29 PM IST] backup Shorts: waiting for Gemini's free limit (gemini-3.6-flash: 429 GenerateRequestsPerDayPerProjectPerModel-FreeTier (retry in 50417s) | gemini-3)
+08 Nov 11:29 PM IST] promotion Short: waiting for Gemini's free limit (free Gemini kept for today's scripts first (they are not written yet))
 ```
