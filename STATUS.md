@@ -1,5 +1,5 @@
 # 🤖 Video bot status
-_Updated 08 Nov 2026, 07:56 AM IST by the bot._
+_Updated 08 Nov 2026, 05:00 PM IST by the bot._
 
 ## Targets
 | | Now | Target |
@@ -14,29 +14,38 @@ _Updated 08 Nov 2026, 07:56 AM IST by the bot._
 | बप्पा रावल: मेवाड़ का सूर्य और अरबों का अंत | hi | main | done | 4/4 | ✅ |
 | माँ छिन्नमस्ता साधना: गुप्त तंत्र और कटी मुंड का रहस्य | hi | main | done | 3/3 | ✅ |
 | ब्रह्मांडीय महायुद्ध: 24 अवतारों की गाथा | hi | main | done | 10/10 | ⏳ |
+| दशानन: लंकापति का उदय और पतन | hi | main | active | 0/30 | ⏳ |
+| दशानन: मर्यादा और अहंकार का महायुद्ध | hi | main | active | 0/30 | ⏳ |
 | I Regressed 30 Days Before the Glitch Apocalypse | en | main | done | 10/10 | ✅ |
 | कल्कि | hi | main | done | 15/15 | ✅ |
 | कलि संहार: कल्कि अवतार और महायुद्ध | hi | main | done | 5/5 | ✅ |
+| लंकाधिपति: रावण की अनकही गाथा | hi | main | active | 0/30 | ⏳ |
 | श्री नृसिंह कवच: उत्पत्ति, रहस्य और संपूर्ण अर्थ | hi | main | done | 2/2 | ✅ |
 | रक्तबीज बनाम महिषासुर: महाप्रलय | hi | main | done | 5/5 | ✅ |
 | रामायण: रावण का उदय और पतन | hi | main | next | 0/30 | ⏳ |
 | सनातन रामायण: दशानन और मर्यादा पुरुषोत्तम | hi | main | next | 0/30 | ⏳ |
+| मर्यादा पुरुषोत्तम: रावण का उदय और पतन | hi | main | active | 0/30 | ⏳ |
+| रामायण: दशानन और धर्मयुद्ध | hi | main | active | 0/30 | ⏳ |
 | रावण: महाशक्ति का उदय और पतन | hi | main | next | 0/30 | ⏳ |
+| रावण: महाशक्ति का उदय और पतन | hi | main | active | 0/30 | ⏳ |
+| रावण: ब्रह्मांड का अधिनायक | hi | main | active | 0/30 | ⏳ |
+| मर्यादा पुरुषोत्तम: राम और रावण की गाथा | hi | main | active | 0/30 | ⏳ |
+| लकापति: रावण का उदय और पतन | hi | main | active | 0/30 | ⏳ |
 | द वेल क्रैक्स: महाप्रलय | hi | main | done | 5/5 | – |
 | विष्णु पुराण: कलियुग महाप्रलय | hi | main | active | 4/10 | ⏳ |
 
 ## Queue (next to make)
-short_epics_2, short_epics_1, short_tales_3, short_tales_2, short_tales_1, short_katha_11, short_katha_10, short_katha_9, short_katha_8, short_katha_7, short_katha_6, short_katha_5
+short_epics_26, short_epics_25, short_epics_24, short_epics_23, short_epics_22, short_epics_21, short_epics_20, short_epics_19, short_epics_18, short_epics_17, short_epics_16, short_epics_15
 
 ## Latest uploads
-- prodday261107_short1: https://youtu.be/dcMtzsY6mrg
-- narasimh01_short1: https://youtu.be/MxUSgHmPBJ4
-- narasimh_movie: https://youtu.be/SrCWfV8JEjQ
-- vishnupu04_short2: https://youtu.be/fAycOR9sSjk
-- vishnupu04_short1: https://youtu.be/ZwFSKb25U28
-- vishnu24_short15: https://youtu.be/6yQUvcpd9u4
-- short_poemblindfol_1_short1: https://youtu.be/Rgpl8DU_rMI
-- short_songbhajan_7_short1: https://youtu.be/Be2UA7L1zwY
+- prodweek261108: https://youtu.be/pUXbEq-wkUU
+- prodday261108_short1: https://youtu.be/z3XnFfD9d9Q
+- short_dharma_1_short1: https://youtu.be/IgIakS4YIv4
+- vishnu24_short16: https://youtu.be/pRAZlIZecFI
+- short_katha_1_short1: https://youtu.be/hROTolwSGkM
+- short_katha_2_short1: https://youtu.be/FvYmK8K3qys
+- short_tales_1_short1: https://youtu.be/enlqN5e7SCg
+- short_tales_2_short1: https://youtu.be/c1PpOoe0fhQ
 
 ## Titles the bot improved
 - कलि का अंत 😱 महायुद्ध में टूटा कलि का अहंकार! | Kalki vs Kali Duel | Kalki Puran भाग 14 → **क्या कल्कि अवतार करेंगे कलि का सर्वनाश? महायुद्ध का सच! 😱 Kalki Puran भाग 14**
@@ -62,24 +71,34 @@ short_epics_2, short_epics_1, short_tales_3, short_tales_2, short_tales_1, short
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 3240 (public repo: no limit)
-- YouTube quota today (Pacific): 1258 / 9,800
+- GitHub minutes this month: 3456 (public repo: no limit)
+- YouTube quota today (Pacific): 2003 / 9,800
 
 ## This run
 ```
-08 Nov 06:50 AM IST] health ok | YouTube quota used today 972 | GitHub minutes this month 3172
-08 Nov 07:34 AM IST] writer: waiting for Gemini's free limit (gemini-3.6-flash: 429 GenerateRequestsPerDayPerProjectPerModel-FreeTier (retry in 21322s) | gemini-3)
-08 Nov 07:35 AM IST] pictures for short_epics_1
-08 Nov 07:39 AM IST] render short_epics_1_short1
-08 Nov 07:42 AM IST] metadata short_epics_1
-08 Nov 07:42 AM IST] short_epics_1_short1: upload waits (10 uploads done today - rest upload after the reset)
-08 Nov 07:42 AM IST] pictures for short_tales_2
-08 Nov 07:46 AM IST] render short_tales_2_short1
-08 Nov 07:48 AM IST] pictures for short_tales_1
-08 Nov 07:48 AM IST] pictures for short_katha_2
-08 Nov 07:52 AM IST] render short_katha_2_short1
-08 Nov 07:55 AM IST] pictures for short_katha_1
-08 Nov 07:55 AM IST] pictures for vishnu24
-08 Nov 07:55 AM IST] queue worked through
-08 Nov 07:56 AM IST] promotion Short: waiting for Gemini's free limit (gemini-3.6-flash: 429 GenerateRequestsPerDayPerProjectPerModel-FreeTier (retry in 20035s) | gemini-3)
+08 Nov 04:37 PM IST] pictures for short_tales_1
+08 Nov 04:37 PM IST] metadata short_tales_1
+08 Nov 04:38 PM IST] standalone Short short_tales_1 uploaded: https://youtu.be/enlqN5e7SCg
+08 Nov 04:38 PM IST] short_tales_1 complete
+08 Nov 04:38 PM IST] pictures for short_katha_2
+08 Nov 04:38 PM IST] metadata short_katha_2
+08 Nov 04:40 PM IST] standalone Short short_katha_2 uploaded: https://youtu.be/FvYmK8K3qys
+08 Nov 04:40 PM IST] short_katha_2 complete
+08 Nov 04:40 PM IST] pictures for short_katha_1
+08 Nov 04:40 PM IST] metadata short_katha_1
+08 Nov 04:40 PM IST] standalone Short short_katha_1 uploaded: https://youtu.be/hROTolwSGkM
+08 Nov 04:40 PM IST] short_katha_1 complete
+08 Nov 04:40 PM IST] pictures for vishnu24
+08 Nov 04:40 PM IST] metadata vishnu24
+08 Nov 04:42 PM IST] vishnu24: 1 Short(s) a day - the next one goes tomorrow
+08 Nov 04:42 PM IST] queue worked through
+08 Nov 04:43 PM IST] empty slot filled with a backup Short: Why Lord Shiva Gave Kalki Avatar The Divine Sword - https://youtu.be/IgIakS4YIv4
+08 Nov 04:45 PM IST] render prodday261108_short1
+08 Nov 04:50 PM IST] metadata prodday261108
+08 Nov 04:50 PM IST] product Short with 9 products: https://youtu.be/z3XnFfD9d9Q
+08 Nov 04:51 PM IST] render prodweek261108
+08 Nov 04:59 PM IST] metadata prodweek261108
+08 Nov 05:00 PM IST] weekly product video with 15 products: https://youtu.be/pUXbEq-wkUU
+08 Nov 05:00 PM IST] backup Shorts: waiting for Gemini's free limit (gemini-3.6-flash: 429 GenerateRequestsPerDayPerProjectPerModel-FreeTier (retry in 73796s) | gemini-3)
+08 Nov 05:00 PM IST] promotion Short: waiting for Gemini's free limit (free Gemini kept for today's scripts first (they are not written yet))
 ```
