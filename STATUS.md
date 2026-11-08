@@ -1,12 +1,12 @@
 # 🤖 Video bot status
-_Updated 07 Nov 2026, 11:28 PM IST by the bot._
+_Updated 08 Nov 2026, 07:56 AM IST by the bot._
 
 ## Targets
 | | Now | Target |
 |---|---|---|
-| Watch hours / day (28-day avg) | 0.94 | 10.0 |
+| Watch hours / day (28-day avg) | 1.01 | 10.0 |
 | New subscribers / day | 0.04 | 3.0 |
-| Watch hours, last 12 months (4,000 for monetization) | 315.2 | 4000 |
+| Watch hours, last 12 months (4,000 for monetization) | 317.0 | 4000 |
 
 ## Series
 | Series | Language | Channel | Status | Written | Movie |
@@ -21,11 +21,12 @@ _Updated 07 Nov 2026, 11:28 PM IST by the bot._
 | रक्तबीज बनाम महिषासुर: महाप्रलय | hi | main | done | 5/5 | ✅ |
 | रामायण: रावण का उदय और पतन | hi | main | next | 0/30 | ⏳ |
 | सनातन रामायण: दशानन और मर्यादा पुरुषोत्तम | hi | main | next | 0/30 | ⏳ |
+| रावण: महाशक्ति का उदय और पतन | hi | main | next | 0/30 | ⏳ |
 | द वेल क्रैक्स: महाप्रलय | hi | main | done | 5/5 | – |
 | विष्णु पुराण: कलियुग महाप्रलय | hi | main | active | 4/10 | ⏳ |
 
 ## Queue (next to make)
-short_tales_3, short_tales_2, short_tales_1, short_katha_11, short_katha_10, short_katha_9, short_katha_8, short_katha_7, short_katha_6, short_katha_5, short_katha_4, short_katha_3
+short_epics_2, short_epics_1, short_tales_3, short_tales_2, short_tales_1, short_katha_11, short_katha_10, short_katha_9, short_katha_8, short_katha_7, short_katha_6, short_katha_5
 
 ## Latest uploads
 - prodday261107_short1: https://youtu.be/dcMtzsY6mrg
@@ -61,20 +62,24 @@ short_tales_3, short_tales_2, short_tales_1, short_katha_11, short_katha_10, sho
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 3172 (public repo: no limit)
-- YouTube quota today (Pacific): 972 / 9,800
+- GitHub minutes this month: 3240 (public repo: no limit)
+- YouTube quota today (Pacific): 1258 / 9,800
 
 ## This run
 ```
-07 Nov 10:21 PM IST] health ok | YouTube quota used today 708 | GitHub minutes this month 3103
-07 Nov 11:18 PM IST] email requests problem (the run continues): TimeoutError: The read operation timed out
-07 Nov 11:21 PM IST] writer: waiting for Gemini's free limit (gemini-3.6-flash: 429 GenerateRequestsPerDayPerProjectPerModel-FreeTier (retry in 50920s) | gemini-3)
-07 Nov 11:21 PM IST] pictures for short_tales_1
-07 Nov 11:26 PM IST] render short_tales_1_short1
-07 Nov 11:28 PM IST] metadata short_tales_1
-07 Nov 11:28 PM IST] short_tales_1_short1: upload waits (10 uploads done today - rest upload after the reset)
-07 Nov 11:28 PM IST] pictures for short_katha_1
-07 Nov 11:28 PM IST] pictures for vishnu24
-07 Nov 11:28 PM IST] vishnu24: 1 Short(s) a day - the next one goes tomorrow
-07 Nov 11:28 PM IST] queue worked through
+08 Nov 06:50 AM IST] health ok | YouTube quota used today 972 | GitHub minutes this month 3172
+08 Nov 07:34 AM IST] writer: waiting for Gemini's free limit (gemini-3.6-flash: 429 GenerateRequestsPerDayPerProjectPerModel-FreeTier (retry in 21322s) | gemini-3)
+08 Nov 07:35 AM IST] pictures for short_epics_1
+08 Nov 07:39 AM IST] render short_epics_1_short1
+08 Nov 07:42 AM IST] metadata short_epics_1
+08 Nov 07:42 AM IST] short_epics_1_short1: upload waits (10 uploads done today - rest upload after the reset)
+08 Nov 07:42 AM IST] pictures for short_tales_2
+08 Nov 07:46 AM IST] render short_tales_2_short1
+08 Nov 07:48 AM IST] pictures for short_tales_1
+08 Nov 07:48 AM IST] pictures for short_katha_2
+08 Nov 07:52 AM IST] render short_katha_2_short1
+08 Nov 07:55 AM IST] pictures for short_katha_1
+08 Nov 07:55 AM IST] pictures for vishnu24
+08 Nov 07:55 AM IST] queue worked through
+08 Nov 07:56 AM IST] promotion Short: waiting for Gemini's free limit (gemini-3.6-flash: 429 GenerateRequestsPerDayPerProjectPerModel-FreeTier (retry in 20035s) | gemini-3)
 ```
