@@ -1,5 +1,5 @@
 # 🤖 Video bot status
-_Updated 08 Nov 2026, 05:00 PM IST by the bot._
+_Updated 08 Nov 2026, 06:18 PM IST by the bot._
 
 ## Targets
 | | Now | Target |
@@ -26,16 +26,19 @@ _Updated 08 Nov 2026, 05:00 PM IST by the bot._
 | सनातन रामायण: दशानन और मर्यादा पुरुषोत्तम | hi | main | next | 0/30 | ⏳ |
 | मर्यादा पुरुषोत्तम: रावण का उदय और पतन | hi | main | active | 0/30 | ⏳ |
 | रामायण: दशानन और धर्मयुद्ध | hi | main | active | 0/30 | ⏳ |
+| सनातन गाथा: अहल्या उद्धार और रामायण | hi | main | active | 0/30 | ⏳ |
+| रामायण: रावण का उत्थान और पतन | hi | main | active | 0/30 | ⏳ |
 | रावण: महाशक्ति का उदय और पतन | hi | main | next | 0/30 | ⏳ |
 | रावण: महाशक्ति का उदय और पतन | hi | main | active | 0/30 | ⏳ |
 | रावण: ब्रह्मांड का अधिनायक | hi | main | active | 0/30 | ⏳ |
+| ऋणानुबंध: रावण और राम | hi | main | active | 0/30 | ⏳ |
 | मर्यादा पुरुषोत्तम: राम और रावण की गाथा | hi | main | active | 0/30 | ⏳ |
 | लकापति: रावण का उदय और पतन | hi | main | active | 0/30 | ⏳ |
 | द वेल क्रैक्स: महाप्रलय | hi | main | done | 5/5 | – |
 | विष्णु पुराण: कलियुग महाप्रलय | hi | main | active | 4/10 | ⏳ |
 
 ## Queue (next to make)
-short_epics_26, short_epics_25, short_epics_24, short_epics_23, short_epics_22, short_epics_21, short_epics_20, short_epics_19, short_epics_18, short_epics_17, short_epics_16, short_epics_15
+short_mythshorts_3, short_mythshorts_2, short_mythshorts_1, short_epics_26, short_epics_25, short_epics_24, short_epics_23, short_epics_22, short_epics_21, short_epics_20, short_epics_19, short_epics_18
 
 ## Latest uploads
 - prodweek261108: https://youtu.be/pUXbEq-wkUU
@@ -71,34 +74,21 @@ short_epics_26, short_epics_25, short_epics_24, short_epics_23, short_epics_22, 
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 3456 (public repo: no limit)
-- YouTube quota today (Pacific): 2003 / 9,800
+- GitHub minutes this month: 3533 (public repo: no limit)
+- YouTube quota today (Pacific): 2619 / 9,800
 
 ## This run
 ```
-08 Nov 04:37 PM IST] pictures for short_tales_1
-08 Nov 04:37 PM IST] metadata short_tales_1
-08 Nov 04:38 PM IST] standalone Short short_tales_1 uploaded: https://youtu.be/enlqN5e7SCg
-08 Nov 04:38 PM IST] short_tales_1 complete
-08 Nov 04:38 PM IST] pictures for short_katha_2
-08 Nov 04:38 PM IST] metadata short_katha_2
-08 Nov 04:40 PM IST] standalone Short short_katha_2 uploaded: https://youtu.be/FvYmK8K3qys
-08 Nov 04:40 PM IST] short_katha_2 complete
-08 Nov 04:40 PM IST] pictures for short_katha_1
-08 Nov 04:40 PM IST] metadata short_katha_1
-08 Nov 04:40 PM IST] standalone Short short_katha_1 uploaded: https://youtu.be/hROTolwSGkM
-08 Nov 04:40 PM IST] short_katha_1 complete
-08 Nov 04:40 PM IST] pictures for vishnu24
-08 Nov 04:40 PM IST] metadata vishnu24
-08 Nov 04:42 PM IST] vishnu24: 1 Short(s) a day - the next one goes tomorrow
-08 Nov 04:42 PM IST] queue worked through
-08 Nov 04:43 PM IST] empty slot filled with a backup Short: Why Lord Shiva Gave Kalki Avatar The Divine Sword - https://youtu.be/IgIakS4YIv4
-08 Nov 04:45 PM IST] render prodday261108_short1
-08 Nov 04:50 PM IST] metadata prodday261108
-08 Nov 04:50 PM IST] product Short with 9 products: https://youtu.be/z3XnFfD9d9Q
-08 Nov 04:51 PM IST] render prodweek261108
-08 Nov 04:59 PM IST] metadata prodweek261108
-08 Nov 05:00 PM IST] weekly product video with 15 products: https://youtu.be/pUXbEq-wkUU
-08 Nov 05:00 PM IST] backup Shorts: waiting for Gemini's free limit (gemini-3.6-flash: 429 GenerateRequestsPerDayPerProjectPerModel-FreeTier (retry in 73796s) | gemini-3)
-08 Nov 05:00 PM IST] promotion Short: waiting for Gemini's free limit (free Gemini kept for today's scripts first (they are not written yet))
+08 Nov 05:02 PM IST] health ok | YouTube quota used today 2003 | GitHub minutes this month 3456
+08 Nov 06:05 PM IST] planner: waiting for Gemini's free limit (gemini-3.6-flash: 429 GenerateRequestsPerDayPerProjectPerModel-FreeTier (retry in 69872s) | gemini-3)
+08 Nov 06:05 PM IST] writer: waiting for Gemini's free limit (gemini-3.6-flash: 429 GenerateRequestsPerDayPerProjectPerModel-FreeTier (retry in 69844s) | gemini-3)
+08 Nov 06:06 PM IST] pictures for short_mythshorts_1
+08 Nov 06:09 PM IST] render short_mythshorts_1_short1
+08 Nov 06:13 PM IST] metadata short_mythshorts_1
+08 Nov 06:13 PM IST] short_mythshorts_1_short1: upload waits (10 uploads done today - rest upload after the reset)
+08 Nov 06:13 PM IST] pictures for vishnu24
+08 Nov 06:13 PM IST] vishnu24: 1 Short(s) a day - the next one goes tomorrow
+08 Nov 06:13 PM IST] queue worked through
+08 Nov 06:18 PM IST] backup Shorts: waiting for Gemini's free limit (gemini-3.6-flash: 429 GenerateRequestsPerDayPerProjectPerModel-FreeTier (retry in 69203s) | gemini-3)
+08 Nov 06:18 PM IST] promotion Short: waiting for Gemini's free limit (free Gemini kept for today's scripts first (they are not written yet))
 ```
