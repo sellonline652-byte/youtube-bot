@@ -1,12 +1,12 @@
 # 🤖 Video bot status
-_Updated 08 Nov 2026, 11:29 PM IST by the bot._
+_Updated 09 Nov 2026, 08:58 AM IST by the bot._
 
 ## Targets
 | | Now | Target |
 |---|---|---|
-| Watch hours / day (28-day avg) | 1.01 | 10.0 |
-| New subscribers / day | 0.04 | 3.0 |
-| Watch hours, last 12 months (4,000 for monetization) | 317.0 | 4000 |
+| Watch hours / day (28-day avg) | 1.05 | 10.0 |
+| New subscribers / day | 0.07 | 3.0 |
+| Watch hours, last 12 months (4,000 for monetization) | 317.5 | 4000 |
 
 ## Series
 | Series | Language | Channel | Status | Written | Movie |
@@ -39,7 +39,7 @@ _Updated 08 Nov 2026, 11:29 PM IST by the bot._
 | विष्णु पुराण: कलियुग महाप्रलय | hi | main | active | 4/10 | ⏳ |
 
 ## Queue (next to make)
-short_katha_13, short_katha_12, short_mythshorts_3, short_mythshorts_2, short_mythshorts_1, short_epics_26, short_epics_25, short_epics_24, short_epics_23, short_epics_22, short_epics_21, short_epics_20
+short_katha_18, short_katha_17, short_katha_16, short_katha_15, short_katha_14, short_katha_13, short_katha_12, short_mythshorts_3, short_mythshorts_2, short_mythshorts_1, short_epics_26, short_epics_25
 
 ## Latest uploads
 - prodweek261108: https://youtu.be/pUXbEq-wkUU
@@ -75,22 +75,34 @@ short_katha_13, short_katha_12, short_mythshorts_3, short_mythshorts_2, short_my
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 3605 (public repo: no limit)
-- YouTube quota today (Pacific): 3083 / 9,800
+- GitHub minutes this month: 3730 (public repo: no limit)
+- YouTube quota today (Pacific): 3218 / 9,800
 
 ## This run
 ```
-08 Nov 10:19 PM IST] health ok | YouTube quota used today 2619 | GitHub minutes this month 3533
-08 Nov 11:15 PM IST] planner: waiting for Gemini's free limit (gemini-3.6-flash: 429 GenerateRequestsPerDayPerProjectPerModel-FreeTier (retry in 51263s) | gemini-3)
-08 Nov 11:15 PM IST] writer: waiting for Gemini's free limit (gemini-3.6-flash: 429 GenerateRequestsPerDayPerProjectPerModel-FreeTier (retry in 51262s) | gemini-3)
-08 Nov 11:15 PM IST] pictures for short_katha_12
-08 Nov 11:20 PM IST] render short_katha_12_short1
-08 Nov 11:22 PM IST] metadata short_katha_12
-08 Nov 11:22 PM IST] short_katha_12_short1: upload waits (10 uploads done today - rest upload after the reset)
-08 Nov 11:22 PM IST] pictures for short_mythshorts_1
-08 Nov 11:22 PM IST] pictures for vishnu24
-08 Nov 11:22 PM IST] vishnu24: 1 Short(s) a day - the next one goes tomorrow
-08 Nov 11:22 PM IST] queue worked through
-08 Nov 11:29 PM IST] backup Shorts: waiting for Gemini's free limit (gemini-3.6-flash: 429 GenerateRequestsPerDayPerProjectPerModel-FreeTier (retry in 50417s) | gemini-3)
-08 Nov 11:29 PM IST] promotion Short: waiting for Gemini's free limit (free Gemini kept for today's scripts first (they are not written yet))
+09 Nov 06:54 AM IST] health ok | YouTube quota used today 3083 | GitHub minutes this month 3605
+09 Nov 08:09 AM IST] planner: waiting for Gemini's free limit (gemini-3.6-flash: 429 GenerateRequestsPerDayPerProjectPerModel-FreeTier (retry in 19257s) | gemini-3)
+09 Nov 08:13 AM IST] writer: waiting for Gemini's free limit (gemini-3.6-flash: 429 GenerateRequestsPerDayPerProjectPerModel-FreeTier (retry in 19008s) | gemini-3)
+09 Nov 08:13 AM IST] pictures for short_katha_14
+09 Nov 08:17 AM IST] render short_katha_14_short1
+09 Nov 08:19 AM IST] metadata short_katha_14
+09 Nov 08:19 AM IST] short_katha_14_short1: upload waits (10 uploads done today - rest upload after the reset)
+09 Nov 08:19 AM IST] pictures for short_katha_13
+09 Nov 08:24 AM IST] render short_katha_13_short1
+09 Nov 08:26 AM IST] pictures for short_katha_12
+09 Nov 08:26 AM IST] pictures for short_mythshorts_2
+09 Nov 08:30 AM IST] render short_mythshorts_2_short1
+09 Nov 08:32 AM IST] pictures for short_mythshorts_1
+09 Nov 08:32 AM IST] pictures for short_epics_4
+09 Nov 08:36 AM IST] render short_epics_4_short1
+09 Nov 08:38 AM IST] pictures for short_epics_2
+09 Nov 08:43 AM IST] render short_epics_2_short1
+09 Nov 08:45 AM IST] pictures for short_tales_3
+09 Nov 08:49 AM IST] render short_tales_3_short1
+09 Nov 08:52 AM IST] pictures for short_katha_3
+09 Nov 08:56 AM IST] render short_katha_3_short1
+09 Nov 08:57 AM IST] pictures for vishnu24
+09 Nov 08:57 AM IST] queue worked through
+09 Nov 08:58 AM IST] backup Shorts: waiting for Gemini's free limit (gemini-3.6-flash: 429 GenerateRequestsPerDayPerProjectPerModel-FreeTier (retry in 16308s) | gemini-3)
+09 Nov 08:58 AM IST] promotion Short: waiting for Gemini's free limit (free Gemini kept for today's scripts first (they are not written yet))
 ```
