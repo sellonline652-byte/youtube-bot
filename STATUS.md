@@ -1,5 +1,5 @@
 # 🤖 Video bot status
-_Updated 09 Nov 2026, 04:51 PM IST by the bot._
+_Updated 09 Nov 2026, 06:28 PM IST by the bot._
 
 ## Targets
 | | Now | Target |
@@ -39,7 +39,7 @@ _Updated 09 Nov 2026, 04:51 PM IST by the bot._
 | विष्णु पुराण: कलियुग महाप्रलय | hi | main | active | 4/10 | ⏳ |
 
 ## Queue (next to make)
-short_puranas_22, short_puranas_21, short_puranas_20, short_puranas_19, short_puranas_18, short_puranas_17, short_puranas_16, short_puranas_15, short_puranas_14, short_puranas_13, short_puranas_12, short_puranas_11
+short_purana_3, short_purana_2, short_purana_1, short_puranas_22, short_puranas_21, short_puranas_20, short_puranas_19, short_puranas_18, short_puranas_17, short_puranas_16, short_puranas_15, short_puranas_14
 
 ## Latest uploads
 - short_katha_3_short1: https://youtu.be/WP6jwHDf1DM
@@ -75,34 +75,21 @@ short_puranas_22, short_puranas_21, short_puranas_20, short_puranas_19, short_pu
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 3910 (public repo: no limit)
-- YouTube quota today (Pacific): 353 / 9,800
+- GitHub minutes this month: 4003 (public repo: no limit)
+- YouTube quota today (Pacific): 466 / 9,800
 
 ## This run
 ```
-09 Nov 04:47 PM IST] standalone Short short_mythshorts_1 uploaded: https://youtu.be/jmTLOrfuCGs
-09 Nov 04:47 PM IST] short_mythshorts_1 complete
-09 Nov 04:47 PM IST] pictures for short_epics_4
-09 Nov 04:47 PM IST] metadata short_epics_4
-09 Nov 04:47 PM IST] standalone Short short_epics_4 uploaded: https://youtu.be/9UkjTy2JSco
-09 Nov 04:47 PM IST] short_epics_4 complete
-09 Nov 04:47 PM IST] pictures for short_epics_2
-09 Nov 04:47 PM IST] metadata short_epics_2
-09 Nov 04:47 PM IST] standalone Short short_epics_2 uploaded: https://youtu.be/7_QYtodlAD0
-09 Nov 04:47 PM IST] short_epics_2 complete
-09 Nov 04:47 PM IST] pictures for short_tales_3
-09 Nov 04:47 PM IST] metadata short_tales_3
-09 Nov 04:47 PM IST] standalone Short short_tales_3 uploaded: https://youtu.be/eSanSDQSQeQ
-09 Nov 04:47 PM IST] short_tales_3 complete
-09 Nov 04:47 PM IST] pictures for short_katha_3
-09 Nov 04:47 PM IST] metadata short_katha_3
-09 Nov 04:48 PM IST] standalone Short short_katha_3 uploaded: https://youtu.be/WP6jwHDf1DM
-09 Nov 04:48 PM IST] short_katha_3 complete
-09 Nov 04:48 PM IST] pictures for vishnu24
-09 Nov 04:48 PM IST] metadata vishnu24
-09 Nov 04:48 PM IST] YouTube quota used up (10 uploads done today - rest upload after the reset) - rendering continues, uploads next run
-09 Nov 04:48 PM IST] queue worked through
-09 Nov 04:48 PM IST] backup Shorts: waiting for Gemini's free limit (gemini-3.6-flash: 429 GenerateRequestsPerDayPerProjectPerModel-FreeTier (retry in 74507s) | gemini-3)
-09 Nov 04:48 PM IST] promotion Short: waiting for Gemini's free limit (free Gemini kept for today's scripts first (they are not written yet))
-09 Nov 04:51 PM IST] store campaign: waiting for Gemini's free limit (free Gemini kept for today's scripts first (they are not written yet))
+09 Nov 04:57 PM IST] health ok | YouTube quota used today 353 | GitHub minutes this month 3910
+09 Nov 06:04 PM IST] planner: waiting for Gemini's free limit (gemini-3.6-flash: 429 GenerateRequestsPerDayPerProjectPerModel-FreeTier (retry in 69951s) | gemini-3)
+09 Nov 06:04 PM IST] writer: waiting for Gemini's free limit (gemini-3.6-flash: 429 GenerateRequestsPerDayPerProjectPerModel-FreeTier (retry in 69949s) | gemini-3)
+09 Nov 06:19 PM IST] pictures for short_purana_1
+09 Nov 06:24 PM IST] render short_purana_1_short1
+09 Nov 06:27 PM IST] metadata short_purana_1
+09 Nov 06:27 PM IST] short_purana_1_short1: upload waits (10 uploads done today - rest upload after the reset)
+09 Nov 06:27 PM IST] pictures for vishnu24
+09 Nov 06:27 PM IST] queue worked through
+09 Nov 06:27 PM IST] backup Shorts: waiting for Gemini's free limit (gemini-3.6-flash: 429 GenerateRequestsPerDayPerProjectPerModel-FreeTier (retry in 68532s) | gemini-3)
+09 Nov 06:27 PM IST] promotion Short: waiting for Gemini's free limit (free Gemini kept for today's scripts first (they are not written yet))
+09 Nov 06:28 PM IST] store campaign: waiting for Gemini's free limit (free Gemini kept for today's scripts first (they are not written yet))
 ```
