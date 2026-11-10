@@ -1,5 +1,5 @@
 # 🤖 Video bot status
-_Updated 10 Nov 2026, 05:37 PM IST by the bot._
+_Updated 10 Nov 2026, 06:55 PM IST by the bot._
 
 ## Targets
 | | Now | Target |
@@ -72,13 +72,13 @@ short_poemimmortal_1, short_purana_3, short_purana_2, short_purana_1, short_pura
 - रामायण का सबसे महान और मौन त्याग: उर्मिला 💔 #shorts #ramayan #history → **उर्मिला ने 14 साल तक क्यों किया यह महान त्याग? 🙏 #shorts #ramayan #history**
 
 ## Promotion Shorts (unlisted, for paid ads)
+- 2026-11-10: promotion for the series 'दशानन: रावण का उदय और राम कथा' (Valmiki Rama - uploads when an upload is free
 - 2026-11-07: promotion for the series 'विष्णु पुराण: कलियुग महाप्रलय' (विष्णु पुराण - uploads when an upload is free
 - 2026-11-06: promotion for the series 'द वेल क्रैक्स: महाप्रलय' (The Veil Cracks (E - uploads when an upload is free
 - 2026-11-05: promotion for the series 'कल्कि' (Kalki Purana and Puranic belief, dra - uploads when an upload is free
 - 2026-11-04: promotion for the series 'कल्कि' (Kalki Purana and Puranic belief, dra - uploads when an upload is free
 - 2026-11-03: promotion for the series 'ब्रह्मांडीय महायुद्ध: 24 अवतारों की गाथा' (श - uploads when an upload is free
 - 2026-11-02: promotion for the whole channel: the best of Sujay Ganguly Creations - - uploads when an upload is free
-- 2026-11-01: promotion for the series 'द वेल क्रैक्स: महाप्रलय' (The Veil Cracks (E - https://youtu.be/CsZy1-o466U
 
 ## Sponsorship outreach (weekly)
 - 2026-10-26: 1 new companies stored (not emailed - growing first), 1 stored in total
@@ -88,28 +88,22 @@ short_poemimmortal_1, short_purana_3, short_purana_2, short_purana_1, short_pura
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 4472 (public repo: no limit)
+- GitHub minutes this month: 4547 (public repo: no limit)
 - YouTube quota today (Pacific): 2026-11-10 / 9,800
 
 ## This run
 ```
-10 Nov 01:39 PM IST] health ok | YouTube quota used today 0 | GitHub minutes this month 4233
-10 Nov 05:25 PM IST] pictures for short_poemimmortal_1
-10 Nov 05:29 PM IST] render short_poemimmortal_1_short1
-10 Nov 05:32 PM IST] metadata short_poemimmortal_1
-10 Nov 05:32 PM IST] short_poemimmortal_1_short1: upload waits (YouTube quota: 10000 used today, need 110)
-10 Nov 05:32 PM IST] pictures for short_purana_2
-10 Nov 05:32 PM IST] pictures for short_purana_1
-10 Nov 05:32 PM IST] pictures for short_puranas_2
-10 Nov 05:32 PM IST] pictures for short_katha_15
-10 Nov 05:32 PM IST] pictures for short_mythshorts_3
-10 Nov 05:32 PM IST] pictures for short_epics_5
-10 Nov 05:32 PM IST] pictures for short_katha_4
-10 Nov 05:32 PM IST] pictures for vishnu24
-10 Nov 05:32 PM IST] pictures for vishnupu05
-10 Nov 05:32 PM IST] stopping for now: not enough time left in this run for the renders - continuing next run
-10 Nov 05:32 PM IST] improve: stopping for now: YouTube quota: 10000 used today, need 1
-10 Nov 05:36 PM IST] backup Shorts: waiting for Gemini's free limit (gemini-3.6-flash: 429 GenerateRequestsPerDayPerProjectPerModel-FreeTier (retry in 71770s) | gemini-3)
-10 Nov 05:36 PM IST] channel page: stopping for now: YouTube quota: 10000 used today, need 1
-10 Nov 05:36 PM IST] promotion Short: waiting for Gemini's free limit (gemini-3.6-flash: 429 GenerateRequestsPerDayPerProjectPerModel-FreeTier (retry in 71600s) | gemini-3)
+10 Nov 05:41 PM IST] health ok | YouTube quota used today 10000 | GitHub minutes this month 4472
+10 Nov 05:41 PM IST] stopping for now: YouTube quota: 10000 used today, need 1
+10 Nov 05:41 PM IST] improve: stopping for now: YouTube quota: 10000 used today, need 1
+10 Nov 05:41 PM IST] fill empty slots: stopping for now: YouTube quota: 10000 used today, need 110
+10 Nov 06:38 PM IST] pictures for short_devadatta_1
+10 Nov 06:42 PM IST] render short_devadatta_1_short1
+10 Nov 06:44 PM IST] metadata short_devadatta_1
+10 Nov 06:44 PM IST] backup Short ready: कल्कि अवतार के दिव्य घोड़े देवदत्त का रहस्य (भाग 1) (2/2)
+10 Nov 06:44 PM IST] channel page: stopping for now: YouTube quota: 10000 used today, need 1
+10 Nov 06:46 PM IST] pictures for short_promoepic_1
+10 Nov 06:52 PM IST] render short_promoepic_1_short1
+10 Nov 06:54 PM IST] metadata short_promoepic_1
+10 Nov 06:54 PM IST] promotion Short made: promotion for the series 'दशानन: रावण का उदय और राम कथा' (Va - uploads when an upload is free
 ```
