@@ -1,5 +1,5 @@
 # 🤖 Video bot status
-_Updated 10 Nov 2026, 07:52 AM IST by the bot._
+_Updated 10 Nov 2026, 05:37 PM IST by the bot._
 
 ## Targets
 | | Now | Target |
@@ -11,10 +11,11 @@ _Updated 10 Nov 2026, 07:52 AM IST by the bot._
 ## Series
 | Series | Language | Channel | Status | Written | Movie |
 |---|---|---|---|---|---|
+| अश्वत्थामा का प्रतिशोध: महाभारत की 18वीं रात | hi | main | active | 0/5 | ⏳ |
 | बप्पा रावल: मेवाड़ का सूर्य और अरबों का अंत | hi | main | done | 4/4 | ✅ |
 | माँ छिन्नमस्ता साधना: गुप्त तंत्र और कटी मुंड का रहस्य | hi | main | done | 3/3 | ✅ |
 | ब्रह्मांडीय महायुद्ध: 24 अवतारों की गाथा | hi | main | done | 10/10 | ⏳ |
-| दशानन: लंकापति का उदय और पतन | hi | main | active | 0/30 | ⏳ |
+| दशानन: लंकापति का उदय और पतन | hi | main | active | 1/30 | ⏳ |
 | दशानन: मर्यादा और अहंकार का महायुद्ध | hi | main | active | 0/30 | ⏳ |
 | दशानन और मर्यादा: रावण का अंत | hi | main | active | 0/30 | ⏳ |
 | I Regressed 30 Days Before the Glitch Apocalypse | en | main | done | 10/10 | ✅ |
@@ -27,6 +28,9 @@ _Updated 10 Nov 2026, 07:52 AM IST by the bot._
 | रामायण: रावण का उदय और पतन | hi | main | next | 0/30 | ⏳ |
 | श्रीराम वनवास: धर्म, त्याग और महासंकल्प | hi | main | active | 0/30 | ⏳ |
 | रामायण: धर्म और अधर्म का महासंग्राम | hi | main | active | 0/30 | ⏳ |
+| दशानन: रावण का उदय और राम कथा | hi | main | active | 0/30 | ⏳ |
+| रामायण: रावण का अहंकार और स्वर्ण मृग | hi | main | active | 0/30 | ⏳ |
+| श्रीराम कथा: पंचवटी से अशोक वाटिका | hi | main | active | 0/30 | ⏳ |
 | सनातन रामायण: दशानन और मर्यादा पुरुषोत्तम | hi | main | next | 0/30 | ⏳ |
 | मर्यादा पुरुषोत्तम: रावण का उदय और पतन | hi | main | active | 0/30 | ⏳ |
 | रामायण: दशानन और धर्मयुद्ध | hi | main | active | 0/30 | ⏳ |
@@ -36,6 +40,8 @@ _Updated 10 Nov 2026, 07:52 AM IST by the bot._
 | मर्यादा और अहंकार: राम और रावण की अमर गाथा | hi | main | active | 0/30 | ⏳ |
 | रामायण: दशानन और धर्म का उत्थान | hi | main | active | 0/30 | ⏳ |
 | मर्यादा पुरुषोत्तम: दशानन का उदय और पतन | hi | main | active | 0/30 | ⏳ |
+| दशानन: साम्राज्य और विनाश | hi | main | next | 0/30 | ⏳ |
+| दशानन: धर्म, अहंकार और महासंग्राम | hi | main | next | 0/30 | ⏳ |
 | रावण: महाशक्ति का उदय और पतन | hi | main | next | 0/30 | ⏳ |
 | रावण: महाशक्ति का उदय और पतन | hi | main | active | 0/30 | ⏳ |
 | रावण: ब्रह्मांड का अधिनायक | hi | main | active | 0/30 | ⏳ |
@@ -43,10 +49,10 @@ _Updated 10 Nov 2026, 07:52 AM IST by the bot._
 | मर्यादा पुरुषोत्तम: राम और रावण की गाथा | hi | main | active | 0/30 | ⏳ |
 | लकापति: रावण का उदय और पतन | hi | main | active | 0/30 | ⏳ |
 | द वेल क्रैक्स: महाप्रलय | hi | main | done | 5/5 | – |
-| विष्णु पुराण: कलियुग महाप्रलय | hi | main | active | 5/10 | ⏳ |
+| विष्णु पुराण: कलियुग महाप्रलय | hi | main | active | 7/10 | ⏳ |
 
 ## Queue (next to make)
-short_purana_3, short_purana_2, short_purana_1, short_puranas_22, short_puranas_21, short_puranas_20, short_puranas_19, short_puranas_18, short_puranas_17, short_puranas_16, short_puranas_15, short_puranas_14
+short_poemimmortal_1, short_purana_3, short_purana_2, short_purana_1, short_puranas_22, short_puranas_21, short_puranas_20, short_puranas_19, short_puranas_18, short_puranas_17, short_puranas_16, short_puranas_15
 
 ## Latest uploads
 - short_katha_3_short1: https://youtu.be/WP6jwHDf1DM
@@ -82,27 +88,28 @@ short_purana_3, short_purana_2, short_purana_1, short_puranas_22, short_puranas_
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 4233 (public repo: no limit)
-- YouTube quota today (Pacific): 1869 / 9,800
+- GitHub minutes this month: 4472 (public repo: no limit)
+- YouTube quota today (Pacific): 2026-11-10 / 9,800
 
 ## This run
 ```
-10 Nov 06:46 AM IST] health ok | YouTube quota used today 1153 | GitHub minutes this month 4166
-10 Nov 07:33 AM IST] planner: waiting for Gemini's free limit (gemini-3.6-flash: 429 GenerateRequestsPerDayPerProjectPerModel-FreeTier (retry in 21447s) | gemini-3)
-10 Nov 07:35 AM IST] writer: waiting for Gemini's free limit (gemini-3.6-flash: 429 GenerateRequestsPerDayPerProjectPerModel-FreeTier (retry in 21393s) | gemini-3)
-10 Nov 07:36 AM IST] pictures for short_purana_2
-10 Nov 07:36 AM IST] metadata short_purana_2
-10 Nov 07:36 AM IST] short_purana_2_short1: upload waits (10 uploads done today - rest upload after the reset)
-10 Nov 07:36 AM IST] pictures for short_purana_1
-10 Nov 07:36 AM IST] pictures for short_puranas_2
-10 Nov 07:36 AM IST] pictures for short_katha_15
-10 Nov 07:36 AM IST] pictures for short_mythshorts_3
-10 Nov 07:36 AM IST] pictures for short_epics_5
-10 Nov 07:36 AM IST] pictures for short_katha_4
-10 Nov 07:36 AM IST] pictures for vishnu24
-10 Nov 07:36 AM IST] pictures for vishnupu05
-10 Nov 07:36 AM IST] metadata vishnupu05
-10 Nov 07:36 AM IST] queue worked through
-10 Nov 07:51 AM IST] backup Shorts: waiting for Gemini's free limit (gemini-3.6-flash: 429 GenerateRequestsPerDayPerProjectPerModel-FreeTier (retry in 20473s) | gemini-3)
-10 Nov 07:51 AM IST] promotion Short: waiting for Gemini's free limit (free Gemini kept for today's scripts first (they are not written yet))
+10 Nov 01:39 PM IST] health ok | YouTube quota used today 0 | GitHub minutes this month 4233
+10 Nov 05:25 PM IST] pictures for short_poemimmortal_1
+10 Nov 05:29 PM IST] render short_poemimmortal_1_short1
+10 Nov 05:32 PM IST] metadata short_poemimmortal_1
+10 Nov 05:32 PM IST] short_poemimmortal_1_short1: upload waits (YouTube quota: 10000 used today, need 110)
+10 Nov 05:32 PM IST] pictures for short_purana_2
+10 Nov 05:32 PM IST] pictures for short_purana_1
+10 Nov 05:32 PM IST] pictures for short_puranas_2
+10 Nov 05:32 PM IST] pictures for short_katha_15
+10 Nov 05:32 PM IST] pictures for short_mythshorts_3
+10 Nov 05:32 PM IST] pictures for short_epics_5
+10 Nov 05:32 PM IST] pictures for short_katha_4
+10 Nov 05:32 PM IST] pictures for vishnu24
+10 Nov 05:32 PM IST] pictures for vishnupu05
+10 Nov 05:32 PM IST] stopping for now: not enough time left in this run for the renders - continuing next run
+10 Nov 05:32 PM IST] improve: stopping for now: YouTube quota: 10000 used today, need 1
+10 Nov 05:36 PM IST] backup Shorts: waiting for Gemini's free limit (gemini-3.6-flash: 429 GenerateRequestsPerDayPerProjectPerModel-FreeTier (retry in 71770s) | gemini-3)
+10 Nov 05:36 PM IST] channel page: stopping for now: YouTube quota: 10000 used today, need 1
+10 Nov 05:36 PM IST] promotion Short: waiting for Gemini's free limit (gemini-3.6-flash: 429 GenerateRequestsPerDayPerProjectPerModel-FreeTier (retry in 71600s) | gemini-3)
 ```
