@@ -1,12 +1,12 @@
 # 🤖 Video bot status
-_Updated 10 Nov 2026, 01:32 AM IST by the bot._
+_Updated 10 Nov 2026, 07:52 AM IST by the bot._
 
 ## Targets
 | | Now | Target |
 |---|---|---|
 | Watch hours / day (28-day avg) | 1.09 | 10.0 |
 | New subscribers / day | 0.07 | 3.0 |
-| Watch hours, last 12 months (4,000 for monetization) | 318.7 | 4000 |
+| Watch hours, last 12 months (4,000 for monetization) | 318.0 | 4000 |
 
 ## Series
 | Series | Language | Channel | Status | Written | Movie |
@@ -16,13 +16,17 @@ _Updated 10 Nov 2026, 01:32 AM IST by the bot._
 | ब्रह्मांडीय महायुद्ध: 24 अवतारों की गाथा | hi | main | done | 10/10 | ⏳ |
 | दशानन: लंकापति का उदय और पतन | hi | main | active | 0/30 | ⏳ |
 | दशानन: मर्यादा और अहंकार का महायुद्ध | hi | main | active | 0/30 | ⏳ |
+| दशानन और मर्यादा: रावण का अंत | hi | main | active | 0/30 | ⏳ |
 | I Regressed 30 Days Before the Glitch Apocalypse | en | main | done | 10/10 | ✅ |
 | कल्कि | hi | main | done | 15/15 | ✅ |
 | कलि संहार: कल्कि अवतार और महायुद्ध | hi | main | done | 5/5 | ✅ |
 | लंकाधिपति: रावण की अनकही गाथा | hi | main | active | 0/30 | ⏳ |
+| मर्यादा और अहंकार: रावण का उदय और पतन | hi | main | active | 0/30 | ⏳ |
 | श्री नृसिंह कवच: उत्पत्ति, रहस्य और संपूर्ण अर्थ | hi | main | done | 2/2 | ✅ |
 | रक्तबीज बनाम महिषासुर: महाप्रलय | hi | main | done | 5/5 | ✅ |
 | रामायण: रावण का उदय और पतन | hi | main | next | 0/30 | ⏳ |
+| श्रीराम वनवास: धर्म, त्याग और महासंकल्प | hi | main | active | 0/30 | ⏳ |
+| रामायण: धर्म और अधर्म का महासंग्राम | hi | main | active | 0/30 | ⏳ |
 | सनातन रामायण: दशानन और मर्यादा पुरुषोत्तम | hi | main | next | 0/30 | ⏳ |
 | मर्यादा पुरुषोत्तम: रावण का उदय और पतन | hi | main | active | 0/30 | ⏳ |
 | रामायण: दशानन और धर्मयुद्ध | hi | main | active | 0/30 | ⏳ |
@@ -78,34 +82,27 @@ short_purana_3, short_purana_2, short_purana_1, short_puranas_22, short_puranas_
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 4166 (public repo: no limit)
-- YouTube quota today (Pacific): 1153 / 9,800
+- GitHub minutes this month: 4233 (public repo: no limit)
+- YouTube quota today (Pacific): 1869 / 9,800
 
 ## This run
 ```
-10 Nov 12:11 AM IST] writer: waiting for Gemini's free limit (gemini-3.5-flash: 429 GenerateRequestsPerDayPerProjectPerModel-FreeTier (retry in 47884s) | gemini-3)
-10 Nov 12:16 AM IST] pictures for short_purana_2
-10 Nov 12:20 AM IST] render short_purana_2_short1
-10 Nov 12:22 AM IST] metadata short_purana_2
-10 Nov 12:22 AM IST] short_purana_2_short1: upload waits (10 uploads done today - rest upload after the reset)
-10 Nov 12:22 AM IST] pictures for short_purana_1
-10 Nov 12:22 AM IST] pictures for short_puranas_2
-10 Nov 12:27 AM IST] render short_puranas_2_short1
-10 Nov 12:29 AM IST] pictures for short_katha_15
-10 Nov 12:34 AM IST] render short_katha_15_short1
-10 Nov 12:37 AM IST] pictures for short_mythshorts_3
-10 Nov 12:42 AM IST] render short_mythshorts_3_short1
-10 Nov 12:44 AM IST] pictures for short_epics_5
-10 Nov 12:48 AM IST] render short_epics_5_short1
-10 Nov 12:50 AM IST] pictures for short_katha_4
-10 Nov 12:55 AM IST] render short_katha_4_short1
-10 Nov 12:57 AM IST] pictures for vishnu24
-10 Nov 12:57 AM IST] pictures for vishnupu05
-10 Nov 12:58 AM IST] render vishnupu05
-10 Nov 01:24 AM IST] metadata vishnupu05
-10 Nov 01:24 AM IST] render vishnupu05_short1
-10 Nov 01:28 AM IST] render vishnupu05_short2
-10 Nov 01:31 AM IST] queue worked through
-10 Nov 01:32 AM IST] backup Shorts: waiting for Gemini's free limit (gemini-3.5-flash: 429 GenerateRequestsPerDayPerProjectPerModel-FreeTier (retry in 43032s) | gemini-3)
-10 Nov 01:32 AM IST] promotion Short: waiting for Gemini's free limit (free Gemini kept for today's scripts first (they are not written yet))
+10 Nov 06:46 AM IST] health ok | YouTube quota used today 1153 | GitHub minutes this month 4166
+10 Nov 07:33 AM IST] planner: waiting for Gemini's free limit (gemini-3.6-flash: 429 GenerateRequestsPerDayPerProjectPerModel-FreeTier (retry in 21447s) | gemini-3)
+10 Nov 07:35 AM IST] writer: waiting for Gemini's free limit (gemini-3.6-flash: 429 GenerateRequestsPerDayPerProjectPerModel-FreeTier (retry in 21393s) | gemini-3)
+10 Nov 07:36 AM IST] pictures for short_purana_2
+10 Nov 07:36 AM IST] metadata short_purana_2
+10 Nov 07:36 AM IST] short_purana_2_short1: upload waits (10 uploads done today - rest upload after the reset)
+10 Nov 07:36 AM IST] pictures for short_purana_1
+10 Nov 07:36 AM IST] pictures for short_puranas_2
+10 Nov 07:36 AM IST] pictures for short_katha_15
+10 Nov 07:36 AM IST] pictures for short_mythshorts_3
+10 Nov 07:36 AM IST] pictures for short_epics_5
+10 Nov 07:36 AM IST] pictures for short_katha_4
+10 Nov 07:36 AM IST] pictures for vishnu24
+10 Nov 07:36 AM IST] pictures for vishnupu05
+10 Nov 07:36 AM IST] metadata vishnupu05
+10 Nov 07:36 AM IST] queue worked through
+10 Nov 07:51 AM IST] backup Shorts: waiting for Gemini's free limit (gemini-3.6-flash: 429 GenerateRequestsPerDayPerProjectPerModel-FreeTier (retry in 20473s) | gemini-3)
+10 Nov 07:51 AM IST] promotion Short: waiting for Gemini's free limit (free Gemini kept for today's scripts first (they are not written yet))
 ```
