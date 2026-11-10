@@ -1,5 +1,5 @@
 # 🤖 Video bot status
-_Updated 10 Nov 2026, 06:55 PM IST by the bot._
+_Updated 10 Nov 2026, 10:32 PM IST by the bot._
 
 ## Targets
 | | Now | Target |
@@ -88,22 +88,14 @@ short_poemimmortal_1, short_purana_3, short_purana_2, short_purana_1, short_pura
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 4547 (public repo: no limit)
+- GitHub minutes this month: 4549 (public repo: no limit)
 - YouTube quota today (Pacific): 2026-11-10 / 9,800
 
 ## This run
 ```
-10 Nov 05:41 PM IST] health ok | YouTube quota used today 10000 | GitHub minutes this month 4472
-10 Nov 05:41 PM IST] stopping for now: YouTube quota: 10000 used today, need 1
-10 Nov 05:41 PM IST] improve: stopping for now: YouTube quota: 10000 used today, need 1
-10 Nov 05:41 PM IST] fill empty slots: stopping for now: YouTube quota: 10000 used today, need 110
-10 Nov 06:38 PM IST] pictures for short_devadatta_1
-10 Nov 06:42 PM IST] render short_devadatta_1_short1
-10 Nov 06:44 PM IST] metadata short_devadatta_1
-10 Nov 06:44 PM IST] backup Short ready: कल्कि अवतार के दिव्य घोड़े देवदत्त का रहस्य (भाग 1) (2/2)
-10 Nov 06:44 PM IST] channel page: stopping for now: YouTube quota: 10000 used today, need 1
-10 Nov 06:46 PM IST] pictures for short_promoepic_1
-10 Nov 06:52 PM IST] render short_promoepic_1_short1
-10 Nov 06:54 PM IST] metadata short_promoepic_1
-10 Nov 06:54 PM IST] promotion Short made: promotion for the series 'दशानन: रावण का उदय और राम कथा' (Va - uploads when an upload is free
+10 Nov 10:32 PM IST] health ok | YouTube quota used today 10000 | GitHub minutes this month 4547
+10 Nov 10:32 PM IST] stopping for now: YouTube quota: 10000 used today, need 1
+10 Nov 10:32 PM IST] improve: stopping for now: YouTube quota: 10000 used today, need 1
+10 Nov 10:32 PM IST] fill empty slots: stopping for now: YouTube quota: 10000 used today, need 110
+10 Nov 10:32 PM IST] channel page: stopping for now: YouTube quota: 10000 used today, need 1
 ```
