@@ -1,12 +1,12 @@
 # 🤖 Video bot status
-_Updated 11 Nov 2026, 07:42 AM IST by the bot._
+_Updated 11 Nov 2026, 04:16 PM IST by the bot._
 
 ## Targets
 | | Now | Target |
 |---|---|---|
-| Watch hours / day (28-day avg) | 1.09 | 10.0 |
+| Watch hours / day (28-day avg) | 1.06 | 10.0 |
 | New subscribers / day | 0.07 | 3.0 |
-| Watch hours, last 12 months (4,000 for monetization) | 318.0 | 4000 |
+| Watch hours, last 12 months (4,000 for monetization) | 318.1 | 4000 |
 
 ## Series
 | Series | Language | Channel | Status | Written | Movie |
@@ -15,13 +15,13 @@ _Updated 11 Nov 2026, 07:42 AM IST by the bot._
 | बप्पा रावल: मेवाड़ का सूर्य और अरबों का अंत | hi | main | done | 4/4 | ✅ |
 | माँ छिन्नमस्ता साधना: गुप्त तंत्र और कटी मुंड का रहस्य | hi | main | done | 3/3 | ✅ |
 | ब्रह्मांडीय महायुद्ध: 24 अवतारों की गाथा | hi | main | done | 10/10 | ⏳ |
-| दशानन: लंकापति का उदय और पतन | hi | main | active | 1/30 | ⏳ |
-| दशानन: मर्यादा और अहंकार का महायुद्ध | hi | main | active | 0/30 | ⏳ |
+| दशानन: लंकापति का उदय और पतन | hi | main | active | 4/30 | ⏳ |
+| दशानन: मर्यादा और अहंकार का महायुद्ध | hi | main | active | 4/30 | ⏳ |
 | दशानन और मर्यादा: रावण का अंत | hi | main | active | 0/30 | ⏳ |
 | I Regressed 30 Days Before the Glitch Apocalypse | en | main | done | 10/10 | ✅ |
 | कल्कि | hi | main | done | 15/15 | ✅ |
 | कलि संहार: कल्कि अवतार और महायुद्ध | hi | main | done | 5/5 | ✅ |
-| लंकाधिपति: रावण की अनकही गाथा | hi | main | active | 0/30 | ⏳ |
+| लंकाधिपति: रावण की अनकही गाथा | hi | main | active | 4/30 | ⏳ |
 | मर्यादा और अहंकार: रावण का उदय और पतन | hi | main | active | 0/30 | ⏳ |
 | श्री नृसिंह कवच: उत्पत्ति, रहस्य और संपूर्ण अर्थ | hi | main | done | 2/2 | ✅ |
 | रक्तबीज बनाम महिषासुर: महाप्रलय | hi | main | done | 5/5 | ✅ |
@@ -41,7 +41,7 @@ _Updated 11 Nov 2026, 07:42 AM IST by the bot._
 | रामायण: दशानन और धर्म का उत्थान | hi | main | active | 0/30 | ⏳ |
 | मर्यादा पुरुषोत्तम: दशानन का उदय और पतन | hi | main | active | 0/30 | ⏳ |
 | दशानन: साम्राज्य और विनाश | hi | main | next | 0/30 | ⏳ |
-| दशानन: धर्म, अहंकार और महासंग्राम | hi | main | next | 0/30 | ⏳ |
+| दशानन: धर्म, अहंकार और महासंग्राम | hi | main | active | 0/30 | ⏳ |
 | रावण: महाशक्ति का उदय और पतन | hi | main | next | 0/30 | ⏳ |
 | रावण: महाशक्ति का उदय और पतन | hi | main | active | 0/30 | ⏳ |
 | रावण: ब्रह्मांड का अधिनायक | hi | main | active | 0/30 | ⏳ |
@@ -49,20 +49,20 @@ _Updated 11 Nov 2026, 07:42 AM IST by the bot._
 | मर्यादा पुरुषोत्तम: राम और रावण की गाथा | hi | main | active | 0/30 | ⏳ |
 | लकापति: रावण का उदय और पतन | hi | main | active | 0/30 | ⏳ |
 | द वेल क्रैक्स: महाप्रलय | hi | main | done | 5/5 | – |
-| विष्णु पुराण: कलियुग महाप्रलय | hi | main | active | 7/10 | ⏳ |
+| विष्णु पुराण: कलियुग महाप्रलय | hi | main | active | 8/10 | ⏳ |
 
 ## Queue (next to make)
-short_poemimmortal_1, short_purana_3, short_purana_2, short_purana_1, short_puranas_22, short_puranas_21, short_puranas_20, short_puranas_19, short_puranas_18, short_puranas_17, short_puranas_16, short_puranas_15
+short_puranas_22, short_puranas_21, short_puranas_20, short_puranas_19, short_puranas_18, short_puranas_17, short_puranas_16, short_puranas_15, short_puranas_14, short_puranas_13, short_puranas_12, short_puranas_11
 
 ## Latest uploads
-- short_katha_3_short1: https://youtu.be/WP6jwHDf1DM
-- short_tales_3_short1: https://youtu.be/eSanSDQSQeQ
-- short_epics_2_short1: https://youtu.be/7_QYtodlAD0
-- short_epics_4_short1: https://youtu.be/9UkjTy2JSco
-- short_mythshorts_1_short1: https://youtu.be/jmTLOrfuCGs
-- short_mythshorts_2_short1: https://youtu.be/Ib356dcNlo0
-- short_katha_12_short1: https://youtu.be/oGGUDFy5wEI
-- short_katha_13_short1: https://youtu.be/Qs-SN-QQJn0
+- short_mythshorts_3_short1: https://youtu.be/_20_yvuyqm4
+- short_katha_15_short1: https://youtu.be/SDm8Cno2Hc8
+- short_katha_16_short1: https://youtu.be/dikEIlzQlbQ
+- short_puranas_2_short1: https://youtu.be/O2DFPWB4M5g
+- short_puranas_3_short1: https://youtu.be/5Gplc6W1wEk
+- short_purana_1_short1: https://youtu.be/Jik8uTucqi4
+- short_purana_2_short1: https://youtu.be/Xz3kXltpje0
+- short_purana_3_short1: https://youtu.be/QdpWUhtcjgA
 
 ## Titles the bot improved
 - कलि का अंत 😱 महायुद्ध में टूटा कलि का अहंकार! | Kalki vs Kali Duel | Kalki Puran भाग 14 → **क्या कल्कि अवतार करेंगे कलि का सर्वनाश? महायुद्ध का सच! 😱 Kalki Puran भाग 14**
@@ -88,20 +88,34 @@ short_poemimmortal_1, short_purana_3, short_purana_2, short_purana_1, short_pura
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 4603 (public repo: no limit)
-- YouTube quota today (Pacific): 2026-11-10 / 9,800
+- GitHub minutes this month: 4755 (public repo: no limit)
+- YouTube quota today (Pacific): 908 / 9,800
 
 ## This run
 ```
-11 Nov 06:49 AM IST] health ok | YouTube quota used today 10000 | GitHub minutes this month 4549
-11 Nov 06:49 AM IST] stopping for now: YouTube quota: 10000 used today, need 1
-11 Nov 06:49 AM IST] improve: stopping for now: YouTube quota: 10000 used today, need 1
-11 Nov 06:51 AM IST] no upload booked yet for 13 Nov - the next video goes there
-11 Nov 06:51 AM IST] fill empty slots: stopping for now: YouTube quota: 10000 used today, need 110
-11 Nov 07:27 AM IST] playlist sync: stopping for now: YouTube quota: 10000 used today, need 1
-11 Nov 07:27 AM IST] channel page: stopping for now: YouTube quota: 10000 used today, need 1
-11 Nov 07:29 AM IST] pictures for short_promopromo_5
-11 Nov 07:33 AM IST] render short_promopromo_5_short1
-11 Nov 07:37 AM IST] metadata short_promopromo_5
-11 Nov 07:37 AM IST] promotion Short made: promotion for the series 'रामायण: रावण का अहंकार और स्वर्ण म - uploads when an upload is free
+11 Nov 03:50 PM IST] render short_katha_16_short1
+11 Nov 03:53 PM IST] metadata short_katha_16
+11 Nov 03:54 PM IST] standalone Short short_katha_16 uploaded: https://youtu.be/dikEIlzQlbQ
+11 Nov 03:54 PM IST] short_katha_16 complete
+11 Nov 03:54 PM IST] pictures for short_katha_15
+11 Nov 03:54 PM IST] metadata short_katha_15
+11 Nov 03:54 PM IST] standalone Short short_katha_15 uploaded: https://youtu.be/SDm8Cno2Hc8
+11 Nov 03:54 PM IST] short_katha_15 complete
+11 Nov 03:54 PM IST] pictures for short_mythshorts_3
+11 Nov 03:54 PM IST] metadata short_mythshorts_3
+11 Nov 03:55 PM IST] standalone Short short_mythshorts_3 uploaded: https://youtu.be/_20_yvuyqm4
+11 Nov 03:55 PM IST] short_mythshorts_3 complete
+11 Nov 03:55 PM IST] pictures for short_epics_6
+11 Nov 03:59 PM IST] render short_epics_6_short1
+11 Nov 04:02 PM IST] metadata short_epics_6
+11 Nov 04:02 PM IST] short_epics_6_short1: upload waits (10 uploads done today - rest upload after the reset)
+11 Nov 04:02 PM IST] pictures for short_epics_5
+11 Nov 04:02 PM IST] pictures for short_katha_5
+11 Nov 04:06 PM IST] render short_katha_5_short1
+11 Nov 04:09 PM IST] pictures for short_katha_4
+11 Nov 04:09 PM IST] pictures for vishnu24
+11 Nov 04:09 PM IST] pictures for vishnupu05
+11 Nov 04:09 PM IST] metadata vishnupu05
+11 Nov 04:09 PM IST] pictures for dashanan01
+11 Nov 04:10 PM IST] stopping for now: not enough time left in this run for the renders - continuing next run
 ```
