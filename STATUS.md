@@ -1,5 +1,5 @@
 # 🤖 Video bot status
-_Updated 10 Nov 2026, 10:32 PM IST by the bot._
+_Updated 11 Nov 2026, 07:42 AM IST by the bot._
 
 ## Targets
 | | Now | Target |
@@ -72,13 +72,13 @@ short_poemimmortal_1, short_purana_3, short_purana_2, short_purana_1, short_pura
 - रामायण का सबसे महान और मौन त्याग: उर्मिला 💔 #shorts #ramayan #history → **उर्मिला ने 14 साल तक क्यों किया यह महान त्याग? 🙏 #shorts #ramayan #history**
 
 ## Promotion Shorts (unlisted, for paid ads)
+- 2026-11-11: promotion for the series 'रामायण: रावण का अहंकार और स्वर्ण मृग' (Valmi - uploads when an upload is free
 - 2026-11-10: promotion for the series 'दशानन: रावण का उदय और राम कथा' (Valmiki Rama - uploads when an upload is free
 - 2026-11-07: promotion for the series 'विष्णु पुराण: कलियुग महाप्रलय' (विष्णु पुराण - uploads when an upload is free
 - 2026-11-06: promotion for the series 'द वेल क्रैक्स: महाप्रलय' (The Veil Cracks (E - uploads when an upload is free
 - 2026-11-05: promotion for the series 'कल्कि' (Kalki Purana and Puranic belief, dra - uploads when an upload is free
 - 2026-11-04: promotion for the series 'कल्कि' (Kalki Purana and Puranic belief, dra - uploads when an upload is free
 - 2026-11-03: promotion for the series 'ब्रह्मांडीय महायुद्ध: 24 अवतारों की गाथा' (श - uploads when an upload is free
-- 2026-11-02: promotion for the whole channel: the best of Sujay Ganguly Creations - - uploads when an upload is free
 
 ## Sponsorship outreach (weekly)
 - 2026-10-26: 1 new companies stored (not emailed - growing first), 1 stored in total
@@ -88,14 +88,20 @@ short_poemimmortal_1, short_purana_3, short_purana_2, short_purana_1, short_pura
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 4549 (public repo: no limit)
+- GitHub minutes this month: 4603 (public repo: no limit)
 - YouTube quota today (Pacific): 2026-11-10 / 9,800
 
 ## This run
 ```
-10 Nov 10:32 PM IST] health ok | YouTube quota used today 10000 | GitHub minutes this month 4547
-10 Nov 10:32 PM IST] stopping for now: YouTube quota: 10000 used today, need 1
-10 Nov 10:32 PM IST] improve: stopping for now: YouTube quota: 10000 used today, need 1
-10 Nov 10:32 PM IST] fill empty slots: stopping for now: YouTube quota: 10000 used today, need 110
-10 Nov 10:32 PM IST] channel page: stopping for now: YouTube quota: 10000 used today, need 1
+11 Nov 06:49 AM IST] health ok | YouTube quota used today 10000 | GitHub minutes this month 4549
+11 Nov 06:49 AM IST] stopping for now: YouTube quota: 10000 used today, need 1
+11 Nov 06:49 AM IST] improve: stopping for now: YouTube quota: 10000 used today, need 1
+11 Nov 06:51 AM IST] no upload booked yet for 13 Nov - the next video goes there
+11 Nov 06:51 AM IST] fill empty slots: stopping for now: YouTube quota: 10000 used today, need 110
+11 Nov 07:27 AM IST] playlist sync: stopping for now: YouTube quota: 10000 used today, need 1
+11 Nov 07:27 AM IST] channel page: stopping for now: YouTube quota: 10000 used today, need 1
+11 Nov 07:29 AM IST] pictures for short_promopromo_5
+11 Nov 07:33 AM IST] render short_promopromo_5_short1
+11 Nov 07:37 AM IST] metadata short_promopromo_5
+11 Nov 07:37 AM IST] promotion Short made: promotion for the series 'रामायण: रावण का अहंकार और स्वर्ण म - uploads when an upload is free
 ```
