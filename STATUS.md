@@ -1,5 +1,5 @@
 # 🤖 Video bot status
-_Updated 12 Nov 2026, 01:53 PM IST by the bot._
+_Updated 12 Nov 2026, 03:29 PM IST by the bot._
 
 ## Targets
 | | Now | Target |
@@ -52,7 +52,7 @@ _Updated 12 Nov 2026, 01:53 PM IST by the bot._
 | विष्णु पुराण: कलियुग महाप्रलय | hi | main | active | 8/10 | ⏳ |
 
 ## Queue (next to make)
-short_puranas_22, short_puranas_21, short_puranas_20, short_puranas_19, short_puranas_18, short_puranas_17, short_puranas_16, short_puranas_15, short_puranas_14, short_puranas_13, short_puranas_12, short_puranas_11
+short_poemreunion_1, short_puranas_22, short_puranas_21, short_puranas_20, short_puranas_19, short_puranas_18, short_puranas_17, short_puranas_16, short_puranas_15, short_puranas_14, short_puranas_13, short_puranas_12
 
 ## Latest uploads
 - short_katha_4_short1: https://youtu.be/JCAdYvPp1qI
@@ -88,34 +88,22 @@ short_puranas_22, short_puranas_21, short_puranas_20, short_puranas_19, short_pu
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 5076 (public repo: no limit)
-- YouTube quota today (Pacific): 203 / 9,800
+- GitHub minutes this month: 5118 (public repo: no limit)
+- YouTube quota today (Pacific): 216 / 9,800
 
 ## This run
 ```
-12 Nov 01:51 PM IST] metadata short_epics_5
-12 Nov 01:52 PM IST] standalone Short short_epics_5 uploaded: https://youtu.be/Tsib6o8NTAo
-12 Nov 01:52 PM IST] short_epics_5 complete
-12 Nov 01:52 PM IST] pictures for short_katha_6
-12 Nov 01:52 PM IST] metadata short_katha_6
-12 Nov 01:52 PM IST] standalone Short short_katha_6 uploaded: https://youtu.be/xnQczWycDrU
-12 Nov 01:52 PM IST] short_katha_6 complete
-12 Nov 01:52 PM IST] pictures for short_katha_5
-12 Nov 01:52 PM IST] metadata short_katha_5
-12 Nov 01:52 PM IST] standalone Short short_katha_5 uploaded: https://youtu.be/Ws0YUcfV3Dw
-12 Nov 01:52 PM IST] short_katha_5 complete
-12 Nov 01:52 PM IST] pictures for short_katha_4
-12 Nov 01:52 PM IST] metadata short_katha_4
-12 Nov 01:52 PM IST] standalone Short short_katha_4 uploaded: https://youtu.be/JCAdYvPp1qI
-12 Nov 01:52 PM IST] short_katha_4 complete
-12 Nov 01:52 PM IST] pictures for vishnu24
-12 Nov 01:52 PM IST] metadata vishnu24
-12 Nov 01:52 PM IST] YouTube quota used up (10 uploads done today - rest upload after the reset) - rendering continues, uploads next run
-12 Nov 01:52 PM IST] pictures for vishnupu05
-12 Nov 01:52 PM IST] metadata vishnupu05
-12 Nov 01:52 PM IST] pictures for dashanan01
-12 Nov 01:52 PM IST] metadata dashanan01
-12 Nov 01:52 PM IST] pictures for lankadhi01
-12 Nov 01:52 PM IST] metadata lankadhi01
-12 Nov 01:52 PM IST] queue worked through
+12 Nov 02:48 PM IST] health ok | YouTube quota used today 203 | GitHub minutes this month 5076
+12 Nov 03:17 PM IST] pictures for short_poemreunion_1
+12 Nov 03:24 PM IST] render short_poemreunion_1_short1
+12 Nov 03:28 PM IST] metadata short_poemreunion_1
+12 Nov 03:28 PM IST] short_poemreunion_1_short1: upload waits (10 uploads done today - rest upload after the reset)
+12 Nov 03:28 PM IST] pictures for vishnu24
+12 Nov 03:28 PM IST] pictures for vishnupu05
+12 Nov 03:28 PM IST] metadata vishnupu05
+12 Nov 03:28 PM IST] pictures for dashanan01
+12 Nov 03:28 PM IST] metadata dashanan01
+12 Nov 03:28 PM IST] pictures for lankadhi01
+12 Nov 03:28 PM IST] metadata lankadhi01
+12 Nov 03:28 PM IST] queue worked through
 ```
