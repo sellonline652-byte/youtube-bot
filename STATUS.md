@@ -1,11 +1,11 @@
 # 🤖 Video bot status
-_Updated 11 Nov 2026, 11:18 PM IST by the bot._
+_Updated 12 Nov 2026, 08:58 AM IST by the bot._
 
 ## Targets
 | | Now | Target |
 |---|---|---|
-| Watch hours / day (28-day avg) | 1.06 | 10.0 |
-| New subscribers / day | 0.07 | 3.0 |
+| Watch hours / day (28-day avg) | 0.99 | 10.0 |
+| New subscribers / day | 0.11 | 3.0 |
 | Watch hours, last 12 months (4,000 for monetization) | 318.1 | 4000 |
 
 ## Series
@@ -65,20 +65,20 @@ short_songbhajan_9, short_poemquest_1, short_puranas_22, short_puranas_21, short
 - short_purana_3_short1: https://youtu.be/QdpWUhtcjgA
 
 ## Titles the bot improved
-- कलि का अंत 😱 महायुद्ध में टूटा कलि का अहंकार! | Kalki vs Kali Duel | Kalki Puran भाग 14 → **क्या कल्कि अवतार करेंगे कलि का सर्वनाश? महायुद्ध का सच! 😱 Kalki Puran भाग 14**
-- महिषासुर का दैत्य भैंसा रूप देख थर्राई धरती 😱 #shorts #mythology → **महिषासुर के इस रूप से क्यों थर्राई धरती? 😱 #shorts**
 - Printable Planners, AI Prompts & Kids Activities PDF #shorts → **Who is the Kalki Avatar? Bhagwan Vishnu ke 24 Avatar activities 🕉️ #shorts**
 - भगवान विष्णु का वराह अवतार: पाताल से पृथ्वी का उद्धार 💥 Hiranyaksha Vadh | भाग 2 | Kalki Avatar → **वराह अवतार ने पृथ्वी को कैसे बचाया? भगवान विष्णु के 24 अवतार | भाग 2 | Kalki Avatar 🐗**
 - रामायण का सबसे महान और मौन त्याग: उर्मिला 💔 #shorts #ramayan #history → **उर्मिला ने 14 साल तक क्यों किया यह महान त्याग? 🙏 #shorts #ramayan #history**
+- भगवान विष्णु का श्री कृष्ण अवतार: कुरुक्षेत्र का धर्मयुद्ध और गीता ज्ञान 😱 | Vishnu Avatars भाग 7 → **श्री कृष्ण ने कुरुक्षेत्र में ही क्यों दिया गीता ज्ञान? | Vishnu Avatars भाग 7 🙏**
+- भगवान विष्णु का कल्कि अवतार: कलियुग का चरम और शंभल पर असुरी हमला! 😱 | भाग 9 | Kalki Avatar → **क्या शंभल को बचा पाएंगे कल्कि अवतार? असुरों का भीषण हमला! ⚔️ | भाग 9 | Kalki Avatar**
 
 ## Promotion Shorts (unlisted, for paid ads)
+- 2026-11-12: promotion for the series 'श्रीराम कथा: पंचवटी से अशोक वाटिका' (Valmiki - uploads when an upload is free
 - 2026-11-11: promotion for the series 'रामायण: रावण का अहंकार और स्वर्ण मृग' (Valmi - uploads when an upload is free
 - 2026-11-10: promotion for the series 'दशानन: रावण का उदय और राम कथा' (Valmiki Rama - uploads when an upload is free
 - 2026-11-07: promotion for the series 'विष्णु पुराण: कलियुग महाप्रलय' (विष्णु पुराण - uploads when an upload is free
 - 2026-11-06: promotion for the series 'द वेल क्रैक्स: महाप्रलय' (The Veil Cracks (E - uploads when an upload is free
 - 2026-11-05: promotion for the series 'कल्कि' (Kalki Purana and Puranic belief, dra - uploads when an upload is free
 - 2026-11-04: promotion for the series 'कल्कि' (Kalki Purana and Puranic belief, dra - uploads when an upload is free
-- 2026-11-03: promotion for the series 'ब्रह्मांडीय महायुद्ध: 24 अवतारों की गाथा' (श - uploads when an upload is free
 
 ## Sponsorship outreach (weekly)
 - 2026-10-26: 1 new companies stored (not emailed - growing first), 1 stored in total
@@ -88,27 +88,34 @@ short_songbhajan_9, short_poemquest_1, short_puranas_22, short_puranas_21, short
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 4950 (public repo: no limit)
-- YouTube quota today (Pacific): 934 / 9,800
+- GitHub minutes this month: 5070 (public repo: no limit)
+- YouTube quota today (Pacific): 1275 / 9,800
 
 ## This run
 ```
-11 Nov 10:39 PM IST] health ok | YouTube quota used today 921 | GitHub minutes this month 4909
-11 Nov 11:09 PM IST] pictures for short_songbhajan_9
-11 Nov 11:15 PM IST] render short_songbhajan_9_short1
-11 Nov 11:17 PM IST] metadata short_songbhajan_9
-11 Nov 11:17 PM IST] short_songbhajan_9_short1: upload waits (10 uploads done today - rest upload after the reset)
-11 Nov 11:17 PM IST] pictures for short_poemquest_1
-11 Nov 11:17 PM IST] pictures for short_epics_6
-11 Nov 11:17 PM IST] pictures for short_epics_5
-11 Nov 11:17 PM IST] pictures for short_katha_5
-11 Nov 11:17 PM IST] pictures for short_katha_4
-11 Nov 11:17 PM IST] pictures for vishnu24
-11 Nov 11:17 PM IST] pictures for vishnupu05
-11 Nov 11:17 PM IST] metadata vishnupu05
-11 Nov 11:17 PM IST] pictures for dashanan01
-11 Nov 11:17 PM IST] metadata dashanan01
-11 Nov 11:17 PM IST] pictures for lankadhi01
-11 Nov 11:17 PM IST] metadata lankadhi01
-11 Nov 11:17 PM IST] queue worked through
+12 Nov 08:17 AM IST] pictures for short_poemquest_1
+12 Nov 08:17 AM IST] pictures for short_puranas_4
+12 Nov 08:21 AM IST] render short_puranas_4_short1
+12 Nov 08:23 AM IST] pictures for short_katha_17
+12 Nov 08:28 AM IST] render short_katha_17_short1
+12 Nov 08:29 AM IST] pictures for short_epics_7
+12 Nov 08:33 AM IST] render short_epics_7_short1
+12 Nov 08:35 AM IST] pictures for short_epics_6
+12 Nov 08:35 AM IST] pictures for short_epics_5
+12 Nov 08:35 AM IST] pictures for short_katha_6
+12 Nov 08:38 AM IST] render short_katha_6_short1
+12 Nov 08:40 AM IST] pictures for short_katha_5
+12 Nov 08:40 AM IST] pictures for short_katha_4
+12 Nov 08:40 AM IST] pictures for vishnu24
+12 Nov 08:40 AM IST] pictures for vishnupu05
+12 Nov 08:40 AM IST] metadata vishnupu05
+12 Nov 08:40 AM IST] pictures for dashanan01
+12 Nov 08:40 AM IST] metadata dashanan01
+12 Nov 08:40 AM IST] pictures for lankadhi01
+12 Nov 08:40 AM IST] metadata lankadhi01
+12 Nov 08:40 AM IST] queue worked through
+12 Nov 08:52 AM IST] pictures for short_promobhakti_1
+12 Nov 08:55 AM IST] render short_promobhakti_1_short1
+12 Nov 08:57 AM IST] metadata short_promobhakti_1
+12 Nov 08:57 AM IST] promotion Short made: promotion for the series 'श्रीराम कथा: पंचवटी से अशोक वाटिका - uploads when an upload is free
 ```
