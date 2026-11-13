@@ -1,12 +1,12 @@
 # 🤖 Video bot status
-_Updated 12 Nov 2026, 11:29 PM IST by the bot._
+_Updated 13 Nov 2026, 10:01 AM IST by the bot._
 
 ## Targets
 | | Now | Target |
 |---|---|---|
 | Watch hours / day (28-day avg) | 0.99 | 10.0 |
 | New subscribers / day | 0.11 | 3.0 |
-| Watch hours, last 12 months (4,000 for monetization) | 318.1 | 4000 |
+| Watch hours, last 12 months (4,000 for monetization) | 317.9 | 4000 |
 
 ## Series
 | Series | Language | Channel | Status | Written | Movie |
@@ -72,13 +72,13 @@ short_songbhajan_10, short_poemreunion_1, short_puranas_22, short_puranas_21, sh
 - भगवान विष्णु का कल्कि अवतार: कलियुग का चरम और शंभल पर असुरी हमला! 😱 | भाग 9 | Kalki Avatar → **क्या शंभल को बचा पाएंगे कल्कि अवतार? असुरों का भीषण हमला! ⚔️ | भाग 9 | Kalki Avatar**
 
 ## Promotion Shorts (unlisted, for paid ads)
+- 2026-11-13: promotion for the series 'मर्यादा पुरुषोत्तम: रावण का उदय और पतन' (Val - uploads when an upload is free
 - 2026-11-12: promotion for the series 'श्रीराम कथा: पंचवटी से अशोक वाटिका' (Valmiki - uploads when an upload is free
 - 2026-11-11: promotion for the series 'रामायण: रावण का अहंकार और स्वर्ण मृग' (Valmi - uploads when an upload is free
 - 2026-11-10: promotion for the series 'दशानन: रावण का उदय और राम कथा' (Valmiki Rama - uploads when an upload is free
 - 2026-11-07: promotion for the series 'विष्णु पुराण: कलियुग महाप्रलय' (विष्णु पुराण - uploads when an upload is free
 - 2026-11-06: promotion for the series 'द वेल क्रैक्स: महाप्रलय' (The Veil Cracks (E - uploads when an upload is free
 - 2026-11-05: promotion for the series 'कल्कि' (Kalki Purana and Puranic belief, dra - uploads when an upload is free
-- 2026-11-04: promotion for the series 'कल्कि' (Kalki Purana and Puranic belief, dra - uploads when an upload is free
 
 ## Sponsorship outreach (weekly)
 - 2026-10-26: 1 new companies stored (not emailed - growing first), 1 stored in total
@@ -88,23 +88,34 @@ short_songbhajan_10, short_poemreunion_1, short_puranas_22, short_puranas_21, sh
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 5163 (public repo: no limit)
-- YouTube quota today (Pacific): 429 / 9,800
+- GitHub minutes this month: 5360 (public repo: no limit)
+- YouTube quota today (Pacific): 666 / 9,800
 
 ## This run
 ```
-12 Nov 10:46 PM IST] health ok | YouTube quota used today 216 | GitHub minutes this month 5118
-12 Nov 11:18 PM IST] pictures for short_songbhajan_10
-12 Nov 11:22 PM IST] render short_songbhajan_10_short1
-12 Nov 11:29 PM IST] metadata short_songbhajan_10
-12 Nov 11:29 PM IST] short_songbhajan_10_short1: upload waits (10 uploads done today - rest upload after the reset)
-12 Nov 11:29 PM IST] pictures for short_poemreunion_1
-12 Nov 11:29 PM IST] pictures for vishnu24
-12 Nov 11:29 PM IST] pictures for vishnupu05
-12 Nov 11:29 PM IST] metadata vishnupu05
-12 Nov 11:29 PM IST] pictures for dashanan01
-12 Nov 11:29 PM IST] metadata dashanan01
-12 Nov 11:29 PM IST] pictures for lankadhi01
-12 Nov 11:29 PM IST] metadata lankadhi01
-12 Nov 11:29 PM IST] queue worked through
+13 Nov 06:55 AM IST] health ok | YouTube quota used today 429 | GitHub minutes this month 5163
+13 Nov 07:29 AM IST] pictures for short_songbhajan_10
+13 Nov 07:29 AM IST] metadata short_songbhajan_10
+13 Nov 07:29 AM IST] short_songbhajan_10_short1: upload waits (10 uploads done today - rest upload after the reset)
+13 Nov 07:29 AM IST] pictures for short_poemreunion_1
+13 Nov 07:29 AM IST] pictures for short_puranas_5
+13 Nov 07:34 AM IST] render short_puranas_5_short1
+13 Nov 07:36 AM IST] pictures for short_katha_18
+13 Nov 07:41 AM IST] render short_katha_18_short1
+13 Nov 07:43 AM IST] pictures for short_epics_8
+13 Nov 07:47 AM IST] render short_epics_8_short1
+13 Nov 07:49 AM IST] pictures for short_katha_7
+13 Nov 07:54 AM IST] render short_katha_7_short1
+13 Nov 07:56 AM IST] pictures for vishnu24
+13 Nov 07:56 AM IST] pictures for vishnupu05
+13 Nov 07:56 AM IST] metadata vishnupu05
+13 Nov 07:56 AM IST] pictures for dashanan01
+13 Nov 07:56 AM IST] metadata dashanan01
+13 Nov 07:56 AM IST] pictures for lankadhi01
+13 Nov 07:56 AM IST] metadata lankadhi01
+13 Nov 07:56 AM IST] queue worked through
+13 Nov 07:59 AM IST] pictures for short_promopromo_6
+13 Nov 08:03 AM IST] render short_promopromo_6_short1
+13 Nov 08:05 AM IST] metadata short_promopromo_6
+13 Nov 08:05 AM IST] promotion Short made: promotion for the series 'मर्यादा पुरुषोत्तम: रावण का उदय और - uploads when an upload is free
 ```
