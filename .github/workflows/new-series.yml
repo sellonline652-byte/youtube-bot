@@ -1,0 +1,96 @@
+name: New series
+
+on:
+  workflow_dispatch:
+    inputs:
+      topic:
+        description: "Title or topic (any language) - or leave empty and give a link"
+        required: false
+      link:
+        description: "Link to take the idea from (YouTube, Facebook, Instagram, any website) - optional"
+        required: false
+      language:
+        description: "Language of the series"
+        type: choice
+        default: hi
+        options: [hi, bn, en, ta, te, mr, gu, kn, ml, pa]
+      channel:
+        description: "Channel (main = Sujay Ganguly Creations; a new slot = connect it first)"
+        type: choice
+        default: main
+        options: [main, channel2, channel3, channel4, channel5]
+      episodes:
+        description: "Number of episodes"
+        type: choice
+        default: "10"
+        options: ["5", "8", "10", "12", "15", "20", "24"]
+      minutes:
+        description: "Minutes per episode"
+        type: choice
+        default: "12"
+        options: ["8", "10", "12", "15"]
+
+concurrency:
+  group: video-bot
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+env:
+  BOT_WORK: ${{ github.workspace }}/work
+  REPO_KEY: ${{ secrets.REPO_KEY }}
+  YT_TOKEN: ${{ secrets.YT_TOKEN }}
+  BOT_KEY: ${{ secrets.BOT_KEY }}
+  GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+  GEMINI_API_KEY_2: ${{ secrets.GEMINI_API_KEY_2 }}   # optional second key
+  GH_TOKEN: ${{ github.token }}
+
+jobs:
+  plan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main                 # newest code even when this run waited behind another run
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: Unlock the bot
+        run: pip install -q cryptography && python vault/boot.py open
+      - run: pip install -q -r requirements.txt
+      - name: Research and plan the series
+        env:
+          TOPIC: ${{ github.event.inputs.topic }}
+          LINK: ${{ github.event.inputs.link }}
+          LANGUAGE: ${{ github.event.inputs.language }}
+          CHANNEL: ${{ github.event.inputs.channel }}
+          EPISODES: ${{ github.event.inputs.episodes }}
+          MINUTES: ${{ github.event.inputs.minutes }}
+        run: >
+          python bot/planner.py request --topic "$TOPIC" --link "$LINK" --language "$LANGUAGE"
+          --channel "$CHANNEL" --episodes "$EPISODES" --minutes "$MINUTES"
+      - name: Lock and save
+        if: always()
+        run: |
+          python vault/boot.py seal || true
+          git config user.name "video-bot"
+          git config user.email "video-bot@users.noreply.github.com"
+          git add vault.enc STATUS.md
+          git diff --cached --quiet || git commit -q -m "bot: new series request"
+          for try in 1 2 3; do        # code was pushed meanwhile: keep this run's progress + the newer code
+            git push -q && break
+            git fetch -q origin main
+            git show origin/main:vault.enc > "$RUNNER_TEMP/remote.enc"
+            python vault/boot.py adopt-code "$RUNNER_TEMP/remote.enc"
+            python vault/boot.py seal
+            git reset -q origin/main          # index = newest remote files; only vault + status are ours
+            git add vault.enc STATUS.md
+            git commit -q -m "bot: progress $(date -u +%F)"
+          done
+          git fetch -q origin main
+          if [ "$(git rev-list --count origin/main..HEAD)" != "0" ]; then
+            echo "SAVE FAILED: this run's progress could not be pushed"; exit 1
+          fi
