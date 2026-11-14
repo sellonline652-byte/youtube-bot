@@ -1,12 +1,12 @@
 # 🤖 Video bot status
-_Updated 14 Nov 2026, 03:33 PM IST by the bot._
+_Updated 15 Nov 2026, 01:49 AM IST by the bot._
 
 ## Targets
 | | Now | Target |
 |---|---|---|
-| Watch hours / day (28-day avg) | 0.96 | 10.0 |
-| New subscribers / day | 0.11 | 3.0 |
-| Watch hours, last 12 months (4,000 for monetization) | 318.0 | 4000 |
+| Watch hours / day (28-day avg) | 0.97 | 10.0 |
+| New subscribers / day | 0.04 | 3.0 |
+| Watch hours, last 12 months (4,000 for monetization) | 318.4 | 4000 |
 
 ## Series
 | Series | Language | Channel | Status | Written | Movie |
@@ -49,10 +49,10 @@ _Updated 14 Nov 2026, 03:33 PM IST by the bot._
 | मर्यादा पुरुषोत्तम: राम और रावण की गाथा | hi | main | active | 0/30 | ⏳ |
 | लकापति: रावण का उदय और पतन | hi | main | active | 0/30 | ⏳ |
 | द वेल क्रैक्स: महाप्रलय | hi | main | done | 5/5 | – |
-| विष्णु पुराण: कलियुग महाप्रलय | hi | main | active | 9/10 | ⏳ |
+| विष्णु पुराण: कलियुग महाप्रलय | hi | main | active | 10/10 | ⏳ |
 
 ## Queue (next to make)
-short_puranas_22, short_puranas_21, short_puranas_20, short_puranas_19, short_puranas_18, short_puranas_17, short_puranas_16, short_puranas_15, short_puranas_14, short_puranas_13, short_puranas_12, short_puranas_11
+short_poemdevotion_2, short_puranas_22, short_puranas_21, short_puranas_20, short_puranas_19, short_puranas_18, short_puranas_17, short_puranas_16, short_puranas_15, short_puranas_14, short_puranas_13, short_puranas_12
 
 ## Latest uploads
 - vishnupu07: https://youtu.be/WnuRUjMSHMI
@@ -72,13 +72,13 @@ short_puranas_22, short_puranas_21, short_puranas_20, short_puranas_19, short_pu
 - विष्णु पुराण की खौफनाक भविष्यवाणी: जब धन ही धर्म बन जाएगा 😱 | भाग 2 | Kalki Avatar → **क्या धन ही धर्म बन जाएगा? 😱 | विष्णु पुराण की भविष्यवाणी | Kalki Avatar | भाग 2 #shorts**
 
 ## Promotion Shorts (unlisted, for paid ads)
+- 2026-11-15: promotion for the series 'सनातन गाथा: अहल्या उद्धार और रामायण' (वाल्मी - uploads when an upload is free
 - 2026-11-14: promotion for the series 'रामायण: दशानन और धर्मयुद्ध' (Valmiki Ramayan - uploads when an upload is free
 - 2026-11-13: promotion for the series 'मर्यादा पुरुषोत्तम: रावण का उदय और पतन' (Val - uploads when an upload is free
 - 2026-11-12: promotion for the series 'श्रीराम कथा: पंचवटी से अशोक वाटिका' (Valmiki - uploads when an upload is free
 - 2026-11-11: promotion for the series 'रामायण: रावण का अहंकार और स्वर्ण मृग' (Valmi - uploads when an upload is free
 - 2026-11-10: promotion for the series 'दशानन: रावण का उदय और राम कथा' (Valmiki Rama - uploads when an upload is free
 - 2026-11-07: promotion for the series 'विष्णु पुराण: कलियुग महाप्रलय' (विष्णु पुराण - uploads when an upload is free
-- 2026-11-06: promotion for the series 'द वेल क्रैक्स: महाप्रलय' (The Veil Cracks (E - uploads when an upload is free
 
 ## Sponsorship outreach (weekly)
 - 2026-10-26: 1 new companies stored (not emailed - growing first), 1 stored in total
@@ -88,34 +88,28 @@ short_puranas_22, short_puranas_21, short_puranas_20, short_puranas_19, short_pu
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 5735 (public repo: no limit)
-- YouTube quota today (Pacific): 403 / 9,800
+- GitHub minutes this month: 5942 (public repo: no limit)
+- YouTube quota today (Pacific): 740 / 9,800
 
 ## This run
 ```
-14 Nov 02:37 PM IST] short_epics_9 complete
-14 Nov 02:37 PM IST] pictures for short_katha_8
-14 Nov 02:37 PM IST] metadata short_katha_8
-14 Nov 02:40 PM IST] standalone Short short_katha_8 uploaded: https://youtu.be/4BHMl2qPgxw
-14 Nov 02:40 PM IST] short_katha_8 complete
-14 Nov 02:40 PM IST] pictures for vishnu24
-14 Nov 02:40 PM IST] metadata vishnu24
-14 Nov 02:40 PM IST] vishnu24: 1 Short(s) a day - the next one goes tomorrow
-14 Nov 02:40 PM IST] pictures for vishnupu06
-14 Nov 02:40 PM IST] metadata vishnupu06
-14 Nov 02:41 PM IST] metadata vishnupu06
-14 Nov 02:41 PM IST] metadata vishnupu06
-14 Nov 02:42 PM IST] vishnupu06 complete
-14 Nov 02:42 PM IST] pictures for vishnupu07
-14 Nov 02:43 PM IST] render vishnupu07
-14 Nov 03:22 PM IST] metadata vishnupu07
-14 Nov 03:24 PM IST] render vishnupu07_short1
-14 Nov 03:28 PM IST] metadata vishnupu07
-14 Nov 03:28 PM IST] YouTube quota used up (10 uploads done today - rest upload after the reset) - rendering continues, uploads next run
-14 Nov 03:28 PM IST] render vishnupu07_short2
-14 Nov 03:32 PM IST] pictures for dashanan01
-14 Nov 03:32 PM IST] metadata dashanan01
-14 Nov 03:32 PM IST] pictures for lankadhi01
-14 Nov 03:32 PM IST] metadata lankadhi01
-14 Nov 03:33 PM IST] queue worked through
+14 Nov 10:23 PM IST] health ok | YouTube quota used today 403 | GitHub minutes this month 5735
+15 Nov 01:07 AM IST] pictures for short_poemdevotion_2
+15 Nov 01:12 AM IST] render short_poemdevotion_2_short1
+15 Nov 01:15 AM IST] metadata short_poemdevotion_2
+15 Nov 01:15 AM IST] short_poemdevotion_2_short1: upload waits (10 uploads done today - rest upload after the reset)
+15 Nov 01:15 AM IST] pictures for short_puranas_7
+15 Nov 01:19 AM IST] render short_puranas_7_short1
+15 Nov 01:22 AM IST] pictures for short_epics_10
+15 Nov 01:27 AM IST] render short_epics_10_short1
+15 Nov 01:30 AM IST] pictures for short_katha_9
+15 Nov 01:34 AM IST] render short_katha_9_short1
+15 Nov 01:36 AM IST] pictures for vishnu24
+15 Nov 01:36 AM IST] pictures for vishnupu07
+15 Nov 01:36 AM IST] pictures for dashanan01
+15 Nov 01:36 AM IST] stopping for now: not enough time left in this run for the renders - continuing next run
+15 Nov 01:39 AM IST] pictures for short_promosaga_1
+15 Nov 01:44 AM IST] render short_promosaga_1_short1
+15 Nov 01:46 AM IST] metadata short_promosaga_1
+15 Nov 01:47 AM IST] promotion Short made: promotion for the series 'सनातन गाथा: अहल्या उद्धार और रामाय - uploads when an upload is free
 ```
