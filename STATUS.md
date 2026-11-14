@@ -1,5 +1,5 @@
 # 🤖 Video bot status
-_Updated 14 Nov 2026, 08:32 AM IST by the bot._
+_Updated 14 Nov 2026, 08:37 AM IST by the bot._
 
 ## Targets
 | | Now | Target |
@@ -88,32 +88,25 @@ short_songbhajan_11, short_poempaduka_1, short_puranas_22, short_puranas_21, sho
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 5669 (public repo: no limit)
-- YouTube quota today (Pacific): 661 / 9,800
+- GitHub minutes this month: 5671 (public repo: no limit)
+- YouTube quota today (Pacific): 674 / 9,800
 
 ## This run
 ```
-14 Nov 06:50 AM IST] health ok | YouTube quota used today 529 | GitHub minutes this month 5565
-14 Nov 07:47 AM IST] pictures for short_songbhajan_11
-14 Nov 07:47 AM IST] metadata short_songbhajan_11
-14 Nov 07:47 AM IST] short_songbhajan_11_short1: upload waits (10 uploads done today - rest upload after the reset)
-14 Nov 07:47 AM IST] pictures for short_poempaduka_1
-14 Nov 07:47 AM IST] pictures for short_puranas_6
-14 Nov 07:52 AM IST] render short_puranas_6_short1
-14 Nov 07:54 AM IST] pictures for short_epics_9
-14 Nov 07:57 AM IST] render short_epics_9_short1
-14 Nov 08:00 AM IST] pictures for short_katha_8
-14 Nov 08:04 AM IST] render short_katha_8_short1
-14 Nov 08:06 AM IST] pictures for vishnu24
-14 Nov 08:06 AM IST] pictures for vishnupu06
-14 Nov 08:06 AM IST] metadata vishnupu06
-14 Nov 08:06 AM IST] pictures for dashanan01
-14 Nov 08:06 AM IST] metadata dashanan01
-14 Nov 08:06 AM IST] pictures for lankadhi01
-14 Nov 08:06 AM IST] metadata lankadhi01
-14 Nov 08:06 AM IST] queue worked through
-14 Nov 08:24 AM IST] pictures for short_promopromo_7
-14 Nov 08:29 AM IST] render short_promopromo_7_short1
-14 Nov 08:31 AM IST] metadata short_promopromo_7
-14 Nov 08:31 AM IST] promotion Short made: promotion for the series 'रामायण: दशानन और धर्मयुद्ध' (Valmi - uploads when an upload is free
+14 Nov 08:36 AM IST] health ok | YouTube quota used today 661 | GitHub minutes this month 5669
+14 Nov 08:36 AM IST] pictures for short_songbhajan_11
+14 Nov 08:36 AM IST] metadata short_songbhajan_11
+14 Nov 08:36 AM IST] short_songbhajan_11_short1: upload waits (10 uploads done today - rest upload after the reset)
+14 Nov 08:36 AM IST] pictures for short_poempaduka_1
+14 Nov 08:36 AM IST] pictures for short_puranas_6
+14 Nov 08:36 AM IST] pictures for short_epics_9
+14 Nov 08:36 AM IST] pictures for short_katha_8
+14 Nov 08:36 AM IST] pictures for vishnu24
+14 Nov 08:36 AM IST] pictures for vishnupu06
+14 Nov 08:36 AM IST] metadata vishnupu06
+14 Nov 08:36 AM IST] pictures for dashanan01
+14 Nov 08:36 AM IST] metadata dashanan01
+14 Nov 08:36 AM IST] pictures for lankadhi01
+14 Nov 08:36 AM IST] metadata lankadhi01
+14 Nov 08:36 AM IST] queue worked through
 ```
