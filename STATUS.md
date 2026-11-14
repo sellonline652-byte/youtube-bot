@@ -1,5 +1,5 @@
 # 🤖 Video bot status
-_Updated 14 Nov 2026, 08:37 AM IST by the bot._
+_Updated 14 Nov 2026, 01:27 PM IST by the bot._
 
 ## Targets
 | | Now | Target |
@@ -88,25 +88,25 @@ short_songbhajan_11, short_poempaduka_1, short_puranas_22, short_puranas_21, sho
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 5671 (public repo: no limit)
-- YouTube quota today (Pacific): 674 / 9,800
+- GitHub minutes this month: 5673 (public repo: no limit)
+- YouTube quota today (Pacific): 887 / 9,800
 
 ## This run
 ```
-14 Nov 08:36 AM IST] health ok | YouTube quota used today 661 | GitHub minutes this month 5669
-14 Nov 08:36 AM IST] pictures for short_songbhajan_11
-14 Nov 08:36 AM IST] metadata short_songbhajan_11
-14 Nov 08:36 AM IST] short_songbhajan_11_short1: upload waits (10 uploads done today - rest upload after the reset)
-14 Nov 08:36 AM IST] pictures for short_poempaduka_1
-14 Nov 08:36 AM IST] pictures for short_puranas_6
-14 Nov 08:36 AM IST] pictures for short_epics_9
-14 Nov 08:36 AM IST] pictures for short_katha_8
-14 Nov 08:36 AM IST] pictures for vishnu24
-14 Nov 08:36 AM IST] pictures for vishnupu06
-14 Nov 08:36 AM IST] metadata vishnupu06
-14 Nov 08:36 AM IST] pictures for dashanan01
-14 Nov 08:36 AM IST] metadata dashanan01
-14 Nov 08:36 AM IST] pictures for lankadhi01
-14 Nov 08:36 AM IST] metadata lankadhi01
-14 Nov 08:36 AM IST] queue worked through
+14 Nov 01:27 PM IST] health ok | YouTube quota used today 674 | GitHub minutes this month 5671
+14 Nov 01:27 PM IST] pictures for short_songbhajan_11
+14 Nov 01:27 PM IST] metadata short_songbhajan_11
+14 Nov 01:27 PM IST] short_songbhajan_11_short1: upload waits (10 uploads done today - rest upload after the reset)
+14 Nov 01:27 PM IST] pictures for short_poempaduka_1
+14 Nov 01:27 PM IST] pictures for short_puranas_6
+14 Nov 01:27 PM IST] pictures for short_epics_9
+14 Nov 01:27 PM IST] pictures for short_katha_8
+14 Nov 01:27 PM IST] pictures for vishnu24
+14 Nov 01:27 PM IST] pictures for vishnupu06
+14 Nov 01:27 PM IST] metadata vishnupu06
+14 Nov 01:27 PM IST] pictures for dashanan01
+14 Nov 01:27 PM IST] metadata dashanan01
+14 Nov 01:27 PM IST] pictures for lankadhi01
+14 Nov 01:27 PM IST] metadata lankadhi01
+14 Nov 01:27 PM IST] queue worked through
 ```
