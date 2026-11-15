@@ -1,5 +1,5 @@
 # 🤖 Video bot status
-_Updated 15 Nov 2026, 06:56 AM IST by the bot._
+_Updated 15 Nov 2026, 03:11 PM IST by the bot._
 
 ## Targets
 | | Now | Target |
@@ -52,17 +52,17 @@ _Updated 15 Nov 2026, 06:56 AM IST by the bot._
 | विष्णु पुराण: कलियुग महाप्रलय | hi | main | active | 10/10 | ⏳ |
 
 ## Queue (next to make)
-short_songhymn_4, short_poemdevotion_2, short_puranas_22, short_puranas_21, short_puranas_20, short_puranas_19, short_puranas_18, short_puranas_17, short_puranas_16, short_puranas_15, short_puranas_14, short_puranas_13
+short_puranas_22, short_puranas_21, short_puranas_20, short_puranas_19, short_puranas_18, short_puranas_17, short_puranas_16, short_puranas_15, short_puranas_14, short_puranas_13, short_puranas_12, short_puranas_11
 
 ## Latest uploads
-- vishnupu07: https://youtu.be/WnuRUjMSHMI
-- vishnupu06_short2: https://youtu.be/E8oahoxImJI
-- vishnupu06_short1: https://youtu.be/XagzqRMkaXM
-- vishnupu06: https://youtu.be/AGb1xWvJfBM
-- vishnu24_short18: https://youtu.be/aQZMU2CitOU
-- short_katha_8_short1: https://youtu.be/4BHMl2qPgxw
-- short_epics_9_short1: https://youtu.be/QbNAmyIDRn8
-- short_puranas_6_short1: https://youtu.be/xzHZBbay9HE
+- dashanan01_short1: https://youtu.be/L9MJFZXyXMo
+- dashanan01: https://youtu.be/7j5yywXzIPE
+- vishnupu07_short2: https://youtu.be/FlISqi7vC-c
+- vishnupu07_short1: https://youtu.be/FycGR0zixTA
+- vishnu24_short19: https://youtu.be/YkfiCfnDxE4
+- short_katha_9_short1: https://youtu.be/kfyW892v0UM
+- short_epics_10_short1: https://youtu.be/JcdM6oXuzFE
+- short_puranas_7_short1: https://youtu.be/6TUPm_1_tnI
 
 ## Titles the bot improved
 - भगवान विष्णु का श्री कृष्ण अवतार: कुरुक्षेत्र का धर्मयुद्ध और गीता ज्ञान 😱 | Vishnu Avatars भाग 7 → **श्री कृष्ण ने कुरुक्षेत्र में ही क्यों दिया गीता ज्ञान? | Vishnu Avatars भाग 7 🙏**
@@ -88,24 +88,34 @@ short_songhymn_4, short_poemdevotion_2, short_puranas_22, short_puranas_21, shor
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 6008 (public repo: no limit)
-- YouTube quota today (Pacific): 866 / 9,800
+- GitHub minutes this month: 6108 (public repo: no limit)
+- YouTube quota today (Pacific): 553 / 9,800
 
 ## This run
 ```
-15 Nov 06:54 AM IST] health ok | YouTube quota used today 753 | GitHub minutes this month 6004
-15 Nov 06:54 AM IST] pictures for short_songhymn_4
-15 Nov 06:54 AM IST] metadata short_songhymn_4
-15 Nov 06:54 AM IST] short_songhymn_4_short1: upload waits (10 uploads done today - rest upload after the reset)
-15 Nov 06:54 AM IST] pictures for short_poemdevotion_2
-15 Nov 06:54 AM IST] pictures for short_puranas_7
-15 Nov 06:54 AM IST] pictures for short_epics_10
-15 Nov 06:54 AM IST] pictures for short_katha_9
-15 Nov 06:54 AM IST] pictures for vishnu24
-15 Nov 06:54 AM IST] pictures for vishnupu07
-15 Nov 06:54 AM IST] pictures for dashanan01
-15 Nov 06:54 AM IST] metadata dashanan01
-15 Nov 06:54 AM IST] pictures for lankadhi01
-15 Nov 06:54 AM IST] metadata lankadhi01
-15 Nov 06:54 AM IST] queue worked through
+15 Nov 01:34 PM IST] metadata short_katha_9
+15 Nov 01:35 PM IST] standalone Short short_katha_9 uploaded: https://youtu.be/kfyW892v0UM
+15 Nov 01:35 PM IST] short_katha_9 complete
+15 Nov 01:35 PM IST] pictures for vishnu24
+15 Nov 01:35 PM IST] metadata vishnu24
+15 Nov 01:35 PM IST] vishnu24: 1 Short(s) a day - the next one goes tomorrow
+15 Nov 01:35 PM IST] pictures for vishnupu07
+15 Nov 01:35 PM IST] metadata vishnupu07
+15 Nov 01:35 PM IST] metadata vishnupu07
+15 Nov 01:36 PM IST] vishnupu07 complete
+15 Nov 01:36 PM IST] pictures for dashanan01
+15 Nov 01:36 PM IST] metadata dashanan01
+15 Nov 01:37 PM IST] metadata dashanan01
+15 Nov 01:38 PM IST] metadata dashanan01
+15 Nov 01:38 PM IST] YouTube quota used up (10 uploads done today - rest upload after the reset) - rendering continues, uploads next run
+15 Nov 01:38 PM IST] pictures for vishnupu08
+15 Nov 01:39 PM IST] render vishnupu08
+15 Nov 02:28 PM IST] vishnupu08: the video reviewer fixed face in 'parashurama_face' stays still - rendering once more
+15 Nov 02:28 PM IST] render vishnupu08
+15 Nov 02:59 PM IST] metadata vishnupu08
+15 Nov 03:01 PM IST] render vishnupu08_short1
+15 Nov 03:06 PM IST] render vishnupu08_short2
+15 Nov 03:10 PM IST] pictures for lankadhi01
+15 Nov 03:10 PM IST] metadata lankadhi01
+15 Nov 03:10 PM IST] queue worked through
 ```
