@@ -1,10 +1,10 @@
 # 🤖 Video bot status
-_Updated 15 Nov 2026, 02:53 AM IST by the bot._
+_Updated 15 Nov 2026, 06:56 AM IST by the bot._
 
 ## Targets
 | | Now | Target |
 |---|---|---|
-| Watch hours / day (28-day avg) | 0.97 | 10.0 |
+| Watch hours / day (28-day avg) | 0.95 | 10.0 |
 | New subscribers / day | 0.04 | 3.0 |
 | Watch hours, last 12 months (4,000 for monetization) | 318.4 | 4000 |
 
@@ -65,11 +65,11 @@ short_songhymn_4, short_poemdevotion_2, short_puranas_22, short_puranas_21, shor
 - short_puranas_6_short1: https://youtu.be/xzHZBbay9HE
 
 ## Titles the bot improved
-- भगवान विष्णु का वराह अवतार: पाताल से पृथ्वी का उद्धार 💥 Hiranyaksha Vadh | भाग 2 | Kalki Avatar → **वराह अवतार ने पृथ्वी को कैसे बचाया? भगवान विष्णु के 24 अवतार | भाग 2 | Kalki Avatar 🐗**
-- रामायण का सबसे महान और मौन त्याग: उर्मिला 💔 #shorts #ramayan #history → **उर्मिला ने 14 साल तक क्यों किया यह महान त्याग? 🙏 #shorts #ramayan #history**
 - भगवान विष्णु का श्री कृष्ण अवतार: कुरुक्षेत्र का धर्मयुद्ध और गीता ज्ञान 😱 | Vishnu Avatars भाग 7 → **श्री कृष्ण ने कुरुक्षेत्र में ही क्यों दिया गीता ज्ञान? | Vishnu Avatars भाग 7 🙏**
 - भगवान विष्णु का कल्कि अवतार: कलियुग का चरम और शंभल पर असुरी हमला! 😱 | भाग 9 | Kalki Avatar → **क्या शंभल को बचा पाएंगे कल्कि अवतार? असुरों का भीषण हमला! ⚔️ | भाग 9 | Kalki Avatar**
 - विष्णु पुराण की खौफनाक भविष्यवाणी: जब धन ही धर्म बन जाएगा 😱 | भाग 2 | Kalki Avatar → **क्या धन ही धर्म बन जाएगा? 😱 | विष्णु पुराण की भविष्यवाणी | Kalki Avatar | भाग 2 #shorts**
+- भगवान विष्णु का वामन अवतार: तीन पग में नापा ब्रह्मांड 😱 | Raja Bali & Vamana | श्रीमद्भागवत भाग 4 → **3 पग में पूरा ब्रह्मांड कैसे नापा? भगवान विष्णु के 24 अवतार | श्रीमद्भागवत भाग 4 🚩**
+- भगवान विष्णु का बुद्ध और धन्वंतरि अवतार: कलि का साक्षात प्राकट्य! | 24 Avatars भाग 8 | Kalki Avatar → **क्या कलि का प्राकट्य हो चुका है? 🚩 Bhagwan Vishnu ke 24 Avatars भाग 8 | Kalki Avatar**
 
 ## Promotion Shorts (unlisted, for paid ads)
 - 2026-11-15: promotion for the series 'सनातन गाथा: अहल्या उद्धार और रामायण' (वाल्मी - uploads when an upload is free
@@ -88,25 +88,24 @@ short_songhymn_4, short_poemdevotion_2, short_puranas_22, short_puranas_21, shor
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 6004 (public repo: no limit)
-- YouTube quota today (Pacific): 753 / 9,800
+- GitHub minutes this month: 6008 (public repo: no limit)
+- YouTube quota today (Pacific): 866 / 9,800
 
 ## This run
 ```
-15 Nov 01:53 AM IST] health ok | YouTube quota used today 740 | GitHub minutes this month 5942
-15 Nov 02:46 AM IST] pictures for short_songhymn_4
-15 Nov 02:50 AM IST] render short_songhymn_4_short1
-15 Nov 02:53 AM IST] metadata short_songhymn_4
-15 Nov 02:53 AM IST] short_songhymn_4_short1: upload waits (10 uploads done today - rest upload after the reset)
-15 Nov 02:53 AM IST] pictures for short_poemdevotion_2
-15 Nov 02:53 AM IST] pictures for short_puranas_7
-15 Nov 02:53 AM IST] pictures for short_epics_10
-15 Nov 02:53 AM IST] pictures for short_katha_9
-15 Nov 02:53 AM IST] pictures for vishnu24
-15 Nov 02:53 AM IST] pictures for vishnupu07
-15 Nov 02:53 AM IST] pictures for dashanan01
-15 Nov 02:53 AM IST] metadata dashanan01
-15 Nov 02:53 AM IST] pictures for lankadhi01
-15 Nov 02:53 AM IST] metadata lankadhi01
-15 Nov 02:53 AM IST] queue worked through
+15 Nov 06:54 AM IST] health ok | YouTube quota used today 753 | GitHub minutes this month 6004
+15 Nov 06:54 AM IST] pictures for short_songhymn_4
+15 Nov 06:54 AM IST] metadata short_songhymn_4
+15 Nov 06:54 AM IST] short_songhymn_4_short1: upload waits (10 uploads done today - rest upload after the reset)
+15 Nov 06:54 AM IST] pictures for short_poemdevotion_2
+15 Nov 06:54 AM IST] pictures for short_puranas_7
+15 Nov 06:54 AM IST] pictures for short_epics_10
+15 Nov 06:54 AM IST] pictures for short_katha_9
+15 Nov 06:54 AM IST] pictures for vishnu24
+15 Nov 06:54 AM IST] pictures for vishnupu07
+15 Nov 06:54 AM IST] pictures for dashanan01
+15 Nov 06:54 AM IST] metadata dashanan01
+15 Nov 06:54 AM IST] pictures for lankadhi01
+15 Nov 06:54 AM IST] metadata lankadhi01
+15 Nov 06:54 AM IST] queue worked through
 ```
