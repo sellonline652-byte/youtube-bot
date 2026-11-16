@@ -1,5 +1,5 @@
 # 🤖 Video bot status
-_Updated 16 Nov 2026, 11:14 AM IST by the bot._
+_Updated 16 Nov 2026, 05:40 PM IST by the bot._
 
 ## Targets
 | | Now | Target |
@@ -52,17 +52,17 @@ _Updated 16 Nov 2026, 11:14 AM IST by the bot._
 | विष्णु पुराण: कलियुग महाप्रलय | hi | main | done | 10/10 | ⏳ |
 
 ## Queue (next to make)
-short_songkalki_2, short_poemabandonm_1, short_puranas_22, short_puranas_21, short_puranas_20, short_puranas_19, short_puranas_18, short_puranas_17, short_puranas_16, short_puranas_15, short_puranas_14, short_puranas_13
+short_puranas_22, short_puranas_21, short_puranas_20, short_puranas_19, short_puranas_18, short_puranas_17, short_puranas_16, short_puranas_15, short_puranas_14, short_puranas_13, short_puranas_12, short_puranas_11
 
 ## Latest uploads
-- dashanan01_short1: https://youtu.be/L9MJFZXyXMo
-- dashanan01: https://youtu.be/7j5yywXzIPE
-- vishnupu07_short2: https://youtu.be/FlISqi7vC-c
-- vishnupu07_short1: https://youtu.be/FycGR0zixTA
-- vishnu24_short19: https://youtu.be/YkfiCfnDxE4
-- short_katha_9_short1: https://youtu.be/kfyW892v0UM
-- short_epics_10_short1: https://youtu.be/JcdM6oXuzFE
-- short_puranas_7_short1: https://youtu.be/6TUPm_1_tnI
+- vishnupu08_short2: https://youtu.be/xB5wpQdspfw
+- vishnupu08_short1: https://youtu.be/0bjehRRbpwk
+- vishnupu08: https://youtu.be/Umo6O82Gneo
+- dashanan01_short2: https://youtu.be/ohWlSf54TI4
+- vishnu24_short20: https://youtu.be/KfdJaU5N2FY
+- short_katha_10_short1: https://youtu.be/atSB18J61PM
+- short_epics_11_short1: https://youtu.be/bl1q9VQgSS0
+- short_puranas_8_short1: https://youtu.be/U2BvPIfGGIE
 
 ## Titles the bot improved
 - विष्णु पुराण की खौफनाक भविष्यवाणी: जब धन ही धर्म बन जाएगा 😱 | भाग 2 | Kalki Avatar → **क्या धन ही धर्म बन जाएगा? 😱 | विष्णु पुराण की भविष्यवाणी | Kalki Avatar | भाग 2 #shorts**
@@ -88,34 +88,34 @@ short_songkalki_2, short_poemabandonm_1, short_puranas_22, short_puranas_21, sho
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 6440 (public repo: no limit)
-- YouTube quota today (Pacific): 966 / 9,800
+- GitHub minutes this month: 6596 (public repo: no limit)
+- YouTube quota today (Pacific): 354 / 9,800
 
 ## This run
 ```
-16 Nov 08:20 AM IST] metadata short_songkalki_2
-16 Nov 08:20 AM IST] short_songkalki_2_short1: upload waits (10 uploads done today - rest upload after the reset)
-16 Nov 08:20 AM IST] pictures for short_poemabandonm_1
-16 Nov 08:20 AM IST] pictures for short_puranas_8
-16 Nov 08:25 AM IST] render short_puranas_8_short1
-16 Nov 08:29 AM IST] pictures for short_epics_11
-16 Nov 08:33 AM IST] render short_epics_11_short1
-16 Nov 08:37 AM IST] pictures for short_katha_10
-16 Nov 08:41 AM IST] render short_katha_10_short1
-16 Nov 08:44 AM IST] pictures for vishnu24
-16 Nov 08:44 AM IST] pictures for dashanan01
-16 Nov 08:44 AM IST] pictures for vishnupu08
-16 Nov 08:44 AM IST] metadata vishnupu08
-16 Nov 08:44 AM IST] pictures for lankadhi01
-16 Nov 08:44 AM IST] metadata lankadhi01
-16 Nov 08:44 AM IST] pictures for ramayana301
-16 Nov 08:45 AM IST] render ramayana301
-16 Nov 09:28 AM IST] metadata ramayana301
-16 Nov 09:28 AM IST] render ramayana301_short1
-16 Nov 09:33 AM IST] render ramayana301_short2
-16 Nov 09:39 AM IST] queue worked through
-16 Nov 10:47 AM IST] pictures for short_promopromo_8
-16 Nov 10:51 AM IST] render short_promopromo_8_short1
-16 Nov 10:55 AM IST] metadata short_promopromo_8
-16 Nov 10:55 AM IST] promotion Short made: promotion for the series 'रामायण: रावण का उत्थान और पतन' (Va - uploads when an upload is free
+16 Nov 03:08 PM IST] metadata dashanan01
+16 Nov 03:09 PM IST] dashanan01 complete
+16 Nov 03:09 PM IST] pictures for vishnupu08
+16 Nov 03:09 PM IST] metadata vishnupu08
+16 Nov 03:10 PM IST] metadata vishnupu08
+16 Nov 03:10 PM IST] metadata vishnupu08
+16 Nov 03:10 PM IST] vishnupu08 complete
+16 Nov 03:10 PM IST] pictures for dashanan02
+16 Nov 03:11 PM IST] render dashanan02
+16 Nov 03:56 PM IST] metadata dashanan02
+16 Nov 03:57 PM IST] YouTube quota used up (10 uploads done today - rest upload after the reset) - rendering continues, uploads next run
+16 Nov 03:57 PM IST] render dashanan02_short1
+16 Nov 04:02 PM IST] render dashanan02_short2
+16 Nov 04:06 PM IST] pictures for lankadhi01
+16 Nov 04:06 PM IST] metadata lankadhi01
+16 Nov 04:06 PM IST] pictures for vishnupu09
+16 Nov 04:07 PM IST] render vishnupu09
+16 Nov 04:30 PM IST] vishnupu09: the video reviewer fixed face in 'maitreya_questioning_kings' stays still; face in 'kalki_devadatta_himalayas' stays still - rendering once more
+16 Nov 04:30 PM IST] render vishnupu09
+16 Nov 04:51 PM IST] metadata vishnupu09
+16 Nov 04:51 PM IST] render vishnupu09_short1
+16 Nov 04:54 PM IST] render vishnupu09_short2
+16 Nov 04:56 PM IST] pictures for ramayana301
+16 Nov 04:56 PM IST] metadata ramayana301
+16 Nov 04:56 PM IST] queue worked through
 ```
