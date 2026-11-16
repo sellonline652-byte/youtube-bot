@@ -1,5 +1,5 @@
 # 🤖 Video bot status
-_Updated 16 Nov 2026, 06:25 PM IST by the bot._
+_Updated 17 Nov 2026, 01:23 AM IST by the bot._
 
 ## Targets
 | | Now | Target |
@@ -15,7 +15,7 @@ _Updated 16 Nov 2026, 06:25 PM IST by the bot._
 | बप्पा रावल: मेवाड़ का सूर्य और अरबों का अंत | hi | main | done | 4/4 | ✅ |
 | माँ छिन्नमस्ता साधना: गुप्त तंत्र और कटी मुंड का रहस्य | hi | main | done | 3/3 | ✅ |
 | ब्रह्मांडीय महायुद्ध: 24 अवतारों की गाथा | hi | main | done | 10/10 | ⏳ |
-| दशानन: लंकापति का उदय और पतन | hi | main | active | 4/30 | ⏳ |
+| दशानन: लंकापति का उदय और पतन | hi | main | active | 5/30 | ⏳ |
 | दशानन: मर्यादा और अहंकार का महायुद्ध | hi | main | active | 4/30 | ⏳ |
 | दशानन और मर्यादा: रावण का अंत | hi | main | active | 0/30 | ⏳ |
 | I Regressed 30 Days Before the Glitch Apocalypse | en | main | done | 10/10 | ✅ |
@@ -52,7 +52,7 @@ _Updated 16 Nov 2026, 06:25 PM IST by the bot._
 | विष्णु पुराण: कलियुग महाप्रलय | hi | main | done | 10/10 | ⏳ |
 
 ## Queue (next to make)
-short_poemexile_1, short_puranas_22, short_puranas_21, short_puranas_20, short_puranas_19, short_puranas_18, short_puranas_17, short_puranas_16, short_puranas_15, short_puranas_14, short_puranas_13, short_puranas_12
+short_songbhajan_12, short_poemexile_1, short_puranas_22, short_puranas_21, short_puranas_20, short_puranas_19, short_puranas_18, short_puranas_17, short_puranas_16, short_puranas_15, short_puranas_14, short_puranas_13
 
 ## Latest uploads
 - vishnupu08_short2: https://youtu.be/xB5wpQdspfw
@@ -72,13 +72,13 @@ short_poemexile_1, short_puranas_22, short_puranas_21, short_puranas_20, short_p
 - विष्णु पुराण की खौफनाक भविष्यवाणी: 12 वर्ष में बुढ़ापा और मानव देह का सिकुड़ना 😱 | भाग 4 → **क्या 12 वर्ष में ही आ जाएगा बुढ़ापा? Kalki Puran की डरावनी भविष्यवाणी 😱 | भाग 4**
 
 ## Promotion Shorts (unlisted, for paid ads)
+- 2026-11-17: promotion for the series 'रामायण: धर्म संस्थापन और रावण वध' (Valmiki R - uploads when an upload is free
 - 2026-11-16: promotion for the series 'रामायण: रावण का उत्थान और पतन' (Valmiki Rama - uploads when an upload is free
 - 2026-11-15: promotion for the series 'सनातन गाथा: अहल्या उद्धार और रामायण' (वाल्मी - uploads when an upload is free
 - 2026-11-14: promotion for the series 'रामायण: दशानन और धर्मयुद्ध' (Valmiki Ramayan - uploads when an upload is free
 - 2026-11-13: promotion for the series 'मर्यादा पुरुषोत्तम: रावण का उदय और पतन' (Val - uploads when an upload is free
 - 2026-11-12: promotion for the series 'श्रीराम कथा: पंचवटी से अशोक वाटिका' (Valmiki - uploads when an upload is free
 - 2026-11-11: promotion for the series 'रामायण: रावण का अहंकार और स्वर्ण मृग' (Valmi - uploads when an upload is free
-- 2026-11-10: promotion for the series 'दशानन: रावण का उदय और राम कथा' (Valmiki Rama - uploads when an upload is free
 
 ## Sponsorship outreach (weekly)
 - 2026-10-26: 1 new companies stored (not emailed - growing first), 1 stored in total
@@ -88,25 +88,34 @@ short_poemexile_1, short_puranas_22, short_puranas_21, short_puranas_20, short_p
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 6639 (public repo: no limit)
-- YouTube quota today (Pacific): 368 / 9,800
+- GitHub minutes this month: 6788 (public repo: no limit)
+- YouTube quota today (Pacific): 653 / 9,800
 
 ## This run
 ```
-16 Nov 05:44 PM IST] health ok | YouTube quota used today 354 | GitHub minutes this month 6596
-16 Nov 06:14 PM IST] pictures for short_poemexile_1
-16 Nov 06:21 PM IST] render short_poemexile_1_short1
-16 Nov 06:25 PM IST] metadata short_poemexile_1
-16 Nov 06:25 PM IST] short_poemexile_1_short1: upload waits (10 uploads done today - rest upload after the reset)
-16 Nov 06:25 PM IST] pictures for vishnu24
-16 Nov 06:25 PM IST] vishnu24: 1 Short(s) a day - the next one goes tomorrow
-16 Nov 06:25 PM IST] pictures for dashanan02
-16 Nov 06:25 PM IST] metadata dashanan02
-16 Nov 06:25 PM IST] pictures for lankadhi01
-16 Nov 06:25 PM IST] metadata lankadhi01
-16 Nov 06:25 PM IST] pictures for vishnupu09
-16 Nov 06:25 PM IST] metadata vishnupu09
-16 Nov 06:25 PM IST] pictures for ramayana301
-16 Nov 06:25 PM IST] metadata ramayana301
-16 Nov 06:25 PM IST] queue worked through
+17 Nov 12:38 AM IST] pictures for short_songbhajan_12
+17 Nov 12:44 AM IST] render short_songbhajan_12_short1
+17 Nov 12:46 AM IST] metadata short_songbhajan_12
+17 Nov 12:46 AM IST] short_songbhajan_12_short1: upload waits (10 uploads done today - rest upload after the reset)
+17 Nov 12:46 AM IST] pictures for short_poemexile_1
+17 Nov 12:46 AM IST] pictures for short_puranas_9
+17 Nov 12:50 AM IST] render short_puranas_9_short1
+17 Nov 12:52 AM IST] pictures for short_epics_12
+17 Nov 12:57 AM IST] render short_epics_12_short1
+17 Nov 12:59 AM IST] pictures for short_katha_11
+17 Nov 01:04 AM IST] render short_katha_11_short1
+17 Nov 01:05 AM IST] pictures for vishnu24
+17 Nov 01:05 AM IST] pictures for dashanan02
+17 Nov 01:05 AM IST] metadata dashanan02
+17 Nov 01:05 AM IST] pictures for lankadhi01
+17 Nov 01:05 AM IST] metadata lankadhi01
+17 Nov 01:05 AM IST] pictures for vishnupu09
+17 Nov 01:05 AM IST] metadata vishnupu09
+17 Nov 01:05 AM IST] pictures for ramayana301
+17 Nov 01:05 AM IST] metadata ramayana301
+17 Nov 01:05 AM IST] queue worked through
+17 Nov 01:10 AM IST] pictures for short_promoramayan_1
+17 Nov 01:14 AM IST] render short_promoramayan_1_short1
+17 Nov 01:16 AM IST] metadata short_promoramayan_1
+17 Nov 01:16 AM IST] promotion Short made: promotion for the series 'रामायण: धर्म संस्थापन और रावण वध'  - uploads when an upload is free
 ```
