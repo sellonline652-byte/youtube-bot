@@ -1,12 +1,12 @@
 # 🤖 Video bot status
-_Updated 15 Nov 2026, 11:03 PM IST by the bot._
+_Updated 16 Nov 2026, 11:14 AM IST by the bot._
 
 ## Targets
 | | Now | Target |
 |---|---|---|
-| Watch hours / day (28-day avg) | 0.95 | 10.0 |
+| Watch hours / day (28-day avg) | 0.94 | 10.0 |
 | New subscribers / day | 0.04 | 3.0 |
-| Watch hours, last 12 months (4,000 for monetization) | 318.4 | 4000 |
+| Watch hours, last 12 months (4,000 for monetization) | 318.1 | 4000 |
 
 ## Series
 | Series | Language | Channel | Status | Written | Movie |
@@ -32,7 +32,7 @@ _Updated 15 Nov 2026, 11:03 PM IST by the bot._
 | रामायण: रावण का अहंकार और स्वर्ण मृग | hi | main | active | 0/30 | ⏳ |
 | श्रीराम कथा: पंचवटी से अशोक वाटिका | hi | main | active | 0/30 | ⏳ |
 | सनातन रामायण: दशानन और मर्यादा पुरुषोत्तम | hi | main | next | 0/30 | ⏳ |
-| मर्यादा पुरुषोत्तम: रावण का उदय और पतन | hi | main | active | 0/30 | ⏳ |
+| मर्यादा पुरुषोत्तम: रावण का उदय और पतन | hi | main | active | 4/30 | ⏳ |
 | रामायण: दशानन और धर्मयुद्ध | hi | main | active | 0/30 | ⏳ |
 | सनातन गाथा: अहल्या उद्धार और रामायण | hi | main | active | 0/30 | ⏳ |
 | रामायण: रावण का उत्थान और पतन | hi | main | active | 0/30 | ⏳ |
@@ -65,20 +65,20 @@ short_songkalki_2, short_poemabandonm_1, short_puranas_22, short_puranas_21, sho
 - short_puranas_7_short1: https://youtu.be/6TUPm_1_tnI
 
 ## Titles the bot improved
-- भगवान विष्णु का श्री कृष्ण अवतार: कुरुक्षेत्र का धर्मयुद्ध और गीता ज्ञान 😱 | Vishnu Avatars भाग 7 → **श्री कृष्ण ने कुरुक्षेत्र में ही क्यों दिया गीता ज्ञान? | Vishnu Avatars भाग 7 🙏**
-- भगवान विष्णु का कल्कि अवतार: कलियुग का चरम और शंभल पर असुरी हमला! 😱 | भाग 9 | Kalki Avatar → **क्या शंभल को बचा पाएंगे कल्कि अवतार? असुरों का भीषण हमला! ⚔️ | भाग 9 | Kalki Avatar**
 - विष्णु पुराण की खौफनाक भविष्यवाणी: जब धन ही धर्म बन जाएगा 😱 | भाग 2 | Kalki Avatar → **क्या धन ही धर्म बन जाएगा? 😱 | विष्णु पुराण की भविष्यवाणी | Kalki Avatar | भाग 2 #shorts**
 - भगवान विष्णु का वामन अवतार: तीन पग में नापा ब्रह्मांड 😱 | Raja Bali & Vamana | श्रीमद्भागवत भाग 4 → **3 पग में पूरा ब्रह्मांड कैसे नापा? भगवान विष्णु के 24 अवतार | श्रीमद्भागवत भाग 4 🚩**
 - भगवान विष्णु का बुद्ध और धन्वंतरि अवतार: कलि का साक्षात प्राकट्य! | 24 Avatars भाग 8 | Kalki Avatar → **क्या कलि का प्राकट्य हो चुका है? 🚩 Bhagwan Vishnu ke 24 Avatars भाग 8 | Kalki Avatar**
+- भगवान विष्णु का नरसिंह अवतार: खंभे से प्रकट हुआ न्याय 😱 | Srimad Bhagavata Purana | भाग 3 → **खंभे से कैसे प्रकट हुए नरसिंह भगवान? 🦁 | Srimad Bhagavata Purana | भाग 3**
+- विष्णु पुराण की खौफनाक भविष्यवाणी: 12 वर्ष में बुढ़ापा और मानव देह का सिकुड़ना 😱 | भाग 4 → **क्या 12 वर्ष में ही आ जाएगा बुढ़ापा? Kalki Puran की डरावनी भविष्यवाणी 😱 | भाग 4**
 
 ## Promotion Shorts (unlisted, for paid ads)
+- 2026-11-16: promotion for the series 'रामायण: रावण का उत्थान और पतन' (Valmiki Rama - uploads when an upload is free
 - 2026-11-15: promotion for the series 'सनातन गाथा: अहल्या उद्धार और रामायण' (वाल्मी - uploads when an upload is free
 - 2026-11-14: promotion for the series 'रामायण: दशानन और धर्मयुद्ध' (Valmiki Ramayan - uploads when an upload is free
 - 2026-11-13: promotion for the series 'मर्यादा पुरुषोत्तम: रावण का उदय और पतन' (Val - uploads when an upload is free
 - 2026-11-12: promotion for the series 'श्रीराम कथा: पंचवटी से अशोक वाटिका' (Valmiki - uploads when an upload is free
 - 2026-11-11: promotion for the series 'रामायण: रावण का अहंकार और स्वर्ण मृग' (Valmi - uploads when an upload is free
 - 2026-11-10: promotion for the series 'दशानन: रावण का उदय और राम कथा' (Valmiki Rama - uploads when an upload is free
-- 2026-11-07: promotion for the series 'विष्णु पुराण: कलियुग महाप्रलय' (विष्णु पुराण - uploads when an upload is free
 
 ## Sponsorship outreach (weekly)
 - 2026-10-26: 1 new companies stored (not emailed - growing first), 1 stored in total
@@ -88,23 +88,34 @@ short_songkalki_2, short_poemabandonm_1, short_puranas_22, short_puranas_21, sho
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 6193 (public repo: no limit)
-- YouTube quota today (Pacific): 629 / 9,800
+- GitHub minutes this month: 6440 (public repo: no limit)
+- YouTube quota today (Pacific): 966 / 9,800
 
 ## This run
 ```
-15 Nov 10:24 PM IST] health ok | YouTube quota used today 566 | GitHub minutes this month 6152
-15 Nov 10:54 PM IST] pictures for short_songkalki_2
-15 Nov 11:00 PM IST] render short_songkalki_2_short1
-15 Nov 11:03 PM IST] metadata short_songkalki_2
-15 Nov 11:03 PM IST] short_songkalki_2_short1: upload waits (10 uploads done today - rest upload after the reset)
-15 Nov 11:03 PM IST] pictures for short_poemabandonm_1
-15 Nov 11:03 PM IST] pictures for vishnu24
-15 Nov 11:03 PM IST] vishnu24: 1 Short(s) a day - the next one goes tomorrow
-15 Nov 11:03 PM IST] pictures for dashanan01
-15 Nov 11:03 PM IST] pictures for vishnupu08
-15 Nov 11:03 PM IST] metadata vishnupu08
-15 Nov 11:03 PM IST] pictures for lankadhi01
-15 Nov 11:03 PM IST] metadata lankadhi01
-15 Nov 11:03 PM IST] queue worked through
+16 Nov 08:20 AM IST] metadata short_songkalki_2
+16 Nov 08:20 AM IST] short_songkalki_2_short1: upload waits (10 uploads done today - rest upload after the reset)
+16 Nov 08:20 AM IST] pictures for short_poemabandonm_1
+16 Nov 08:20 AM IST] pictures for short_puranas_8
+16 Nov 08:25 AM IST] render short_puranas_8_short1
+16 Nov 08:29 AM IST] pictures for short_epics_11
+16 Nov 08:33 AM IST] render short_epics_11_short1
+16 Nov 08:37 AM IST] pictures for short_katha_10
+16 Nov 08:41 AM IST] render short_katha_10_short1
+16 Nov 08:44 AM IST] pictures for vishnu24
+16 Nov 08:44 AM IST] pictures for dashanan01
+16 Nov 08:44 AM IST] pictures for vishnupu08
+16 Nov 08:44 AM IST] metadata vishnupu08
+16 Nov 08:44 AM IST] pictures for lankadhi01
+16 Nov 08:44 AM IST] metadata lankadhi01
+16 Nov 08:44 AM IST] pictures for ramayana301
+16 Nov 08:45 AM IST] render ramayana301
+16 Nov 09:28 AM IST] metadata ramayana301
+16 Nov 09:28 AM IST] render ramayana301_short1
+16 Nov 09:33 AM IST] render ramayana301_short2
+16 Nov 09:39 AM IST] queue worked through
+16 Nov 10:47 AM IST] pictures for short_promopromo_8
+16 Nov 10:51 AM IST] render short_promopromo_8_short1
+16 Nov 10:55 AM IST] metadata short_promopromo_8
+16 Nov 10:55 AM IST] promotion Short made: promotion for the series 'रामायण: रावण का उत्थान और पतन' (Va - uploads when an upload is free
 ```
