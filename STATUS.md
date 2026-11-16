@@ -1,5 +1,5 @@
 # 🤖 Video bot status
-_Updated 16 Nov 2026, 05:40 PM IST by the bot._
+_Updated 16 Nov 2026, 06:25 PM IST by the bot._
 
 ## Targets
 | | Now | Target |
@@ -52,7 +52,7 @@ _Updated 16 Nov 2026, 05:40 PM IST by the bot._
 | विष्णु पुराण: कलियुग महाप्रलय | hi | main | done | 10/10 | ⏳ |
 
 ## Queue (next to make)
-short_puranas_22, short_puranas_21, short_puranas_20, short_puranas_19, short_puranas_18, short_puranas_17, short_puranas_16, short_puranas_15, short_puranas_14, short_puranas_13, short_puranas_12, short_puranas_11
+short_poemexile_1, short_puranas_22, short_puranas_21, short_puranas_20, short_puranas_19, short_puranas_18, short_puranas_17, short_puranas_16, short_puranas_15, short_puranas_14, short_puranas_13, short_puranas_12
 
 ## Latest uploads
 - vishnupu08_short2: https://youtu.be/xB5wpQdspfw
@@ -88,34 +88,25 @@ short_puranas_22, short_puranas_21, short_puranas_20, short_puranas_19, short_pu
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 6596 (public repo: no limit)
-- YouTube quota today (Pacific): 354 / 9,800
+- GitHub minutes this month: 6639 (public repo: no limit)
+- YouTube quota today (Pacific): 368 / 9,800
 
 ## This run
 ```
-16 Nov 03:08 PM IST] metadata dashanan01
-16 Nov 03:09 PM IST] dashanan01 complete
-16 Nov 03:09 PM IST] pictures for vishnupu08
-16 Nov 03:09 PM IST] metadata vishnupu08
-16 Nov 03:10 PM IST] metadata vishnupu08
-16 Nov 03:10 PM IST] metadata vishnupu08
-16 Nov 03:10 PM IST] vishnupu08 complete
-16 Nov 03:10 PM IST] pictures for dashanan02
-16 Nov 03:11 PM IST] render dashanan02
-16 Nov 03:56 PM IST] metadata dashanan02
-16 Nov 03:57 PM IST] YouTube quota used up (10 uploads done today - rest upload after the reset) - rendering continues, uploads next run
-16 Nov 03:57 PM IST] render dashanan02_short1
-16 Nov 04:02 PM IST] render dashanan02_short2
-16 Nov 04:06 PM IST] pictures for lankadhi01
-16 Nov 04:06 PM IST] metadata lankadhi01
-16 Nov 04:06 PM IST] pictures for vishnupu09
-16 Nov 04:07 PM IST] render vishnupu09
-16 Nov 04:30 PM IST] vishnupu09: the video reviewer fixed face in 'maitreya_questioning_kings' stays still; face in 'kalki_devadatta_himalayas' stays still - rendering once more
-16 Nov 04:30 PM IST] render vishnupu09
-16 Nov 04:51 PM IST] metadata vishnupu09
-16 Nov 04:51 PM IST] render vishnupu09_short1
-16 Nov 04:54 PM IST] render vishnupu09_short2
-16 Nov 04:56 PM IST] pictures for ramayana301
-16 Nov 04:56 PM IST] metadata ramayana301
-16 Nov 04:56 PM IST] queue worked through
+16 Nov 05:44 PM IST] health ok | YouTube quota used today 354 | GitHub minutes this month 6596
+16 Nov 06:14 PM IST] pictures for short_poemexile_1
+16 Nov 06:21 PM IST] render short_poemexile_1_short1
+16 Nov 06:25 PM IST] metadata short_poemexile_1
+16 Nov 06:25 PM IST] short_poemexile_1_short1: upload waits (10 uploads done today - rest upload after the reset)
+16 Nov 06:25 PM IST] pictures for vishnu24
+16 Nov 06:25 PM IST] vishnu24: 1 Short(s) a day - the next one goes tomorrow
+16 Nov 06:25 PM IST] pictures for dashanan02
+16 Nov 06:25 PM IST] metadata dashanan02
+16 Nov 06:25 PM IST] pictures for lankadhi01
+16 Nov 06:25 PM IST] metadata lankadhi01
+16 Nov 06:25 PM IST] pictures for vishnupu09
+16 Nov 06:25 PM IST] metadata vishnupu09
+16 Nov 06:25 PM IST] pictures for ramayana301
+16 Nov 06:25 PM IST] metadata ramayana301
+16 Nov 06:25 PM IST] queue worked through
 ```
