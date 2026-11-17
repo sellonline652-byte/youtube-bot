@@ -1,5 +1,5 @@
 # 🤖 Video bot status
-_Updated 17 Nov 2026, 03:48 PM IST by the bot._
+_Updated 17 Nov 2026, 11:33 PM IST by the bot._
 
 ## Targets
 | | Now | Target |
@@ -52,7 +52,7 @@ _Updated 17 Nov 2026, 03:48 PM IST by the bot._
 | विष्णु पुराण: कलियुग महाप्रलय | hi | main | done | 10/10 | ⏳ |
 
 ## Queue (next to make)
-short_poempatience_1, short_puranas_22, short_puranas_21, short_puranas_20, short_puranas_19, short_puranas_18, short_puranas_17, short_puranas_16, short_puranas_15, short_puranas_14, short_puranas_13, short_puranas_12
+short_songbhajan_13, short_poempatience_1, short_puranas_22, short_puranas_21, short_puranas_20, short_puranas_19, short_puranas_18, short_puranas_17, short_puranas_16, short_puranas_15, short_puranas_14, short_puranas_13
 
 ## Latest uploads
 - dashanan03: https://youtu.be/z3ILu7VssAY
@@ -88,24 +88,25 @@ short_poempatience_1, short_puranas_22, short_puranas_21, short_puranas_20, shor
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 6910 (public repo: no limit)
-- YouTube quota today (Pacific): 568 / 9,800
+- GitHub minutes this month: 6957 (public repo: no limit)
+- YouTube quota today (Pacific): 632 / 9,800
 
 ## This run
 ```
-17 Nov 03:01 PM IST] health ok | YouTube quota used today 554 | GitHub minutes this month 6862
-17 Nov 03:39 PM IST] pictures for short_poempatience_1
-17 Nov 03:43 PM IST] render short_poempatience_1_short1
-17 Nov 03:48 PM IST] metadata short_poempatience_1
-17 Nov 03:48 PM IST] short_poempatience_1_short1: upload waits (10 uploads done today - rest upload after the reset)
-17 Nov 03:48 PM IST] pictures for vishnu24
-17 Nov 03:48 PM IST] vishnu24: 1 Short(s) a day - the next one goes tomorrow
-17 Nov 03:48 PM IST] pictures for dashanan03
-17 Nov 03:48 PM IST] pictures for lankadhi01
-17 Nov 03:48 PM IST] metadata lankadhi01
-17 Nov 03:48 PM IST] pictures for vishnupu09
-17 Nov 03:48 PM IST] metadata vishnupu09
-17 Nov 03:48 PM IST] pictures for ramayana301
-17 Nov 03:48 PM IST] metadata ramayana301
-17 Nov 03:48 PM IST] queue worked through
+17 Nov 10:47 PM IST] health ok | YouTube quota used today 568 | GitHub minutes this month 6910
+17 Nov 11:25 PM IST] pictures for short_songbhajan_13
+17 Nov 11:29 PM IST] render short_songbhajan_13_short1
+17 Nov 11:33 PM IST] metadata short_songbhajan_13
+17 Nov 11:33 PM IST] short_songbhajan_13_short1: upload waits (10 uploads done today - rest upload after the reset)
+17 Nov 11:33 PM IST] pictures for short_poempatience_1
+17 Nov 11:33 PM IST] pictures for vishnu24
+17 Nov 11:33 PM IST] vishnu24: 1 Short(s) a day - the next one goes tomorrow
+17 Nov 11:33 PM IST] pictures for dashanan03
+17 Nov 11:33 PM IST] pictures for lankadhi01
+17 Nov 11:33 PM IST] metadata lankadhi01
+17 Nov 11:33 PM IST] pictures for vishnupu09
+17 Nov 11:33 PM IST] metadata vishnupu09
+17 Nov 11:33 PM IST] pictures for ramayana301
+17 Nov 11:33 PM IST] metadata ramayana301
+17 Nov 11:33 PM IST] queue worked through
 ```
