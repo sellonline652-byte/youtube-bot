@@ -1,5 +1,5 @@
 # 🤖 Video bot status
-_Updated 17 Nov 2026, 07:01 AM IST by the bot._
+_Updated 17 Nov 2026, 02:58 PM IST by the bot._
 
 ## Targets
 | | Now | Target |
@@ -52,17 +52,17 @@ _Updated 17 Nov 2026, 07:01 AM IST by the bot._
 | विष्णु पुराण: कलियुग महाप्रलय | hi | main | done | 10/10 | ⏳ |
 
 ## Queue (next to make)
-short_songbhajan_12, short_poemexile_1, short_puranas_22, short_puranas_21, short_puranas_20, short_puranas_19, short_puranas_18, short_puranas_17, short_puranas_16, short_puranas_15, short_puranas_14, short_puranas_13
+short_puranas_22, short_puranas_21, short_puranas_20, short_puranas_19, short_puranas_18, short_puranas_17, short_puranas_16, short_puranas_15, short_puranas_14, short_puranas_13, short_puranas_12, short_puranas_11
 
 ## Latest uploads
-- vishnupu08_short2: https://youtu.be/xB5wpQdspfw
-- vishnupu08_short1: https://youtu.be/0bjehRRbpwk
-- vishnupu08: https://youtu.be/Umo6O82Gneo
-- dashanan01_short2: https://youtu.be/ohWlSf54TI4
-- vishnu24_short20: https://youtu.be/KfdJaU5N2FY
-- short_katha_10_short1: https://youtu.be/atSB18J61PM
-- short_epics_11_short1: https://youtu.be/bl1q9VQgSS0
-- short_puranas_8_short1: https://youtu.be/U2BvPIfGGIE
+- dashanan03: https://youtu.be/z3ILu7VssAY
+- dashanan02_short2: https://youtu.be/xQ1Aj8Jf7L4
+- dashanan02_short1: https://youtu.be/Lr_NWiILTdQ
+- dashanan02: https://youtu.be/GcuAEtsXT2o
+- vishnu24_short21: https://youtu.be/Yp1pg2pcRY0
+- short_katha_11_short1: https://youtu.be/JoEX6SVPaAc
+- short_epics_12_short1: https://youtu.be/eNRhICsOqCQ
+- short_puranas_9_short1: https://youtu.be/HaMw-mMZj9w
 
 ## Titles the bot improved
 - भगवान विष्णु का बुद्ध और धन्वंतरि अवतार: कलि का साक्षात प्राकट्य! | 24 Avatars भाग 8 | Kalki Avatar → **क्या कलि का प्राकट्य हो चुका है? 🚩 Bhagwan Vishnu ke 24 Avatars भाग 8 | Kalki Avatar**
@@ -88,27 +88,34 @@ short_songbhajan_12, short_poemexile_1, short_puranas_22, short_puranas_21, shor
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 6792 (public repo: no limit)
-- YouTube quota today (Pacific): 767 / 9,800
+- GitHub minutes this month: 6862 (public repo: no limit)
+- YouTube quota today (Pacific): 554 / 9,800
 
 ## This run
 ```
-17 Nov 06:58 AM IST] health ok | YouTube quota used today 653 | GitHub minutes this month 6788
-17 Nov 06:58 AM IST] pictures for short_songbhajan_12
-17 Nov 06:58 AM IST] metadata short_songbhajan_12
-17 Nov 06:58 AM IST] short_songbhajan_12_short1: upload waits (10 uploads done today - rest upload after the reset)
-17 Nov 06:58 AM IST] pictures for short_poemexile_1
-17 Nov 06:58 AM IST] pictures for short_puranas_9
-17 Nov 06:58 AM IST] pictures for short_epics_12
-17 Nov 06:58 AM IST] pictures for short_katha_11
-17 Nov 06:58 AM IST] pictures for vishnu24
-17 Nov 06:58 AM IST] pictures for dashanan02
-17 Nov 06:58 AM IST] metadata dashanan02
-17 Nov 06:58 AM IST] pictures for lankadhi01
-17 Nov 06:58 AM IST] metadata lankadhi01
-17 Nov 06:59 AM IST] pictures for vishnupu09
-17 Nov 06:59 AM IST] metadata vishnupu09
-17 Nov 06:59 AM IST] pictures for ramayana301
-17 Nov 06:59 AM IST] metadata ramayana301
-17 Nov 06:59 AM IST] queue worked through
+17 Nov 01:51 PM IST] metadata short_katha_11
+17 Nov 01:51 PM IST] standalone Short short_katha_11 uploaded: https://youtu.be/JoEX6SVPaAc
+17 Nov 01:51 PM IST] short_katha_11 complete
+17 Nov 01:51 PM IST] pictures for vishnu24
+17 Nov 01:51 PM IST] metadata vishnu24
+17 Nov 01:52 PM IST] vishnu24: 1 Short(s) a day - the next one goes tomorrow
+17 Nov 01:52 PM IST] pictures for dashanan02
+17 Nov 01:52 PM IST] metadata dashanan02
+17 Nov 01:53 PM IST] metadata dashanan02
+17 Nov 01:53 PM IST] metadata dashanan02
+17 Nov 01:54 PM IST] dashanan02 complete
+17 Nov 01:54 PM IST] pictures for dashanan03
+17 Nov 01:55 PM IST] render dashanan03
+17 Nov 02:32 PM IST] metadata dashanan03
+17 Nov 02:46 PM IST] render dashanan03_short1
+17 Nov 02:51 PM IST] metadata dashanan03
+17 Nov 02:51 PM IST] YouTube quota used up (10 uploads done today - rest upload after the reset) - rendering continues, uploads next run
+17 Nov 02:51 PM IST] render dashanan03_short2
+17 Nov 02:57 PM IST] pictures for lankadhi01
+17 Nov 02:57 PM IST] metadata lankadhi01
+17 Nov 02:57 PM IST] pictures for vishnupu09
+17 Nov 02:57 PM IST] metadata vishnupu09
+17 Nov 02:58 PM IST] pictures for ramayana301
+17 Nov 02:58 PM IST] metadata ramayana301
+17 Nov 02:58 PM IST] queue worked through
 ```
