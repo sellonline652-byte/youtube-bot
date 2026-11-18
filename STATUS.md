@@ -1,12 +1,12 @@
 # 🤖 Video bot status
-_Updated 17 Nov 2026, 11:33 PM IST by the bot._
+_Updated 18 Nov 2026, 10:00 AM IST by the bot._
 
 ## Targets
 | | Now | Target |
 |---|---|---|
-| Watch hours / day (28-day avg) | 0.97 | 10.0 |
-| New subscribers / day | 0.04 | 3.0 |
-| Watch hours, last 12 months (4,000 for monetization) | 318.8 | 4000 |
+| Watch hours / day (28-day avg) | 0.91 | 10.0 |
+| New subscribers / day | 0.0 | 3.0 |
+| Watch hours, last 12 months (4,000 for monetization) | 318.9 | 4000 |
 
 ## Series
 | Series | Language | Channel | Status | Written | Movie |
@@ -65,20 +65,20 @@ short_songbhajan_13, short_poempatience_1, short_puranas_22, short_puranas_21, s
 - short_puranas_9_short1: https://youtu.be/HaMw-mMZj9w
 
 ## Titles the bot improved
-- भगवान विष्णु का बुद्ध और धन्वंतरि अवतार: कलि का साक्षात प्राकट्य! | 24 Avatars भाग 8 | Kalki Avatar → **क्या कलि का प्राकट्य हो चुका है? 🚩 Bhagwan Vishnu ke 24 Avatars भाग 8 | Kalki Avatar**
 - भगवान विष्णु का नरसिंह अवतार: खंभे से प्रकट हुआ न्याय 😱 | Srimad Bhagavata Purana | भाग 3 → **खंभे से कैसे प्रकट हुए नरसिंह भगवान? 🦁 | Srimad Bhagavata Purana | भाग 3**
 - विष्णु पुराण की खौफनाक भविष्यवाणी: 12 वर्ष में बुढ़ापा और मानव देह का सिकुड़ना 😱 | भाग 4 → **क्या 12 वर्ष में ही आ जाएगा बुढ़ापा? Kalki Puran की डरावनी भविष्यवाणी 😱 | भाग 4**
 - विष्णु पुराण की खौफनाक भविष्यवाणी: 100 साल का महासूखा और कंदराओं में पलायन 😱 | भाग 5 | Kalki Avatar → **क्या 100 साल का सूखा आने वाला है? विष्णु पुराण की चेतावनी 😱 | भाग 5 | Kalki Avatar**
 - Printable PDF Guides Planners and Activity Books for Work and Home → **Who is the Kalki Avatar? 24 Avatars of Lord Vishnu Explained 🛕**
+- विष्णु पुराण का सबसे बड़ा रहस्य: महर्षि वेदव्यास का अट्टहास और कलयुग का वरदान 😱 | भाग 6 → **कलयुग वरदान क्यों? महर्षि वेदव्यास का सबसे बड़ा रहस्य | विष्णु पुराण भाग 6 🙏**
 
 ## Promotion Shorts (unlisted, for paid ads)
+- 2026-11-18: promotion for the series 'मर्यादा और अहंकार: राम और रावण की अमर गाथा'  - uploads when an upload is free
 - 2026-11-17: promotion for the series 'रामायण: धर्म संस्थापन और रावण वध' (Valmiki R - uploads when an upload is free
 - 2026-11-16: promotion for the series 'रामायण: रावण का उत्थान और पतन' (Valmiki Rama - uploads when an upload is free
 - 2026-11-15: promotion for the series 'सनातन गाथा: अहल्या उद्धार और रामायण' (वाल्मी - uploads when an upload is free
 - 2026-11-14: promotion for the series 'रामायण: दशानन और धर्मयुद्ध' (Valmiki Ramayan - uploads when an upload is free
 - 2026-11-13: promotion for the series 'मर्यादा पुरुषोत्तम: रावण का उदय और पतन' (Val - uploads when an upload is free
 - 2026-11-12: promotion for the series 'श्रीराम कथा: पंचवटी से अशोक वाटिका' (Valmiki - uploads when an upload is free
-- 2026-11-11: promotion for the series 'रामायण: रावण का अहंकार और स्वर्ण मृग' (Valmi - uploads when an upload is free
 
 ## Sponsorship outreach (weekly)
 - 2026-10-26: 1 new companies stored (not emailed - growing first), 1 stored in total
@@ -88,25 +88,31 @@ short_songbhajan_13, short_poempatience_1, short_puranas_22, short_puranas_21, s
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 6957 (public repo: no limit)
-- YouTube quota today (Pacific): 632 / 9,800
+- GitHub minutes this month: 7137 (public repo: no limit)
+- YouTube quota today (Pacific): 874 / 9,800
 
 ## This run
 ```
-17 Nov 10:47 PM IST] health ok | YouTube quota used today 568 | GitHub minutes this month 6910
-17 Nov 11:25 PM IST] pictures for short_songbhajan_13
-17 Nov 11:29 PM IST] render short_songbhajan_13_short1
-17 Nov 11:33 PM IST] metadata short_songbhajan_13
-17 Nov 11:33 PM IST] short_songbhajan_13_short1: upload waits (10 uploads done today - rest upload after the reset)
-17 Nov 11:33 PM IST] pictures for short_poempatience_1
-17 Nov 11:33 PM IST] pictures for vishnu24
-17 Nov 11:33 PM IST] vishnu24: 1 Short(s) a day - the next one goes tomorrow
-17 Nov 11:33 PM IST] pictures for dashanan03
-17 Nov 11:33 PM IST] pictures for lankadhi01
-17 Nov 11:33 PM IST] metadata lankadhi01
-17 Nov 11:33 PM IST] pictures for vishnupu09
-17 Nov 11:33 PM IST] metadata vishnupu09
-17 Nov 11:33 PM IST] pictures for ramayana301
-17 Nov 11:33 PM IST] metadata ramayana301
-17 Nov 11:33 PM IST] queue worked through
+18 Nov 07:02 AM IST] health ok | YouTube quota used today 632 | GitHub minutes this month 6957
+18 Nov 08:23 AM IST] pictures for short_songbhajan_13
+18 Nov 08:23 AM IST] metadata short_songbhajan_13
+18 Nov 08:23 AM IST] short_songbhajan_13_short1: upload waits (10 uploads done today - rest upload after the reset)
+18 Nov 08:23 AM IST] pictures for short_poempatience_1
+18 Nov 08:23 AM IST] pictures for short_puranas_10
+18 Nov 08:27 AM IST] render short_puranas_10_short1
+18 Nov 08:29 AM IST] pictures for short_epics_13
+18 Nov 08:33 AM IST] render short_epics_13_short1
+18 Nov 08:35 AM IST] pictures for vishnu24
+18 Nov 08:35 AM IST] pictures for dashanan03
+18 Nov 08:35 AM IST] pictures for lankadhi01
+18 Nov 08:35 AM IST] metadata lankadhi01
+18 Nov 08:35 AM IST] pictures for vishnupu09
+18 Nov 08:35 AM IST] metadata vishnupu09
+18 Nov 08:35 AM IST] pictures for ramayana301
+18 Nov 08:35 AM IST] metadata ramayana301
+18 Nov 08:35 AM IST] queue worked through
+18 Nov 09:54 AM IST] pictures for short_promoepic_2
+18 Nov 09:58 AM IST] render short_promoepic_2_short1
+18 Nov 09:59 AM IST] metadata short_promoepic_2
+18 Nov 09:59 AM IST] promotion Short made: promotion for the series 'मर्यादा और अहंकार: राम और रावण की  - uploads when an upload is free
 ```
