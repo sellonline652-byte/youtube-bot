@@ -1,5 +1,5 @@
 # 🤖 Video bot status
-_Updated 18 Nov 2026, 10:00 AM IST by the bot._
+_Updated 18 Nov 2026, 05:01 PM IST by the bot._
 
 ## Targets
 | | Now | Target |
@@ -15,7 +15,7 @@ _Updated 18 Nov 2026, 10:00 AM IST by the bot._
 | बप्पा रावल: मेवाड़ का सूर्य और अरबों का अंत | hi | main | done | 4/4 | ✅ |
 | माँ छिन्नमस्ता साधना: गुप्त तंत्र और कटी मुंड का रहस्य | hi | main | done | 3/3 | ✅ |
 | ब्रह्मांडीय महायुद्ध: 24 अवतारों की गाथा | hi | main | done | 10/10 | ⏳ |
-| दशानन: लंकापति का उदय और पतन | hi | main | active | 5/30 | ⏳ |
+| दशानन: लंकापति का उदय और पतन | hi | main | active | 6/30 | ⏳ |
 | दशानन: मर्यादा और अहंकार का महायुद्ध | hi | main | active | 4/30 | ⏳ |
 | दशानन और मर्यादा: रावण का अंत | hi | main | active | 0/30 | ⏳ |
 | I Regressed 30 Days Before the Glitch Apocalypse | en | main | done | 10/10 | ✅ |
@@ -52,17 +52,17 @@ _Updated 18 Nov 2026, 10:00 AM IST by the bot._
 | विष्णु पुराण: कलियुग महाप्रलय | hi | main | done | 10/10 | ⏳ |
 
 ## Queue (next to make)
-short_songbhajan_13, short_poempatience_1, short_puranas_22, short_puranas_21, short_puranas_20, short_puranas_19, short_puranas_18, short_puranas_17, short_puranas_16, short_puranas_15, short_puranas_14, short_puranas_13
+short_puranas_22, short_puranas_21, short_puranas_20, short_puranas_19, short_puranas_18, short_puranas_17, short_puranas_16, short_puranas_15, short_puranas_14, short_puranas_13, short_puranas_12, short_puranas_11
 
 ## Latest uploads
-- dashanan03: https://youtu.be/z3ILu7VssAY
-- dashanan02_short2: https://youtu.be/xQ1Aj8Jf7L4
-- dashanan02_short1: https://youtu.be/Lr_NWiILTdQ
-- dashanan02: https://youtu.be/GcuAEtsXT2o
-- vishnu24_short21: https://youtu.be/Yp1pg2pcRY0
-- short_katha_11_short1: https://youtu.be/JoEX6SVPaAc
-- short_epics_12_short1: https://youtu.be/eNRhICsOqCQ
-- short_puranas_9_short1: https://youtu.be/HaMw-mMZj9w
+- dashanan04_short2: https://youtu.be/WTb0uzo3ZTI
+- dashanan04_short1: https://youtu.be/aziKXOShCtE
+- dashanan04: https://youtu.be/5HEvLME3FJI
+- dashanan03_short2: https://youtu.be/WsG1U7vj2Z0
+- dashanan03_short1: https://youtu.be/zdlN22XPQpw
+- vishnu24_short22: https://youtu.be/lFup3s6hqxs
+- short_epics_13_short1: https://youtu.be/MeiECYMrSHw
+- short_puranas_10_short1: https://youtu.be/DombCkAUE0A
 
 ## Titles the bot improved
 - भगवान विष्णु का नरसिंह अवतार: खंभे से प्रकट हुआ न्याय 😱 | Srimad Bhagavata Purana | भाग 3 → **खंभे से कैसे प्रकट हुए नरसिंह भगवान? 🦁 | Srimad Bhagavata Purana | भाग 3**
@@ -88,31 +88,34 @@ short_songbhajan_13, short_poempatience_1, short_puranas_22, short_puranas_21, s
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 7137 (public repo: no limit)
-- YouTube quota today (Pacific): 874 / 9,800
+- GitHub minutes this month: 7332 (public repo: no limit)
+- YouTube quota today (Pacific): 704 / 9,800
 
 ## This run
 ```
-18 Nov 07:02 AM IST] health ok | YouTube quota used today 632 | GitHub minutes this month 6957
-18 Nov 08:23 AM IST] pictures for short_songbhajan_13
-18 Nov 08:23 AM IST] metadata short_songbhajan_13
-18 Nov 08:23 AM IST] short_songbhajan_13_short1: upload waits (10 uploads done today - rest upload after the reset)
-18 Nov 08:23 AM IST] pictures for short_poempatience_1
-18 Nov 08:23 AM IST] pictures for short_puranas_10
-18 Nov 08:27 AM IST] render short_puranas_10_short1
-18 Nov 08:29 AM IST] pictures for short_epics_13
-18 Nov 08:33 AM IST] render short_epics_13_short1
-18 Nov 08:35 AM IST] pictures for vishnu24
-18 Nov 08:35 AM IST] pictures for dashanan03
-18 Nov 08:35 AM IST] pictures for lankadhi01
-18 Nov 08:35 AM IST] metadata lankadhi01
-18 Nov 08:35 AM IST] pictures for vishnupu09
-18 Nov 08:35 AM IST] metadata vishnupu09
-18 Nov 08:35 AM IST] pictures for ramayana301
-18 Nov 08:35 AM IST] metadata ramayana301
-18 Nov 08:35 AM IST] queue worked through
-18 Nov 09:54 AM IST] pictures for short_promoepic_2
-18 Nov 09:58 AM IST] render short_promoepic_2_short1
-18 Nov 09:59 AM IST] metadata short_promoepic_2
-18 Nov 09:59 AM IST] promotion Short made: promotion for the series 'मर्यादा और अहंकार: राम और रावण की  - uploads when an upload is free
+18 Nov 02:21 PM IST] metadata short_epics_13
+18 Nov 02:22 PM IST] standalone Short short_epics_13 uploaded: https://youtu.be/MeiECYMrSHw
+18 Nov 02:22 PM IST] short_epics_13 complete
+18 Nov 02:22 PM IST] pictures for vishnu24
+18 Nov 02:22 PM IST] metadata vishnu24
+18 Nov 02:53 PM IST] vishnu24: 1 Short(s) a day - the next one goes tomorrow
+18 Nov 02:53 PM IST] pictures for dashanan03
+18 Nov 02:53 PM IST] metadata dashanan03
+18 Nov 03:09 PM IST] metadata dashanan03
+18 Nov 03:10 PM IST] dashanan03 complete
+18 Nov 03:10 PM IST] pictures for dashanan04
+18 Nov 03:11 PM IST] render dashanan04
+18 Nov 04:13 PM IST] dashanan04: the video reviewer fixed picture 'manibhadra_striking_demons' made again - rendering once more
+18 Nov 04:13 PM IST] pictures for dashanan04
+18 Nov 04:13 PM IST] render dashanan04
+18 Nov 04:47 PM IST] metadata dashanan04
+18 Nov 04:49 PM IST] render dashanan04_short1
+18 Nov 04:53 PM IST] metadata dashanan04
+18 Nov 04:54 PM IST] render dashanan04_short2
+18 Nov 04:58 PM IST] metadata dashanan04
+18 Nov 05:00 PM IST] dashanan04 complete
+18 Nov 05:00 PM IST] pictures for dashanan201
+18 Nov 05:01 PM IST] stopping for now: not enough time left in this run for the renders - continuing next run
+18 Nov 05:01 PM IST] fill empty slots: stopping for now: 10 uploads done today - rest upload after the reset
+18 Nov 05:01 PM IST] weekly product video due but waiting: room=False hours_left=1.9
 ```
