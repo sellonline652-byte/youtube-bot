@@ -1,5 +1,5 @@
 # 🤖 Video bot status
-_Updated 18 Nov 2026, 05:01 PM IST by the bot._
+_Updated 18 Nov 2026, 07:20 PM IST by the bot._
 
 ## Targets
 | | Now | Target |
@@ -52,7 +52,7 @@ _Updated 18 Nov 2026, 05:01 PM IST by the bot._
 | विष्णु पुराण: कलियुग महाप्रलय | hi | main | done | 10/10 | ⏳ |
 
 ## Queue (next to make)
-short_puranas_22, short_puranas_21, short_puranas_20, short_puranas_19, short_puranas_18, short_puranas_17, short_puranas_16, short_puranas_15, short_puranas_14, short_puranas_13, short_puranas_12, short_puranas_11
+short_poemdisrobin_1, short_puranas_22, short_puranas_21, short_puranas_20, short_puranas_19, short_puranas_18, short_puranas_17, short_puranas_16, short_puranas_15, short_puranas_14, short_puranas_13, short_puranas_12
 
 ## Latest uploads
 - dashanan04_short2: https://youtu.be/WTb0uzo3ZTI
@@ -88,34 +88,28 @@ short_puranas_22, short_puranas_21, short_puranas_20, short_puranas_19, short_pu
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 7332 (public repo: no limit)
-- YouTube quota today (Pacific): 704 / 9,800
+- GitHub minutes this month: 7470 (public repo: no limit)
+- YouTube quota today (Pacific): 768 / 9,800
 
 ## This run
 ```
-18 Nov 02:21 PM IST] metadata short_epics_13
-18 Nov 02:22 PM IST] standalone Short short_epics_13 uploaded: https://youtu.be/MeiECYMrSHw
-18 Nov 02:22 PM IST] short_epics_13 complete
-18 Nov 02:22 PM IST] pictures for vishnu24
-18 Nov 02:22 PM IST] metadata vishnu24
-18 Nov 02:53 PM IST] vishnu24: 1 Short(s) a day - the next one goes tomorrow
-18 Nov 02:53 PM IST] pictures for dashanan03
-18 Nov 02:53 PM IST] metadata dashanan03
-18 Nov 03:09 PM IST] metadata dashanan03
-18 Nov 03:10 PM IST] dashanan03 complete
-18 Nov 03:10 PM IST] pictures for dashanan04
-18 Nov 03:11 PM IST] render dashanan04
-18 Nov 04:13 PM IST] dashanan04: the video reviewer fixed picture 'manibhadra_striking_demons' made again - rendering once more
-18 Nov 04:13 PM IST] pictures for dashanan04
-18 Nov 04:13 PM IST] render dashanan04
-18 Nov 04:47 PM IST] metadata dashanan04
-18 Nov 04:49 PM IST] render dashanan04_short1
-18 Nov 04:53 PM IST] metadata dashanan04
-18 Nov 04:54 PM IST] render dashanan04_short2
-18 Nov 04:58 PM IST] metadata dashanan04
-18 Nov 05:00 PM IST] dashanan04 complete
-18 Nov 05:00 PM IST] pictures for dashanan201
-18 Nov 05:01 PM IST] stopping for now: not enough time left in this run for the renders - continuing next run
-18 Nov 05:01 PM IST] fill empty slots: stopping for now: 10 uploads done today - rest upload after the reset
-18 Nov 05:01 PM IST] weekly product video due but waiting: room=False hours_left=1.9
+18 Nov 05:04 PM IST] health ok | YouTube quota used today 704 | GitHub minutes this month 7332
+18 Nov 06:00 PM IST] pictures for short_poemdisrobin_1
+18 Nov 06:05 PM IST] render short_poemdisrobin_1_short1
+18 Nov 06:09 PM IST] metadata short_poemdisrobin_1
+18 Nov 06:09 PM IST] short_poemdisrobin_1_short1: upload waits (10 uploads done today - rest upload after the reset)
+18 Nov 06:09 PM IST] pictures for vishnu24
+18 Nov 06:09 PM IST] vishnu24: 1 Short(s) a day - the next one goes tomorrow
+18 Nov 06:09 PM IST] pictures for dashanan201
+18 Nov 06:09 PM IST] render dashanan201
+18 Nov 07:03 PM IST] metadata dashanan201
+18 Nov 07:03 PM IST] render dashanan201_short1
+18 Nov 07:13 PM IST] render dashanan201_short2
+18 Nov 07:20 PM IST] pictures for lankadhi01
+18 Nov 07:20 PM IST] metadata lankadhi01
+18 Nov 07:20 PM IST] pictures for vishnupu09
+18 Nov 07:20 PM IST] metadata vishnupu09
+18 Nov 07:20 PM IST] pictures for ramayana301
+18 Nov 07:20 PM IST] metadata ramayana301
+18 Nov 07:20 PM IST] queue worked through
 ```
