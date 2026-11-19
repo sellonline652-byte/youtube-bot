@@ -1,5 +1,5 @@
 # 🤖 Video bot status
-_Updated 19 Nov 2026, 07:31 AM IST by the bot._
+_Updated 19 Nov 2026, 05:37 PM IST by the bot._
 
 ## Targets
 | | Now | Target |
@@ -15,7 +15,7 @@ _Updated 19 Nov 2026, 07:31 AM IST by the bot._
 | बप्पा रावल: मेवाड़ का सूर्य और अरबों का अंत | hi | main | done | 4/4 | ✅ |
 | माँ छिन्नमस्ता साधना: गुप्त तंत्र और कटी मुंड का रहस्य | hi | main | done | 3/3 | ✅ |
 | ब्रह्मांडीय महायुद्ध: 24 अवतारों की गाथा | hi | main | done | 10/10 | ⏳ |
-| दशानन: लंकापति का उदय और पतन | hi | main | active | 6/30 | ⏳ |
+| दशानन: लंकापति का उदय और पतन | hi | main | active | 8/30 | ⏳ |
 | दशानन: मर्यादा और अहंकार का महायुद्ध | hi | main | active | 4/30 | ⏳ |
 | दशानन और मर्यादा: रावण का अंत | hi | main | active | 0/30 | ⏳ |
 | I Regressed 30 Days Before the Glitch Apocalypse | en | main | done | 10/10 | ✅ |
@@ -52,17 +52,17 @@ _Updated 19 Nov 2026, 07:31 AM IST by the bot._
 | विष्णु पुराण: कलियुग महाप्रलय | hi | main | done | 10/10 | ⏳ |
 
 ## Queue (next to make)
-short_songbhairav_1, short_poemdisrobin_1, short_puranas_22, short_puranas_21, short_puranas_20, short_puranas_19, short_puranas_18, short_puranas_17, short_puranas_16, short_puranas_15, short_puranas_14, short_puranas_13
+short_songbhairav_1, short_puranas_22, short_puranas_21, short_puranas_20, short_puranas_19, short_puranas_18, short_puranas_17, short_puranas_16, short_puranas_15, short_puranas_14, short_puranas_13, short_puranas_12
 
 ## Latest uploads
-- dashanan04_short2: https://youtu.be/WTb0uzo3ZTI
-- dashanan04_short1: https://youtu.be/aziKXOShCtE
-- dashanan04: https://youtu.be/5HEvLME3FJI
-- dashanan03_short2: https://youtu.be/WsG1U7vj2Z0
-- dashanan03_short1: https://youtu.be/zdlN22XPQpw
-- vishnu24_short22: https://youtu.be/lFup3s6hqxs
-- short_epics_13_short1: https://youtu.be/MeiECYMrSHw
-- short_puranas_10_short1: https://youtu.be/DombCkAUE0A
+- dashanan202_short2: https://youtu.be/t4k_tcNAMXI
+- dashanan202_short1: https://youtu.be/QcHm5WEc78w
+- dashanan202: https://youtu.be/bf0SqygHB4U
+- dashanan201_short2: https://youtu.be/_91TixTFfDI
+- dashanan201_short1: https://youtu.be/uanFJY0A45U
+- dashanan201: https://youtu.be/I3BnnyJq5oc
+- vishnu24_short23: https://youtu.be/hz9_5TZGHm4
+- short_epics_14_short1: https://youtu.be/-3O06-0Vbzw
 
 ## Titles the bot improved
 - विष्णु पुराण की खौफनाक भविष्यवाणी: 100 साल का महासूखा और कंदराओं में पलायन 😱 | भाग 5 | Kalki Avatar → **क्या 100 साल का सूखा आने वाला है? विष्णु पुराण की चेतावनी 😱 | भाग 5 | Kalki Avatar**
@@ -88,27 +88,34 @@ short_songbhairav_1, short_poemdisrobin_1, short_puranas_22, short_puranas_21, s
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 7639 (public repo: no limit)
-- YouTube quota today (Pacific): 1219 / 9,800
+- GitHub minutes this month: 7865 (public repo: no limit)
+- YouTube quota today (Pacific): 653 / 9,800
 
 ## This run
 ```
-19 Nov 07:00 AM IST] health ok | YouTube quota used today 1105 | GitHub minutes this month 7600
-19 Nov 07:19 AM IST] short_songbhairav_1 failed (skipping the rest of this series this run): ModuleNotFoundError: No module named 'short_songbhairav_1'
-19 Nov 07:19 AM IST] pictures for short_poemdisrobin_1
-19 Nov 07:19 AM IST] metadata short_poemdisrobin_1
-19 Nov 07:19 AM IST] short_poemdisrobin_1_short1: upload waits (10 uploads done today - rest upload after the reset)
-19 Nov 07:19 AM IST] pictures for short_puranas_11
-19 Nov 07:19 AM IST] pictures for short_epics_14
-19 Nov 07:19 AM IST] pictures for vishnu24
-19 Nov 07:19 AM IST] pictures for dashanan201
-19 Nov 07:19 AM IST] metadata dashanan201
-19 Nov 07:19 AM IST] pictures for lankadhi01
-19 Nov 07:19 AM IST] metadata lankadhi01
-19 Nov 07:20 AM IST] pictures for vishnupu09
-19 Nov 07:20 AM IST] metadata vishnupu09
-19 Nov 07:20 AM IST] pictures for ramayana301
-19 Nov 07:20 AM IST] metadata ramayana301
-19 Nov 07:20 AM IST] queue worked through
-watchdog: stuck for 3 runs - self-repair started
+19 Nov 03:17 PM IST] short_puranas_11 complete
+19 Nov 03:17 PM IST] pictures for short_epics_14
+19 Nov 03:17 PM IST] metadata short_epics_14
+19 Nov 03:31 PM IST] standalone Short short_epics_14 uploaded: https://youtu.be/-3O06-0Vbzw
+19 Nov 03:31 PM IST] short_epics_14 complete
+19 Nov 03:31 PM IST] pictures for vishnu24
+19 Nov 03:31 PM IST] metadata vishnu24
+19 Nov 03:47 PM IST] vishnu24: 1 Short(s) a day - the next one goes tomorrow
+19 Nov 03:47 PM IST] pictures for dashanan201
+19 Nov 03:47 PM IST] metadata dashanan201
+19 Nov 04:06 PM IST] metadata dashanan201
+19 Nov 04:10 PM IST] metadata dashanan201
+19 Nov 04:15 PM IST] dashanan201 complete
+19 Nov 04:15 PM IST] pictures for dashanan202
+19 Nov 04:16 PM IST] render dashanan202
+19 Nov 04:54 PM IST] metadata dashanan202
+19 Nov 04:56 PM IST] render dashanan202_short1
+19 Nov 05:03 PM IST] metadata dashanan202
+19 Nov 05:07 PM IST] render dashanan202_short2
+19 Nov 05:11 PM IST] metadata dashanan202
+19 Nov 05:37 PM IST] dashanan202 failed (skipping the rest of this series this run): HttpError: <HttpError 503 when requesting https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2Cstatus&id=t4k_tcNAMXI&alt=json returned "The service is currently unavailable.". Details: "[{'message': '
+19 Nov 05:37 PM IST] pictures for lankadhi01
+19 Nov 05:37 PM IST] stopping for now: not enough time left in this run for the renders - continuing next run
+19 Nov 05:37 PM IST] fill empty slots: stopping for now: 10 uploads done today - rest upload after the reset
+19 Nov 05:37 PM IST] weekly product video due but waiting: room=False hours_left=1.4
 ```
