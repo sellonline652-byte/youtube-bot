@@ -1,5 +1,5 @@
 # 🤖 Video bot status
-_Updated 19 Nov 2026, 05:37 PM IST by the bot._
+_Updated 19 Nov 2026, 08:19 PM IST by the bot._
 
 ## Targets
 | | Now | Target |
@@ -52,7 +52,7 @@ _Updated 19 Nov 2026, 05:37 PM IST by the bot._
 | विष्णु पुराण: कलियुग महाप्रलय | hi | main | done | 10/10 | ⏳ |
 
 ## Queue (next to make)
-short_songbhairav_1, short_puranas_22, short_puranas_21, short_puranas_20, short_puranas_19, short_puranas_18, short_puranas_17, short_puranas_16, short_puranas_15, short_puranas_14, short_puranas_13, short_puranas_12
+short_poemsacrific_2, short_songbhairav_1, short_puranas_22, short_puranas_21, short_puranas_20, short_puranas_19, short_puranas_18, short_puranas_17, short_puranas_16, short_puranas_15, short_puranas_14, short_puranas_13
 
 ## Latest uploads
 - dashanan202_short2: https://youtu.be/t4k_tcNAMXI
@@ -88,34 +88,29 @@ short_songbhairav_1, short_puranas_22, short_puranas_21, short_puranas_20, short
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 7865 (public repo: no limit)
-- YouTube quota today (Pacific): 653 / 9,800
+- GitHub minutes this month: 8025 (public repo: no limit)
+- YouTube quota today (Pacific): 717 / 9,800
 
 ## This run
 ```
-19 Nov 03:17 PM IST] short_puranas_11 complete
-19 Nov 03:17 PM IST] pictures for short_epics_14
-19 Nov 03:17 PM IST] metadata short_epics_14
-19 Nov 03:31 PM IST] standalone Short short_epics_14 uploaded: https://youtu.be/-3O06-0Vbzw
-19 Nov 03:31 PM IST] short_epics_14 complete
-19 Nov 03:31 PM IST] pictures for vishnu24
-19 Nov 03:31 PM IST] metadata vishnu24
-19 Nov 03:47 PM IST] vishnu24: 1 Short(s) a day - the next one goes tomorrow
-19 Nov 03:47 PM IST] pictures for dashanan201
-19 Nov 03:47 PM IST] metadata dashanan201
-19 Nov 04:06 PM IST] metadata dashanan201
-19 Nov 04:10 PM IST] metadata dashanan201
-19 Nov 04:15 PM IST] dashanan201 complete
-19 Nov 04:15 PM IST] pictures for dashanan202
-19 Nov 04:16 PM IST] render dashanan202
-19 Nov 04:54 PM IST] metadata dashanan202
-19 Nov 04:56 PM IST] render dashanan202_short1
-19 Nov 05:03 PM IST] metadata dashanan202
-19 Nov 05:07 PM IST] render dashanan202_short2
-19 Nov 05:11 PM IST] metadata dashanan202
-19 Nov 05:37 PM IST] dashanan202 failed (skipping the rest of this series this run): HttpError: <HttpError 503 when requesting https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2Cstatus&id=t4k_tcNAMXI&alt=json returned "The service is currently unavailable.". Details: "[{'message': '
-19 Nov 05:37 PM IST] pictures for lankadhi01
-19 Nov 05:37 PM IST] stopping for now: not enough time left in this run for the renders - continuing next run
-19 Nov 05:37 PM IST] fill empty slots: stopping for now: 10 uploads done today - rest upload after the reset
-19 Nov 05:37 PM IST] weekly product video due but waiting: room=False hours_left=1.4
+19 Nov 05:41 PM IST] health ok | YouTube quota used today 653 | GitHub minutes this month 7865
+19 Nov 06:36 PM IST] pictures for short_poemsacrific_2
+19 Nov 06:43 PM IST] render short_poemsacrific_2_short1
+19 Nov 06:46 PM IST] metadata short_poemsacrific_2
+19 Nov 06:46 PM IST] short_poemsacrific_2_short1: upload waits (10 uploads done today - rest upload after the reset)
+19 Nov 06:46 PM IST] pictures for short_songbhairav_1
+19 Nov 06:46 PM IST] short_songbhairav_1 failed (skipping the rest of this series this run): RuntimeError: pictures failed for short_songbhairav_1
+19 Nov 06:46 PM IST] pictures for vishnu24
+19 Nov 06:46 PM IST] vishnu24: 1 Short(s) a day - the next one goes tomorrow
+19 Nov 06:46 PM IST] dashanan202 complete
+19 Nov 06:46 PM IST] pictures for dashanan203
+19 Nov 06:47 PM IST] render dashanan203
+19 Nov 07:38 PM IST] dashanan203: the video reviewer fixed picture 'shiva_bestows_chandrahas' made again; picture 'shiva_final_warning' made again - rendering once more
+19 Nov 07:38 PM IST] pictures for dashanan203
+19 Nov 07:38 PM IST] render dashanan203
+19 Nov 08:08 PM IST] metadata dashanan203
+19 Nov 08:08 PM IST] render dashanan203_short1
+19 Nov 08:13 PM IST] render dashanan203_short2
+19 Nov 08:19 PM IST] pictures for lankadhi01
+19 Nov 08:19 PM IST] stopping for now: not enough time left in this run for the renders - continuing next run
 ```
