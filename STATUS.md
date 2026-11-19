@@ -1,5 +1,5 @@
 # 🤖 Video bot status
-_Updated 19 Nov 2026, 08:19 PM IST by the bot._
+_Updated 19 Nov 2026, 08:40 PM IST by the bot._
 
 ## Targets
 | | Now | Target |
@@ -16,7 +16,7 @@ _Updated 19 Nov 2026, 08:19 PM IST by the bot._
 | माँ छिन्नमस्ता साधना: गुप्त तंत्र और कटी मुंड का रहस्य | hi | main | done | 3/3 | ✅ |
 | ब्रह्मांडीय महायुद्ध: 24 अवतारों की गाथा | hi | main | done | 10/10 | ⏳ |
 | दशानन: लंकापति का उदय और पतन | hi | main | active | 8/30 | ⏳ |
-| दशानन: मर्यादा और अहंकार का महायुद्ध | hi | main | active | 4/30 | ⏳ |
+| दशानन: मर्यादा और अहंकार का महायुद्ध | hi | main | active | 5/30 | ⏳ |
 | दशानन और मर्यादा: रावण का अंत | hi | main | active | 0/30 | ⏳ |
 | I Regressed 30 Days Before the Glitch Apocalypse | en | main | done | 10/10 | ✅ |
 | कल्कि | hi | main | done | 15/15 | ✅ |
@@ -88,29 +88,26 @@ short_poemsacrific_2, short_songbhairav_1, short_puranas_22, short_puranas_21, s
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 8025 (public repo: no limit)
-- YouTube quota today (Pacific): 717 / 9,800
+- GitHub minutes this month: 8041 (public repo: no limit)
+- YouTube quota today (Pacific): 731 / 9,800
 
 ## This run
 ```
-19 Nov 05:41 PM IST] health ok | YouTube quota used today 653 | GitHub minutes this month 7865
-19 Nov 06:36 PM IST] pictures for short_poemsacrific_2
-19 Nov 06:43 PM IST] render short_poemsacrific_2_short1
-19 Nov 06:46 PM IST] metadata short_poemsacrific_2
-19 Nov 06:46 PM IST] short_poemsacrific_2_short1: upload waits (10 uploads done today - rest upload after the reset)
-19 Nov 06:46 PM IST] pictures for short_songbhairav_1
-19 Nov 06:46 PM IST] short_songbhairav_1 failed (skipping the rest of this series this run): RuntimeError: pictures failed for short_songbhairav_1
-19 Nov 06:46 PM IST] pictures for vishnu24
-19 Nov 06:46 PM IST] vishnu24: 1 Short(s) a day - the next one goes tomorrow
-19 Nov 06:46 PM IST] dashanan202 complete
-19 Nov 06:46 PM IST] pictures for dashanan203
-19 Nov 06:47 PM IST] render dashanan203
-19 Nov 07:38 PM IST] dashanan203: the video reviewer fixed picture 'shiva_bestows_chandrahas' made again; picture 'shiva_final_warning' made again - rendering once more
-19 Nov 07:38 PM IST] pictures for dashanan203
-19 Nov 07:38 PM IST] render dashanan203
-19 Nov 08:08 PM IST] metadata dashanan203
-19 Nov 08:08 PM IST] render dashanan203_short1
-19 Nov 08:13 PM IST] render dashanan203_short2
-19 Nov 08:19 PM IST] pictures for lankadhi01
-19 Nov 08:19 PM IST] stopping for now: not enough time left in this run for the renders - continuing next run
+19 Nov 08:25 PM IST] health ok | YouTube quota used today 717 | GitHub minutes this month 8025
+19 Nov 08:39 PM IST] pictures for short_poemsacrific_2
+19 Nov 08:39 PM IST] metadata short_poemsacrific_2
+19 Nov 08:39 PM IST] short_poemsacrific_2_short1: upload waits (10 uploads done today - rest upload after the reset)
+19 Nov 08:39 PM IST] pictures for short_songbhairav_1
+19 Nov 08:39 PM IST] short_songbhairav_1 failed (skipping the rest of this series this run): RuntimeError: pictures failed for short_songbhairav_1
+19 Nov 08:39 PM IST] pictures for vishnu24
+19 Nov 08:39 PM IST] vishnu24: 1 Short(s) a day - the next one goes tomorrow
+19 Nov 08:39 PM IST] pictures for dashanan203
+19 Nov 08:39 PM IST] metadata dashanan203
+19 Nov 08:39 PM IST] pictures for lankadhi01
+19 Nov 08:39 PM IST] metadata lankadhi01
+19 Nov 08:39 PM IST] pictures for vishnupu09
+19 Nov 08:39 PM IST] metadata vishnupu09
+19 Nov 08:39 PM IST] pictures for ramayana301
+19 Nov 08:39 PM IST] metadata ramayana301
+19 Nov 08:39 PM IST] queue worked through
 ```
