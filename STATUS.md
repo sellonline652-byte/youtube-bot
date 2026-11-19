@@ -1,12 +1,12 @@
 # 🤖 Video bot status
-_Updated 19 Nov 2026, 12:57 AM IST by the bot._
+_Updated 19 Nov 2026, 07:31 AM IST by the bot._
 
 ## Targets
 | | Now | Target |
 |---|---|---|
-| Watch hours / day (28-day avg) | 0.91 | 10.0 |
-| New subscribers / day | 0.0 | 3.0 |
-| Watch hours, last 12 months (4,000 for monetization) | 318.9 | 4000 |
+| Watch hours / day (28-day avg) | 0.73 | 10.0 |
+| New subscribers / day | -0.07 | 3.0 |
+| Watch hours, last 12 months (4,000 for monetization) | 319.2 | 4000 |
 
 ## Series
 | Series | Language | Channel | Status | Written | Movie |
@@ -65,11 +65,11 @@ short_songbhairav_1, short_poemdisrobin_1, short_puranas_22, short_puranas_21, s
 - short_puranas_10_short1: https://youtu.be/DombCkAUE0A
 
 ## Titles the bot improved
-- भगवान विष्णु का नरसिंह अवतार: खंभे से प्रकट हुआ न्याय 😱 | Srimad Bhagavata Purana | भाग 3 → **खंभे से कैसे प्रकट हुए नरसिंह भगवान? 🦁 | Srimad Bhagavata Purana | भाग 3**
-- विष्णु पुराण की खौफनाक भविष्यवाणी: 12 वर्ष में बुढ़ापा और मानव देह का सिकुड़ना 😱 | भाग 4 → **क्या 12 वर्ष में ही आ जाएगा बुढ़ापा? Kalki Puran की डरावनी भविष्यवाणी 😱 | भाग 4**
 - विष्णु पुराण की खौफनाक भविष्यवाणी: 100 साल का महासूखा और कंदराओं में पलायन 😱 | भाग 5 | Kalki Avatar → **क्या 100 साल का सूखा आने वाला है? विष्णु पुराण की चेतावनी 😱 | भाग 5 | Kalki Avatar**
 - Printable PDF Guides Planners and Activity Books for Work and Home → **Who is the Kalki Avatar? 24 Avatars of Lord Vishnu Explained 🛕**
 - विष्णु पुराण का सबसे बड़ा रहस्य: महर्षि वेदव्यास का अट्टहास और कलयुग का वरदान 😱 | भाग 6 → **कलयुग वरदान क्यों? महर्षि वेदव्यास का सबसे बड़ा रहस्य | विष्णु पुराण भाग 6 🙏**
+- This week's 15 printable PDFs | kids worksheets, planners, journals → **Who is the Kalki Avatar? 15 Printable PDFs: 24 Avatars of Lord Vishnu 🕉️**
+- दशानन का उदय: कैसे शुरू हुआ रावण का भयानक तप? | दशानन अध्याय 1 → **रावण ने अपने ही 10 सिर क्यों काटे? भयानक तप का रहस्य 🔱 दशानन अध्याय 1**
 
 ## Promotion Shorts (unlisted, for paid ads)
 - 2026-11-19: promotion for the series 'रामायण: दशानन और धर्म का उत्थान' (Valmiki Ra - uploads when an upload is free
@@ -88,33 +88,27 @@ short_songbhairav_1, short_poemdisrobin_1, short_puranas_22, short_puranas_21, s
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 7600 (public repo: no limit)
-- YouTube quota today (Pacific): 1105 / 9,800
+- GitHub minutes this month: 7639 (public repo: no limit)
+- YouTube quota today (Pacific): 1219 / 9,800
 
 ## This run
 ```
-18 Nov 10:48 PM IST] health ok | YouTube quota used today 768 | GitHub minutes this month 7470
-18 Nov 11:51 PM IST] pictures for short_songbhairav_1
-18 Nov 11:57 PM IST] render short_songbhairav_1_short1
-19 Nov 12:02 AM IST] metadata short_songbhairav_1
-19 Nov 12:02 AM IST] short_songbhairav_1_short1: upload waits (10 uploads done today - rest upload after the reset)
-19 Nov 12:02 AM IST] pictures for short_poemdisrobin_1
-19 Nov 12:02 AM IST] pictures for short_puranas_11
-19 Nov 12:06 AM IST] render short_puranas_11_short1
-19 Nov 12:10 AM IST] pictures for short_epics_14
-19 Nov 12:15 AM IST] render short_epics_14_short1
-19 Nov 12:18 AM IST] pictures for vishnu24
-19 Nov 12:18 AM IST] pictures for dashanan201
-19 Nov 12:18 AM IST] metadata dashanan201
-19 Nov 12:18 AM IST] pictures for lankadhi01
-19 Nov 12:18 AM IST] metadata lankadhi01
-19 Nov 12:18 AM IST] pictures for vishnupu09
-19 Nov 12:18 AM IST] metadata vishnupu09
-19 Nov 12:18 AM IST] pictures for ramayana301
-19 Nov 12:18 AM IST] metadata ramayana301
-19 Nov 12:18 AM IST] queue worked through
-19 Nov 12:49 AM IST] pictures for short_promoepic_3
-19 Nov 12:53 AM IST] render short_promoepic_3_short1
-19 Nov 12:56 AM IST] metadata short_promoepic_3
-19 Nov 12:56 AM IST] promotion Short made: promotion for the series 'रामायण: दशानन और धर्म का उत्थान' ( - uploads when an upload is free
+19 Nov 07:00 AM IST] health ok | YouTube quota used today 1105 | GitHub minutes this month 7600
+19 Nov 07:19 AM IST] short_songbhairav_1 failed (skipping the rest of this series this run): ModuleNotFoundError: No module named 'short_songbhairav_1'
+19 Nov 07:19 AM IST] pictures for short_poemdisrobin_1
+19 Nov 07:19 AM IST] metadata short_poemdisrobin_1
+19 Nov 07:19 AM IST] short_poemdisrobin_1_short1: upload waits (10 uploads done today - rest upload after the reset)
+19 Nov 07:19 AM IST] pictures for short_puranas_11
+19 Nov 07:19 AM IST] pictures for short_epics_14
+19 Nov 07:19 AM IST] pictures for vishnu24
+19 Nov 07:19 AM IST] pictures for dashanan201
+19 Nov 07:19 AM IST] metadata dashanan201
+19 Nov 07:19 AM IST] pictures for lankadhi01
+19 Nov 07:19 AM IST] metadata lankadhi01
+19 Nov 07:20 AM IST] pictures for vishnupu09
+19 Nov 07:20 AM IST] metadata vishnupu09
+19 Nov 07:20 AM IST] pictures for ramayana301
+19 Nov 07:20 AM IST] metadata ramayana301
+19 Nov 07:20 AM IST] queue worked through
+watchdog: stuck for 3 runs - self-repair started
 ```
