@@ -1,5 +1,5 @@
 # 🤖 Video bot status
-_Updated 19 Nov 2026, 08:40 PM IST by the bot._
+_Updated 19 Nov 2026, 10:51 PM IST by the bot._
 
 ## Targets
 | | Now | Target |
@@ -88,26 +88,26 @@ short_poemsacrific_2, short_songbhairav_1, short_puranas_22, short_puranas_21, s
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 8041 (public repo: no limit)
-- YouTube quota today (Pacific): 731 / 9,800
+- GitHub minutes this month: 8044 (public repo: no limit)
+- YouTube quota today (Pacific): 745 / 9,800
 
 ## This run
 ```
-19 Nov 08:25 PM IST] health ok | YouTube quota used today 717 | GitHub minutes this month 8025
-19 Nov 08:39 PM IST] pictures for short_poemsacrific_2
-19 Nov 08:39 PM IST] metadata short_poemsacrific_2
-19 Nov 08:39 PM IST] short_poemsacrific_2_short1: upload waits (10 uploads done today - rest upload after the reset)
-19 Nov 08:39 PM IST] pictures for short_songbhairav_1
-19 Nov 08:39 PM IST] short_songbhairav_1 failed (skipping the rest of this series this run): RuntimeError: pictures failed for short_songbhairav_1
-19 Nov 08:39 PM IST] pictures for vishnu24
-19 Nov 08:39 PM IST] vishnu24: 1 Short(s) a day - the next one goes tomorrow
-19 Nov 08:39 PM IST] pictures for dashanan203
-19 Nov 08:39 PM IST] metadata dashanan203
-19 Nov 08:39 PM IST] pictures for lankadhi01
-19 Nov 08:39 PM IST] metadata lankadhi01
-19 Nov 08:39 PM IST] pictures for vishnupu09
-19 Nov 08:39 PM IST] metadata vishnupu09
-19 Nov 08:39 PM IST] pictures for ramayana301
-19 Nov 08:39 PM IST] metadata ramayana301
-19 Nov 08:39 PM IST] queue worked through
+19 Nov 10:50 PM IST] health ok | YouTube quota used today 731 | GitHub minutes this month 8041
+19 Nov 10:50 PM IST] pictures for short_poemsacrific_2
+19 Nov 10:50 PM IST] metadata short_poemsacrific_2
+19 Nov 10:50 PM IST] short_poemsacrific_2_short1: upload waits (10 uploads done today - rest upload after the reset)
+19 Nov 10:50 PM IST] pictures for short_songbhairav_1
+19 Nov 10:50 PM IST] short_songbhairav_1 failed (skipping the rest of this series this run): RuntimeError: pictures failed for short_songbhairav_1
+19 Nov 10:50 PM IST] pictures for vishnu24
+19 Nov 10:50 PM IST] vishnu24: 1 Short(s) a day - the next one goes tomorrow
+19 Nov 10:50 PM IST] pictures for dashanan203
+19 Nov 10:50 PM IST] metadata dashanan203
+19 Nov 10:50 PM IST] pictures for lankadhi01
+19 Nov 10:50 PM IST] metadata lankadhi01
+19 Nov 10:50 PM IST] pictures for vishnupu09
+19 Nov 10:50 PM IST] metadata vishnupu09
+19 Nov 10:50 PM IST] pictures for ramayana301
+19 Nov 10:50 PM IST] metadata ramayana301
+19 Nov 10:50 PM IST] queue worked through
 ```
