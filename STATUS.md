@@ -1,5 +1,5 @@
 # 🤖 Video bot status
-_Updated 20 Nov 2026, 05:36 PM IST by the bot._
+_Updated 21 Nov 2026, 01:18 AM IST by the bot._
 
 ## Targets
 | | Now | Target |
@@ -16,7 +16,7 @@ _Updated 20 Nov 2026, 05:36 PM IST by the bot._
 | माँ छिन्नमस्ता साधना: गुप्त तंत्र और कटी मुंड का रहस्य | hi | main | done | 3/3 | ✅ |
 | ब्रह्मांडीय महायुद्ध: 24 अवतारों की गाथा | hi | main | done | 10/10 | ⏳ |
 | दशानन: लंकापति का उदय और पतन | hi | main | active | 8/30 | ⏳ |
-| दशानन: मर्यादा और अहंकार का महायुद्ध | hi | main | active | 7/30 | ⏳ |
+| दशानन: मर्यादा और अहंकार का महायुद्ध | hi | main | active | 8/30 | ⏳ |
 | दशानन और मर्यादा: रावण का अंत | hi | main | active | 0/30 | ⏳ |
 | I Regressed 30 Days Before the Glitch Apocalypse | en | main | done | 10/10 | ✅ |
 | कल्कि | hi | main | done | 15/15 | ✅ |
@@ -52,7 +52,7 @@ _Updated 20 Nov 2026, 05:36 PM IST by the bot._
 | विष्णु पुराण: कलियुग महाप्रलय | hi | main | done | 10/10 | ⏳ |
 
 ## Queue (next to make)
-short_songhymn_5, short_puranas_22, short_puranas_21, short_puranas_20, short_puranas_19, short_puranas_18, short_puranas_17, short_puranas_16, short_puranas_15, short_puranas_14, short_puranas_13, short_epics_26
+short_poemsharasha_1, short_songhymn_5, short_puranas_22, short_puranas_21, short_puranas_20, short_puranas_19, short_puranas_18, short_puranas_17, short_puranas_16, short_puranas_15, short_puranas_14, short_puranas_13
 
 ## Latest uploads
 - dashanan204_short2: https://youtu.be/9-_D-Lqbyrk
@@ -72,13 +72,13 @@ short_songhymn_5, short_puranas_22, short_puranas_21, short_puranas_20, short_pu
 - भीम ने कैसे तोड़ी दुर्योधन की जंघा? 💥 #kalki | Kalki Avatar #shorts → **क्या भीम ने छल से तोड़ी दुर्योधन की जंघा? ⚔️ Kalki Avatar #shorts**
 
 ## Promotion Shorts (unlisted, for paid ads)
+- 2026-11-21: promotion for the series 'दशानन: धर्म, अहंकार और महासंग्राम' (Valmiki  - uploads when an upload is free
 - 2026-11-20: promotion for the series 'मर्यादा पुरुषोत्तम: दशानन का उदय और पतन' (Va - uploads when an upload is free
 - 2026-11-19: promotion for the series 'रामायण: दशानन और धर्म का उत्थान' (Valmiki Ra - uploads when an upload is free
 - 2026-11-18: promotion for the series 'मर्यादा और अहंकार: राम और रावण की अमर गाथा'  - uploads when an upload is free
 - 2026-11-17: promotion for the series 'रामायण: धर्म संस्थापन और रावण वध' (Valmiki R - uploads when an upload is free
 - 2026-11-16: promotion for the series 'रामायण: रावण का उत्थान और पतन' (Valmiki Rama - uploads when an upload is free
 - 2026-11-15: promotion for the series 'सनातन गाथा: अहल्या उद्धार और रामायण' (वाल्मी - uploads when an upload is free
-- 2026-11-14: promotion for the series 'रामायण: दशानन और धर्मयुद्ध' (Valmiki Ramayan - uploads when an upload is free
 
 ## Sponsorship outreach (weekly)
 - 2026-10-26: 1 new companies stored (not emailed - growing first), 1 stored in total
@@ -88,26 +88,32 @@ short_songhymn_5, short_puranas_22, short_puranas_21, short_puranas_20, short_pu
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 8401 (public repo: no limit)
-- YouTube quota today (Pacific): 868 / 9,800
+- GitHub minutes this month: 8560 (public repo: no limit)
+- YouTube quota today (Pacific): 1210 / 9,800
 
 ## This run
 ```
-20 Nov 04:46 PM IST] health ok | YouTube quota used today 854 | GitHub minutes this month 8349
-20 Nov 05:29 PM IST] pictures for short_songhymn_5
-20 Nov 05:33 PM IST] render short_songhymn_5_short1
-20 Nov 05:36 PM IST] metadata short_songhymn_5
-20 Nov 05:36 PM IST] short_songhymn_5_short1: upload waits (10 uploads done today - rest upload after the reset)
-20 Nov 05:36 PM IST] pictures for short_songbhairav_1
-20 Nov 05:36 PM IST] short_songbhairav_1 failed (skipping the rest of this series this run): RuntimeError: pictures failed for short_songbhairav_1
-20 Nov 05:36 PM IST] short_songbhairav_1 failed in 8 runs - skipped so the rest of its series goes on (in the weekly digest)
-20 Nov 05:36 PM IST] pictures for lankadhi01
-20 Nov 05:36 PM IST] metadata lankadhi01
-20 Nov 05:36 PM IST] pictures for vishnupu09
-20 Nov 05:36 PM IST] metadata vishnupu09
-20 Nov 05:36 PM IST] pictures for ramayana301
-20 Nov 05:36 PM IST] metadata ramayana301
-20 Nov 05:36 PM IST] pictures for dashanan05
-20 Nov 05:36 PM IST] metadata dashanan05
-20 Nov 05:36 PM IST] queue worked through
+20 Nov 10:41 PM IST] health ok | YouTube quota used today 868 | GitHub minutes this month 8401
+21 Nov 12:33 AM IST] pictures for short_poemsharasha_1
+21 Nov 12:39 AM IST] render short_poemsharasha_1_short1
+21 Nov 12:47 AM IST] metadata short_poemsharasha_1
+21 Nov 12:47 AM IST] short_poemsharasha_1_short1: upload waits (10 uploads done today - rest upload after the reset)
+21 Nov 12:47 AM IST] pictures for short_songhymn_5
+21 Nov 12:47 AM IST] pictures for short_puranas_13
+21 Nov 12:51 AM IST] render short_puranas_13_short1
+21 Nov 12:56 AM IST] pictures for short_epics_16
+21 Nov 01:00 AM IST] render short_epics_16_short1
+21 Nov 01:03 AM IST] pictures for lankadhi01
+21 Nov 01:03 AM IST] metadata lankadhi01
+21 Nov 01:03 AM IST] pictures for vishnupu09
+21 Nov 01:03 AM IST] metadata vishnupu09
+21 Nov 01:03 AM IST] pictures for ramayana301
+21 Nov 01:03 AM IST] metadata ramayana301
+21 Nov 01:03 AM IST] pictures for dashanan05
+21 Nov 01:03 AM IST] metadata dashanan05
+21 Nov 01:03 AM IST] queue worked through
+21 Nov 01:10 AM IST] pictures for short_promopromo_9
+21 Nov 01:14 AM IST] render short_promopromo_9_short1
+21 Nov 01:17 AM IST] metadata short_promopromo_9
+21 Nov 01:17 AM IST] promotion Short made: promotion for the series 'दशानन: धर्म, अहंकार और महासंग्राम' - uploads when an upload is free
 ```
