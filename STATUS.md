@@ -1,5 +1,5 @@
 # 🤖 Video bot status
-_Updated 20 Nov 2026, 08:56 AM IST by the bot._
+_Updated 20 Nov 2026, 04:41 PM IST by the bot._
 
 ## Targets
 | | Now | Target |
@@ -16,7 +16,7 @@ _Updated 20 Nov 2026, 08:56 AM IST by the bot._
 | माँ छिन्नमस्ता साधना: गुप्त तंत्र और कटी मुंड का रहस्य | hi | main | done | 3/3 | ✅ |
 | ब्रह्मांडीय महायुद्ध: 24 अवतारों की गाथा | hi | main | done | 10/10 | ⏳ |
 | दशानन: लंकापति का उदय और पतन | hi | main | active | 8/30 | ⏳ |
-| दशानन: मर्यादा और अहंकार का महायुद्ध | hi | main | active | 5/30 | ⏳ |
+| दशानन: मर्यादा और अहंकार का महायुद्ध | hi | main | active | 6/30 | ⏳ |
 | दशानन और मर्यादा: रावण का अंत | hi | main | active | 0/30 | ⏳ |
 | I Regressed 30 Days Before the Glitch Apocalypse | en | main | done | 10/10 | ✅ |
 | कल्कि | hi | main | done | 15/15 | ✅ |
@@ -52,17 +52,17 @@ _Updated 20 Nov 2026, 08:56 AM IST by the bot._
 | विष्णु पुराण: कलियुग महाप्रलय | hi | main | done | 10/10 | ⏳ |
 
 ## Queue (next to make)
-short_poemsacrific_2, short_songbhairav_1, short_puranas_22, short_puranas_21, short_puranas_20, short_puranas_19, short_puranas_18, short_puranas_17, short_puranas_16, short_puranas_15, short_puranas_14, short_puranas_13
+short_songbhairav_1, short_puranas_22, short_puranas_21, short_puranas_20, short_puranas_19, short_puranas_18, short_puranas_17, short_puranas_16, short_puranas_15, short_puranas_14, short_puranas_13, short_epics_26
 
 ## Latest uploads
-- dashanan202_short2: https://youtu.be/t4k_tcNAMXI
-- dashanan202_short1: https://youtu.be/QcHm5WEc78w
-- dashanan202: https://youtu.be/bf0SqygHB4U
-- dashanan201_short2: https://youtu.be/_91TixTFfDI
-- dashanan201_short1: https://youtu.be/uanFJY0A45U
-- dashanan201: https://youtu.be/I3BnnyJq5oc
-- vishnu24_short23: https://youtu.be/hz9_5TZGHm4
-- short_epics_14_short1: https://youtu.be/-3O06-0Vbzw
+- dashanan204_short2: https://youtu.be/9-_D-Lqbyrk
+- dashanan204_short1: https://youtu.be/5zIzCF1G7fY
+- dashanan204: https://youtu.be/_DcrwvRHeg8
+- dashanan203_short2: https://youtu.be/iE10x7lolzs
+- dashanan203_short1: https://youtu.be/OW3EiqSacuE
+- dashanan203: https://youtu.be/tHtNECdxb6E
+- vishnu24_short24: https://youtu.be/T_EyNR9Yd6w
+- short_epics_15_short1: https://youtu.be/McnOvSRSKsY
 
 ## Titles the bot improved
 - Printable PDF Guides Planners and Activity Books for Work and Home → **Who is the Kalki Avatar? 24 Avatars of Lord Vishnu Explained 🛕**
@@ -88,32 +88,34 @@ short_poemsacrific_2, short_songbhairav_1, short_puranas_22, short_puranas_21, s
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 8176 (public repo: no limit)
-- YouTube quota today (Pacific): 880 / 9,800
+- GitHub minutes this month: 8349 (public repo: no limit)
+- YouTube quota today (Pacific): 854 / 9,800
 
 ## This run
 ```
-20 Nov 06:54 AM IST] health ok | YouTube quota used today 745 | GitHub minutes this month 8044
-20 Nov 07:53 AM IST] pictures for short_poemsacrific_2
-20 Nov 07:53 AM IST] metadata short_poemsacrific_2
-20 Nov 07:53 AM IST] short_poemsacrific_2_short1: upload waits (10 uploads done today - rest upload after the reset)
-20 Nov 07:53 AM IST] pictures for short_songbhairav_1
-20 Nov 07:53 AM IST] short_songbhairav_1 failed (skipping the rest of this series this run): RuntimeError: pictures failed for short_songbhairav_1
-20 Nov 07:53 AM IST] pictures for short_puranas_12
-20 Nov 07:57 AM IST] render short_puranas_12_short1
-20 Nov 08:00 AM IST] pictures for short_epics_15
-20 Nov 08:05 AM IST] render short_epics_15_short1
-20 Nov 08:09 AM IST] pictures for vishnu24
-20 Nov 08:09 AM IST] pictures for dashanan203
-20 Nov 08:09 AM IST] metadata dashanan203
-20 Nov 08:09 AM IST] pictures for lankadhi01
-20 Nov 08:09 AM IST] metadata lankadhi01
-20 Nov 08:09 AM IST] pictures for vishnupu09
-20 Nov 08:09 AM IST] metadata vishnupu09
-20 Nov 08:09 AM IST] pictures for ramayana301
-20 Nov 08:09 AM IST] metadata ramayana301
-20 Nov 08:09 AM IST] queue worked through
-20 Nov 08:18 AM IST] pictures for short_promoepic_3
-20 Nov 08:22 AM IST] metadata short_promoepic_3
-20 Nov 08:22 AM IST] promotion Short made: promotion for the series 'मर्यादा पुरुषोत्तम: दशानन का उदय औ - uploads when an upload is free
+20 Nov 02:02 PM IST] metadata dashanan203
+20 Nov 02:02 PM IST] dashanan203 complete
+20 Nov 02:02 PM IST] pictures for dashanan204
+20 Nov 02:04 PM IST] render dashanan204
+20 Nov 02:32 PM IST] metadata dashanan204
+20 Nov 02:34 PM IST] render dashanan204_short1
+20 Nov 02:37 PM IST] metadata dashanan204
+20 Nov 03:14 PM IST] render dashanan204_short2
+20 Nov 03:17 PM IST] metadata dashanan204
+20 Nov 03:18 PM IST] dashanan204 complete
+20 Nov 03:18 PM IST] pictures for lankadhi01
+20 Nov 03:18 PM IST] metadata lankadhi01
+20 Nov 03:18 PM IST] YouTube quota used up (10 uploads done today - rest upload after the reset) - rendering continues, uploads next run
+20 Nov 03:18 PM IST] pictures for vishnupu09
+20 Nov 03:18 PM IST] metadata vishnupu09
+20 Nov 03:18 PM IST] pictures for ramayana301
+20 Nov 03:18 PM IST] metadata ramayana301
+20 Nov 03:18 PM IST] pictures for dashanan05
+20 Nov 03:38 PM IST] render dashanan05
+20 Nov 04:10 PM IST] dashanan05: the video reviewer fixed face in 'dashananda_throne_vimana' stays still - rendering once more
+20 Nov 04:10 PM IST] render dashanan05
+20 Nov 04:35 PM IST] metadata dashanan05
+20 Nov 04:35 PM IST] render dashanan05_short1
+20 Nov 04:38 PM IST] render dashanan05_short2
+20 Nov 04:41 PM IST] queue worked through
 ```
