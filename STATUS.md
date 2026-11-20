@@ -1,5 +1,5 @@
 # 🤖 Video bot status
-_Updated 20 Nov 2026, 04:41 PM IST by the bot._
+_Updated 20 Nov 2026, 05:36 PM IST by the bot._
 
 ## Targets
 | | Now | Target |
@@ -16,7 +16,7 @@ _Updated 20 Nov 2026, 04:41 PM IST by the bot._
 | माँ छिन्नमस्ता साधना: गुप्त तंत्र और कटी मुंड का रहस्य | hi | main | done | 3/3 | ✅ |
 | ब्रह्मांडीय महायुद्ध: 24 अवतारों की गाथा | hi | main | done | 10/10 | ⏳ |
 | दशानन: लंकापति का उदय और पतन | hi | main | active | 8/30 | ⏳ |
-| दशानन: मर्यादा और अहंकार का महायुद्ध | hi | main | active | 6/30 | ⏳ |
+| दशानन: मर्यादा और अहंकार का महायुद्ध | hi | main | active | 7/30 | ⏳ |
 | दशानन और मर्यादा: रावण का अंत | hi | main | active | 0/30 | ⏳ |
 | I Regressed 30 Days Before the Glitch Apocalypse | en | main | done | 10/10 | ✅ |
 | कल्कि | hi | main | done | 15/15 | ✅ |
@@ -52,7 +52,7 @@ _Updated 20 Nov 2026, 04:41 PM IST by the bot._
 | विष्णु पुराण: कलियुग महाप्रलय | hi | main | done | 10/10 | ⏳ |
 
 ## Queue (next to make)
-short_songbhairav_1, short_puranas_22, short_puranas_21, short_puranas_20, short_puranas_19, short_puranas_18, short_puranas_17, short_puranas_16, short_puranas_15, short_puranas_14, short_puranas_13, short_epics_26
+short_songhymn_5, short_puranas_22, short_puranas_21, short_puranas_20, short_puranas_19, short_puranas_18, short_puranas_17, short_puranas_16, short_puranas_15, short_puranas_14, short_puranas_13, short_epics_26
 
 ## Latest uploads
 - dashanan204_short2: https://youtu.be/9-_D-Lqbyrk
@@ -88,34 +88,26 @@ short_songbhairav_1, short_puranas_22, short_puranas_21, short_puranas_20, short
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 8349 (public repo: no limit)
-- YouTube quota today (Pacific): 854 / 9,800
+- GitHub minutes this month: 8401 (public repo: no limit)
+- YouTube quota today (Pacific): 868 / 9,800
 
 ## This run
 ```
-20 Nov 02:02 PM IST] metadata dashanan203
-20 Nov 02:02 PM IST] dashanan203 complete
-20 Nov 02:02 PM IST] pictures for dashanan204
-20 Nov 02:04 PM IST] render dashanan204
-20 Nov 02:32 PM IST] metadata dashanan204
-20 Nov 02:34 PM IST] render dashanan204_short1
-20 Nov 02:37 PM IST] metadata dashanan204
-20 Nov 03:14 PM IST] render dashanan204_short2
-20 Nov 03:17 PM IST] metadata dashanan204
-20 Nov 03:18 PM IST] dashanan204 complete
-20 Nov 03:18 PM IST] pictures for lankadhi01
-20 Nov 03:18 PM IST] metadata lankadhi01
-20 Nov 03:18 PM IST] YouTube quota used up (10 uploads done today - rest upload after the reset) - rendering continues, uploads next run
-20 Nov 03:18 PM IST] pictures for vishnupu09
-20 Nov 03:18 PM IST] metadata vishnupu09
-20 Nov 03:18 PM IST] pictures for ramayana301
-20 Nov 03:18 PM IST] metadata ramayana301
-20 Nov 03:18 PM IST] pictures for dashanan05
-20 Nov 03:38 PM IST] render dashanan05
-20 Nov 04:10 PM IST] dashanan05: the video reviewer fixed face in 'dashananda_throne_vimana' stays still - rendering once more
-20 Nov 04:10 PM IST] render dashanan05
-20 Nov 04:35 PM IST] metadata dashanan05
-20 Nov 04:35 PM IST] render dashanan05_short1
-20 Nov 04:38 PM IST] render dashanan05_short2
-20 Nov 04:41 PM IST] queue worked through
+20 Nov 04:46 PM IST] health ok | YouTube quota used today 854 | GitHub minutes this month 8349
+20 Nov 05:29 PM IST] pictures for short_songhymn_5
+20 Nov 05:33 PM IST] render short_songhymn_5_short1
+20 Nov 05:36 PM IST] metadata short_songhymn_5
+20 Nov 05:36 PM IST] short_songhymn_5_short1: upload waits (10 uploads done today - rest upload after the reset)
+20 Nov 05:36 PM IST] pictures for short_songbhairav_1
+20 Nov 05:36 PM IST] short_songbhairav_1 failed (skipping the rest of this series this run): RuntimeError: pictures failed for short_songbhairav_1
+20 Nov 05:36 PM IST] short_songbhairav_1 failed in 8 runs - skipped so the rest of its series goes on (in the weekly digest)
+20 Nov 05:36 PM IST] pictures for lankadhi01
+20 Nov 05:36 PM IST] metadata lankadhi01
+20 Nov 05:36 PM IST] pictures for vishnupu09
+20 Nov 05:36 PM IST] metadata vishnupu09
+20 Nov 05:36 PM IST] pictures for ramayana301
+20 Nov 05:36 PM IST] metadata ramayana301
+20 Nov 05:36 PM IST] pictures for dashanan05
+20 Nov 05:36 PM IST] metadata dashanan05
+20 Nov 05:36 PM IST] queue worked through
 ```
