@@ -1,12 +1,12 @@
 # 🤖 Video bot status
-_Updated 19 Nov 2026, 10:51 PM IST by the bot._
+_Updated 20 Nov 2026, 08:56 AM IST by the bot._
 
 ## Targets
 | | Now | Target |
 |---|---|---|
-| Watch hours / day (28-day avg) | 0.73 | 10.0 |
+| Watch hours / day (28-day avg) | 0.69 | 10.0 |
 | New subscribers / day | -0.07 | 3.0 |
-| Watch hours, last 12 months (4,000 for monetization) | 319.2 | 4000 |
+| Watch hours, last 12 months (4,000 for monetization) | 319.3 | 4000 |
 
 ## Series
 | Series | Language | Channel | Status | Written | Movie |
@@ -65,20 +65,20 @@ short_poemsacrific_2, short_songbhairav_1, short_puranas_22, short_puranas_21, s
 - short_epics_14_short1: https://youtu.be/-3O06-0Vbzw
 
 ## Titles the bot improved
-- विष्णु पुराण की खौफनाक भविष्यवाणी: 100 साल का महासूखा और कंदराओं में पलायन 😱 | भाग 5 | Kalki Avatar → **क्या 100 साल का सूखा आने वाला है? विष्णु पुराण की चेतावनी 😱 | भाग 5 | Kalki Avatar**
 - Printable PDF Guides Planners and Activity Books for Work and Home → **Who is the Kalki Avatar? 24 Avatars of Lord Vishnu Explained 🛕**
 - विष्णु पुराण का सबसे बड़ा रहस्य: महर्षि वेदव्यास का अट्टहास और कलयुग का वरदान 😱 | भाग 6 → **कलयुग वरदान क्यों? महर्षि वेदव्यास का सबसे बड़ा रहस्य | विष्णु पुराण भाग 6 🙏**
 - This week's 15 printable PDFs | kids worksheets, planners, journals → **Who is the Kalki Avatar? 15 Printable PDFs: 24 Avatars of Lord Vishnu 🕉️**
 - दशानन का उदय: कैसे शुरू हुआ रावण का भयानक तप? | दशानन अध्याय 1 → **रावण ने अपने ही 10 सिर क्यों काटे? भयानक तप का रहस्य 🔱 दशानन अध्याय 1**
+- भीम ने कैसे तोड़ी दुर्योधन की जंघा? 💥 #kalki | Kalki Avatar #shorts → **क्या भीम ने छल से तोड़ी दुर्योधन की जंघा? ⚔️ Kalki Avatar #shorts**
 
 ## Promotion Shorts (unlisted, for paid ads)
+- 2026-11-20: promotion for the series 'मर्यादा पुरुषोत्तम: दशानन का उदय और पतन' (Va - uploads when an upload is free
 - 2026-11-19: promotion for the series 'रामायण: दशानन और धर्म का उत्थान' (Valmiki Ra - uploads when an upload is free
 - 2026-11-18: promotion for the series 'मर्यादा और अहंकार: राम और रावण की अमर गाथा'  - uploads when an upload is free
 - 2026-11-17: promotion for the series 'रामायण: धर्म संस्थापन और रावण वध' (Valmiki R - uploads when an upload is free
 - 2026-11-16: promotion for the series 'रामायण: रावण का उत्थान और पतन' (Valmiki Rama - uploads when an upload is free
 - 2026-11-15: promotion for the series 'सनातन गाथा: अहल्या उद्धार और रामायण' (वाल्मी - uploads when an upload is free
 - 2026-11-14: promotion for the series 'रामायण: दशानन और धर्मयुद्ध' (Valmiki Ramayan - uploads when an upload is free
-- 2026-11-13: promotion for the series 'मर्यादा पुरुषोत्तम: रावण का उदय और पतन' (Val - uploads when an upload is free
 
 ## Sponsorship outreach (weekly)
 - 2026-10-26: 1 new companies stored (not emailed - growing first), 1 stored in total
@@ -88,26 +88,32 @@ short_poemsacrific_2, short_songbhairav_1, short_puranas_22, short_puranas_21, s
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 8044 (public repo: no limit)
-- YouTube quota today (Pacific): 745 / 9,800
+- GitHub minutes this month: 8176 (public repo: no limit)
+- YouTube quota today (Pacific): 880 / 9,800
 
 ## This run
 ```
-19 Nov 10:50 PM IST] health ok | YouTube quota used today 731 | GitHub minutes this month 8041
-19 Nov 10:50 PM IST] pictures for short_poemsacrific_2
-19 Nov 10:50 PM IST] metadata short_poemsacrific_2
-19 Nov 10:50 PM IST] short_poemsacrific_2_short1: upload waits (10 uploads done today - rest upload after the reset)
-19 Nov 10:50 PM IST] pictures for short_songbhairav_1
-19 Nov 10:50 PM IST] short_songbhairav_1 failed (skipping the rest of this series this run): RuntimeError: pictures failed for short_songbhairav_1
-19 Nov 10:50 PM IST] pictures for vishnu24
-19 Nov 10:50 PM IST] vishnu24: 1 Short(s) a day - the next one goes tomorrow
-19 Nov 10:50 PM IST] pictures for dashanan203
-19 Nov 10:50 PM IST] metadata dashanan203
-19 Nov 10:50 PM IST] pictures for lankadhi01
-19 Nov 10:50 PM IST] metadata lankadhi01
-19 Nov 10:50 PM IST] pictures for vishnupu09
-19 Nov 10:50 PM IST] metadata vishnupu09
-19 Nov 10:50 PM IST] pictures for ramayana301
-19 Nov 10:50 PM IST] metadata ramayana301
-19 Nov 10:50 PM IST] queue worked through
+20 Nov 06:54 AM IST] health ok | YouTube quota used today 745 | GitHub minutes this month 8044
+20 Nov 07:53 AM IST] pictures for short_poemsacrific_2
+20 Nov 07:53 AM IST] metadata short_poemsacrific_2
+20 Nov 07:53 AM IST] short_poemsacrific_2_short1: upload waits (10 uploads done today - rest upload after the reset)
+20 Nov 07:53 AM IST] pictures for short_songbhairav_1
+20 Nov 07:53 AM IST] short_songbhairav_1 failed (skipping the rest of this series this run): RuntimeError: pictures failed for short_songbhairav_1
+20 Nov 07:53 AM IST] pictures for short_puranas_12
+20 Nov 07:57 AM IST] render short_puranas_12_short1
+20 Nov 08:00 AM IST] pictures for short_epics_15
+20 Nov 08:05 AM IST] render short_epics_15_short1
+20 Nov 08:09 AM IST] pictures for vishnu24
+20 Nov 08:09 AM IST] pictures for dashanan203
+20 Nov 08:09 AM IST] metadata dashanan203
+20 Nov 08:09 AM IST] pictures for lankadhi01
+20 Nov 08:09 AM IST] metadata lankadhi01
+20 Nov 08:09 AM IST] pictures for vishnupu09
+20 Nov 08:09 AM IST] metadata vishnupu09
+20 Nov 08:09 AM IST] pictures for ramayana301
+20 Nov 08:09 AM IST] metadata ramayana301
+20 Nov 08:09 AM IST] queue worked through
+20 Nov 08:18 AM IST] pictures for short_promoepic_3
+20 Nov 08:22 AM IST] metadata short_promoepic_3
+20 Nov 08:22 AM IST] promotion Short made: promotion for the series 'मर्यादा पुरुषोत्तम: दशानन का उदय औ - uploads when an upload is free
 ```
