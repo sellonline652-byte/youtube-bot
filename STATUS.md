@@ -1,12 +1,12 @@
 # 🤖 Video bot status
-_Updated 21 Nov 2026, 01:18 AM IST by the bot._
+_Updated 21 Nov 2026, 07:37 AM IST by the bot._
 
 ## Targets
 | | Now | Target |
 |---|---|---|
-| Watch hours / day (28-day avg) | 0.69 | 10.0 |
+| Watch hours / day (28-day avg) | 0.65 | 10.0 |
 | New subscribers / day | -0.07 | 3.0 |
-| Watch hours, last 12 months (4,000 for monetization) | 319.3 | 4000 |
+| Watch hours, last 12 months (4,000 for monetization) | 319.4 | 4000 |
 
 ## Series
 | Series | Language | Channel | Status | Written | Movie |
@@ -18,6 +18,7 @@ _Updated 21 Nov 2026, 01:18 AM IST by the bot._
 | दशानन: लंकापति का उदय और पतन | hi | main | active | 8/30 | ⏳ |
 | दशानन: मर्यादा और अहंकार का महायुद्ध | hi | main | active | 8/30 | ⏳ |
 | दशानन और मर्यादा: रावण का अंत | hi | main | active | 0/30 | ⏳ |
+| एक घातक भूल: कलयुग का आगमन | hi | main | next | 0/3 | ⏳ |
 | I Regressed 30 Days Before the Glitch Apocalypse | en | main | done | 10/10 | ✅ |
 | कल्कि | hi | main | done | 15/15 | ✅ |
 | कलि संहार: कल्कि अवतार और महायुद्ध | hi | main | done | 5/5 | ✅ |
@@ -65,11 +66,11 @@ short_poemsharasha_1, short_songhymn_5, short_puranas_22, short_puranas_21, shor
 - short_epics_15_short1: https://youtu.be/McnOvSRSKsY
 
 ## Titles the bot improved
-- Printable PDF Guides Planners and Activity Books for Work and Home → **Who is the Kalki Avatar? 24 Avatars of Lord Vishnu Explained 🛕**
-- विष्णु पुराण का सबसे बड़ा रहस्य: महर्षि वेदव्यास का अट्टहास और कलयुग का वरदान 😱 | भाग 6 → **कलयुग वरदान क्यों? महर्षि वेदव्यास का सबसे बड़ा रहस्य | विष्णु पुराण भाग 6 🙏**
 - This week's 15 printable PDFs | kids worksheets, planners, journals → **Who is the Kalki Avatar? 15 Printable PDFs: 24 Avatars of Lord Vishnu 🕉️**
 - दशानन का उदय: कैसे शुरू हुआ रावण का भयानक तप? | दशानन अध्याय 1 → **रावण ने अपने ही 10 सिर क्यों काटे? भयानक तप का रहस्य 🔱 दशानन अध्याय 1**
 - भीम ने कैसे तोड़ी दुर्योधन की जंघा? 💥 #kalki | Kalki Avatar #shorts → **क्या भीम ने छल से तोड़ी दुर्योधन की जंघा? ⚔️ Kalki Avatar #shorts**
+- दशानन | अध्याय 2: ब्रह्मा जी का वरदान और रावण का अहंकार | Ramayana Uttara Kanda → **रावण अमर क्यों नहीं बन सका? ब्रह्मा जी का वरदान 🔱 दशानन | अध्याय 2**
+- Useful Printable Planners and Digital Guides for Every Need #shorts → **Want a guide to all 24 avatars of Lord Vishnu? 📜 #shorts**
 
 ## Promotion Shorts (unlisted, for paid ads)
 - 2026-11-21: promotion for the series 'दशानन: धर्म, अहंकार और महासंग्राम' (Valmiki  - uploads when an upload is free
@@ -88,32 +89,25 @@ short_poemsharasha_1, short_songhymn_5, short_puranas_22, short_puranas_21, shor
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 8560 (public repo: no limit)
-- YouTube quota today (Pacific): 1210 / 9,800
+- GitHub minutes this month: 8601 (public repo: no limit)
+- YouTube quota today (Pacific): 1476 / 9,800
 
 ## This run
 ```
-20 Nov 10:41 PM IST] health ok | YouTube quota used today 868 | GitHub minutes this month 8401
-21 Nov 12:33 AM IST] pictures for short_poemsharasha_1
-21 Nov 12:39 AM IST] render short_poemsharasha_1_short1
-21 Nov 12:47 AM IST] metadata short_poemsharasha_1
-21 Nov 12:47 AM IST] short_poemsharasha_1_short1: upload waits (10 uploads done today - rest upload after the reset)
-21 Nov 12:47 AM IST] pictures for short_songhymn_5
-21 Nov 12:47 AM IST] pictures for short_puranas_13
-21 Nov 12:51 AM IST] render short_puranas_13_short1
-21 Nov 12:56 AM IST] pictures for short_epics_16
-21 Nov 01:00 AM IST] render short_epics_16_short1
-21 Nov 01:03 AM IST] pictures for lankadhi01
-21 Nov 01:03 AM IST] metadata lankadhi01
-21 Nov 01:03 AM IST] pictures for vishnupu09
-21 Nov 01:03 AM IST] metadata vishnupu09
-21 Nov 01:03 AM IST] pictures for ramayana301
-21 Nov 01:03 AM IST] metadata ramayana301
-21 Nov 01:03 AM IST] pictures for dashanan05
-21 Nov 01:03 AM IST] metadata dashanan05
-21 Nov 01:03 AM IST] queue worked through
-21 Nov 01:10 AM IST] pictures for short_promopromo_9
-21 Nov 01:14 AM IST] render short_promopromo_9_short1
-21 Nov 01:17 AM IST] metadata short_promopromo_9
-21 Nov 01:17 AM IST] promotion Short made: promotion for the series 'दशानन: धर्म, अहंकार और महासंग्राम' - uploads when an upload is free
+21 Nov 06:57 AM IST] health ok | YouTube quota used today 1210 | GitHub minutes this month 8560
+21 Nov 07:33 AM IST] pictures for short_poemsharasha_1
+21 Nov 07:33 AM IST] metadata short_poemsharasha_1
+21 Nov 07:33 AM IST] short_poemsharasha_1_short1: upload waits (10 uploads done today - rest upload after the reset)
+21 Nov 07:33 AM IST] pictures for short_songhymn_5
+21 Nov 07:33 AM IST] pictures for short_puranas_13
+21 Nov 07:33 AM IST] pictures for short_epics_16
+21 Nov 07:33 AM IST] pictures for lankadhi01
+21 Nov 07:33 AM IST] metadata lankadhi01
+21 Nov 07:33 AM IST] pictures for vishnupu09
+21 Nov 07:33 AM IST] metadata vishnupu09
+21 Nov 07:33 AM IST] pictures for ramayana301
+21 Nov 07:33 AM IST] metadata ramayana301
+21 Nov 07:33 AM IST] pictures for dashanan05
+21 Nov 07:33 AM IST] metadata dashanan05
+21 Nov 07:33 AM IST] queue worked through
 ```
