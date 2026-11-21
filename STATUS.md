@@ -1,5 +1,5 @@
 # 🤖 Video bot status
-_Updated 21 Nov 2026, 07:41 AM IST by the bot._
+_Updated 21 Nov 2026, 04:11 PM IST by the bot._
 
 ## Targets
 | | Now | Target |
@@ -53,17 +53,17 @@ _Updated 21 Nov 2026, 07:41 AM IST by the bot._
 | विष्णु पुराण: कलियुग महाप्रलय | hi | main | done | 10/10 | ⏳ |
 
 ## Queue (next to make)
-short_poemsharasha_1, short_songhymn_5, short_puranas_22, short_puranas_21, short_puranas_20, short_puranas_19, short_puranas_18, short_puranas_17, short_puranas_16, short_puranas_15, short_puranas_14, short_puranas_13
+short_puranas_22, short_puranas_21, short_puranas_20, short_puranas_19, short_puranas_18, short_puranas_17, short_puranas_16, short_puranas_15, short_puranas_14, short_epics_26, short_epics_25, short_epics_24
 
 ## Latest uploads
-- dashanan204_short2: https://youtu.be/9-_D-Lqbyrk
-- dashanan204_short1: https://youtu.be/5zIzCF1G7fY
-- dashanan204: https://youtu.be/_DcrwvRHeg8
-- dashanan203_short2: https://youtu.be/iE10x7lolzs
-- dashanan203_short1: https://youtu.be/OW3EiqSacuE
-- dashanan203: https://youtu.be/tHtNECdxb6E
-- vishnu24_short24: https://youtu.be/T_EyNR9Yd6w
-- short_epics_15_short1: https://youtu.be/McnOvSRSKsY
+- lankadhi02_short2: https://youtu.be/3sToTGTiRtw
+- lankadhi02_short1: https://youtu.be/PNArVCARMGM
+- lankadhi02: https://youtu.be/nmJPyNa1-Lw
+- lankadhi01_short2: https://youtu.be/Lf8lM0oaMOg
+- lankadhi01_short1: https://youtu.be/95HPR7HyiSA
+- lankadhi01: https://youtu.be/it6vglKlwTU
+- short_epics_16_short1: https://youtu.be/nNkPMAH3Df8
+- short_puranas_13_short1: https://youtu.be/0cxd-pm5yqc
 
 ## Titles the bot improved
 - This week's 15 printable PDFs | kids worksheets, planners, journals → **Who is the Kalki Avatar? 15 Printable PDFs: 24 Avatars of Lord Vishnu 🕉️**
@@ -89,25 +89,34 @@ short_poemsharasha_1, short_songhymn_5, short_puranas_22, short_puranas_21, shor
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 8603 (public repo: no limit)
-- YouTube quota today (Pacific): 1490 / 9,800
+- GitHub minutes this month: 8757 (public repo: no limit)
+- YouTube quota today (Pacific): 605 / 9,800
 
 ## This run
 ```
-21 Nov 07:40 AM IST] health ok | YouTube quota used today 1476 | GitHub minutes this month 8601
-21 Nov 07:40 AM IST] pictures for short_poemsharasha_1
-21 Nov 07:40 AM IST] metadata short_poemsharasha_1
-21 Nov 07:40 AM IST] short_poemsharasha_1_short1: upload waits (10 uploads done today - rest upload after the reset)
-21 Nov 07:40 AM IST] pictures for short_songhymn_5
-21 Nov 07:40 AM IST] pictures for short_puranas_13
-21 Nov 07:40 AM IST] pictures for short_epics_16
-21 Nov 07:40 AM IST] pictures for lankadhi01
-21 Nov 07:40 AM IST] metadata lankadhi01
-21 Nov 07:40 AM IST] pictures for vishnupu09
-21 Nov 07:40 AM IST] metadata vishnupu09
-21 Nov 07:40 AM IST] pictures for ramayana301
-21 Nov 07:40 AM IST] metadata ramayana301
-21 Nov 07:40 AM IST] pictures for dashanan05
-21 Nov 07:40 AM IST] metadata dashanan05
-21 Nov 07:40 AM IST] queue worked through
+21 Nov 01:45 PM IST] pictures for short_epics_16
+21 Nov 01:45 PM IST] metadata short_epics_16
+21 Nov 01:47 PM IST] standalone Short short_epics_16 uploaded: https://youtu.be/nNkPMAH3Df8
+21 Nov 01:47 PM IST] short_epics_16 complete
+21 Nov 01:47 PM IST] pictures for lankadhi01
+21 Nov 01:47 PM IST] metadata lankadhi01
+21 Nov 01:49 PM IST] metadata lankadhi01
+21 Nov 01:51 PM IST] metadata lankadhi01
+21 Nov 01:53 PM IST] lankadhi01 complete
+21 Nov 01:53 PM IST] pictures for lankadhi02
+21 Nov 01:57 PM IST] render lankadhi02
+21 Nov 02:54 PM IST] metadata lankadhi02
+21 Nov 03:21 PM IST] render lankadhi02_short1
+21 Nov 03:23 PM IST] metadata lankadhi02
+21 Nov 03:27 PM IST] render lankadhi02_short2
+21 Nov 03:30 PM IST] metadata lankadhi02
+21 Nov 03:31 PM IST] lankadhi02 complete
+21 Nov 03:31 PM IST] pictures for lankadhi03
+21 Nov 03:32 PM IST] render lankadhi03
+21 Nov 04:05 PM IST] metadata lankadhi03
+21 Nov 04:06 PM IST] YouTube quota used up (10 uploads done today - rest upload after the reset) - rendering continues, uploads next run
+21 Nov 04:06 PM IST] render lankadhi03_short1
+21 Nov 04:09 PM IST] render lankadhi03_short2
+21 Nov 04:11 PM IST] pictures for vishnupu09
+21 Nov 04:11 PM IST] stopping for now: not enough time left in this run for the renders - continuing next run
 ```
