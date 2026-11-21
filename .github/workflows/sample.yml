@@ -1,0 +1,117 @@
+name: Sample video (nothing uploaded)
+
+on:
+  push:                            # Claude / the owner: push samples/request.json to make a sample
+    paths: ["samples/request.json"]
+  schedule:
+    - cron: "40 7 * * *"           # 1:10 PM IST, after Gemini's daily reset: a sample marked "retry" is made then
+  workflow_dispatch:
+    inputs:
+      kind:
+        description: "poem, song, promo, story or episode"
+        default: "poem"
+      topic:
+        description: "Character / moment / topic (or the series name for an episode)"
+        default: "कर्ण की पीड़ा - माँ कुंती से"
+      link:
+        description: "episode only: link to the existing episode / source"
+        default: ""
+      first_episode:
+        description: "episode only: number of the first new episode (2 if episode 1 exists)"
+        default: "1"
+
+concurrency:
+  group: sample-video              # runs next to the daily bot; never saves anything
+  cancel-in-progress: false
+
+permissions:
+  contents: write                  # only to put the sample on the 'samples' release page
+
+env:
+  BOT_WORK: ${{ github.workspace }}/work
+  REPO_KEY: ${{ secrets.REPO_KEY }}
+  GH_TOKEN: ${{ github.token }}
+  GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+  BOT_KEY: ${{ secrets.BOT_KEY }}
+  YT_TOKEN: ${{ secrets.YT_TOKEN }}           # read only here: the sample job never uploads
+  CF_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
+  CF_TOKEN: ${{ secrets.CF_TOKEN }}
+  GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+  GEMINI_API_KEY_2: ${{ secrets.GEMINI_API_KEY_2 }}   # optional second key
+  GUMROAD_TOKEN: ${{ secrets.GUMROAD_TOKEN }}     # optional: a new Gumroad token set by the owner wins
+
+jobs:
+  sample:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: Fonts for Indian scripts
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq fonts-noto-core libraqm0 libfribidi0 > /dev/null
+      - name: Unlock the bot
+        run: pip install -q cryptography && python vault/boot.py open
+      - run: pip install -q -r requirements.txt
+      - name: Music and pictures from the bot's work cache (read only)
+        uses: actions/cache/restore@v4
+        with:
+          path: work
+          key: work-sample-${{ github.run_id }}
+          restore-keys: work-
+      - name: What to make
+        id: req
+        env:
+          GH_TOKEN: ${{ github.token }}
+          EVENT: ${{ github.event_name }}
+          IN_KIND: ${{ github.event.inputs.kind }}
+          IN_TOPIC: ${{ github.event.inputs.topic }}
+          IN_LINK: ${{ github.event.inputs.link }}
+          IN_FIRST: ${{ github.event.inputs.first_episode }}
+        run: |
+          python - >> "$GITHUB_OUTPUT" <<'EOF'
+          import datetime, json, os, subprocess
+          ev = os.environ["EVENT"]
+          r = json.load(open("samples/request.json", encoding="utf-8")) if ev in ("push", "schedule") else {}
+          mark = "done_" + "".join(c for c in str(r.get("asked", "")) if c.isalnum())[:40] + ".txt"
+          now = datetime.datetime.now(datetime.timezone.utc).isoformat()
+          made = mark in subprocess.run(["gh", "release", "view", "samples", "--json", "assets", "--jq",
+                                         ".assets[].name"], capture_output=True, text=True).stdout.split()
+          skip = (ev == "schedule" and (not r.get("retry") or made)) or (str(r.get("not_before", "")) > now)
+          print(f"skip={'true' if skip else 'false'}")
+          print(f"mark={mark}")
+          for k, env, d in (("kind", "IN_KIND", "poem"), ("topic", "IN_TOPIC", ""), ("link", "IN_LINK", ""),
+                            ("first_episode", "IN_FIRST", "1")):
+              v = str(r.get(k) or os.environ.get(env) or d).replace("\n", " ")
+              print(f"{k}={v}")
+          EOF
+      - name: Make the sample
+        if: steps.req.outputs.skip != 'true'
+        env:
+          KIND: ${{ steps.req.outputs.kind }}
+          TOPIC: ${{ steps.req.outputs.topic }}
+          LINK: ${{ steps.req.outputs.link }}
+          FIRST: ${{ steps.req.outputs.first_episode }}
+        run: python -u bot/sample.py "$KIND" "$TOPIC" "$LINK" "$FIRST"
+      - name: Put the sample on a page anyone with the link can open
+        if: steps.req.outputs.skip != 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release view samples > /dev/null 2>&1 || gh release create samples --prerelease --title "Sample videos" --notes "Samples to look at - never uploaded to YouTube"
+          for f in work/sample/*; do gh release upload samples "$f" --clobber; done
+          echo made > "work/${{ steps.req.outputs.mark }}" && gh release upload samples "work/${{ steps.req.outputs.mark }}" --clobber
+      - name: Email the owner the links
+        if: steps.req.outputs.skip != 'true'
+        run: python -u bot/sample_mail.py
+      - name: Keep the sample video
+        if: steps.req.outputs.skip != 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: sample-video
+          path: work/sample/*
+          retention-days: 7

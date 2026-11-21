@@ -1,0 +1,28 @@
+name: Fire drill (sandbox - breaks a copy on purpose, nothing is saved)
+on:
+  schedule:
+    - cron: "30 22 * * 6"       # Sunday 04:00 IST, once a week (owner, 1 Nov 2026: weekly + when asked; small only)
+  workflow_dispatch:
+concurrency:
+  group: fire-drill
+  cancel-in-progress: false
+permissions:
+  contents: read
+env:
+  BOT_WORK: ${{ github.workspace }}/work
+  REPO_KEY: ${{ secrets.REPO_KEY }}
+jobs:
+  drill:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60       # small checks only: the old account was likely suspended over heavy drills
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12", cache: pip}
+      - run: pip install -q cryptography && python vault/boot.py open
+      - run: pip install -q -r requirements.txt
+      - name: Drill (no YouTube login, no Gemini key)
+        run: python -u bot/drill.py
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with: {name: drill-report, path: work/drill_report.json, retention-days: 7}
