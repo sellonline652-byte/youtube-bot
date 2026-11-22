@@ -1,5 +1,5 @@
 # 🤖 Video bot status
-_Updated 22 Nov 2026, 04:48 PM IST by the bot._
+_Updated 22 Nov 2026, 11:21 PM IST by the bot._
 
 ## Targets
 | | Now | Target |
@@ -22,7 +22,7 @@ _Updated 22 Nov 2026, 04:48 PM IST by the bot._
 | I Regressed 30 Days Before the Glitch Apocalypse | en | main | done | 10/10 | ✅ |
 | कल्कि | hi | main | done | 15/15 | ✅ |
 | कलि संहार: कल्कि अवतार और महायुद्ध | hi | main | done | 5/5 | ✅ |
-| लंकाधिपति: रावण की अनकही गाथा | hi | main | active | 7/30 | ⏳ |
+| लंकाधिपति: रावण की अनकही गाथा | hi | main | active | 8/30 | ⏳ |
 | मर्यादा और अहंकार: रावण का उदय और पतन | hi | main | active | 0/30 | ⏳ |
 | श्री नृसिंह कवच: उत्पत्ति, रहस्य और संपूर्ण अर्थ | hi | main | done | 2/2 | ✅ |
 | रक्तबीज बनाम महिषासुर: महाप्रलय | hi | main | done | 5/5 | ✅ |
@@ -53,7 +53,7 @@ _Updated 22 Nov 2026, 04:48 PM IST by the bot._
 | विष्णु पुराण: कलियुग महाप्रलय | hi | main | done | 10/10 | ⏳ |
 
 ## Queue (next to make)
-short_songshiva_1, short_puranas_22, short_puranas_21, short_puranas_20, short_puranas_19, short_puranas_18, short_puranas_17, short_puranas_16, short_puranas_15, short_epics_26, short_epics_25, short_epics_24
+short_poemdevotion_3, short_songshiva_1, short_puranas_22, short_puranas_21, short_puranas_20, short_puranas_19, short_puranas_18, short_puranas_17, short_puranas_16, short_puranas_15, short_epics_26, short_epics_25
 
 ## Latest uploads
 - lankadhi04_short2: https://youtu.be/rKlqEJMPwMA
@@ -89,23 +89,24 @@ short_songshiva_1, short_puranas_22, short_puranas_21, short_puranas_20, short_p
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 9169 (public repo: no limit)
-- YouTube quota today (Pacific): 820 / 9,800
+- GitHub minutes this month: 9223 (public repo: no limit)
+- YouTube quota today (Pacific): 1185 / 9,800
 
 ## This run
 ```
-22 Nov 03:58 PM IST] health ok | YouTube quota used today 755 | GitHub minutes this month 9118
-22 Nov 04:35 PM IST] pictures for short_songshiva_1
-22 Nov 04:44 PM IST] render short_songshiva_1_short1
-22 Nov 04:47 PM IST] metadata short_songshiva_1
-22 Nov 04:47 PM IST] short_songshiva_1_short1: upload waits (10 uploads done today - rest upload after the reset)
-22 Nov 04:47 PM IST] pictures for vishnupu09
-22 Nov 04:47 PM IST] metadata vishnupu09
-22 Nov 04:47 PM IST] pictures for ramayana301
-22 Nov 04:47 PM IST] metadata ramayana301
-22 Nov 04:47 PM IST] pictures for dashanan05
-22 Nov 04:47 PM IST] metadata dashanan05
-22 Nov 04:47 PM IST] pictures for lankadhi05
-22 Nov 04:47 PM IST] metadata lankadhi05
-22 Nov 04:47 PM IST] queue worked through
+22 Nov 10:29 PM IST] health ok | YouTube quota used today 820 | GitHub minutes this month 9169
+22 Nov 11:02 PM IST] pictures for short_poemdevotion_3
+22 Nov 11:08 PM IST] render short_poemdevotion_3_short1
+22 Nov 11:19 PM IST] metadata short_poemdevotion_3
+22 Nov 11:20 PM IST] short_poemdevotion_3_short1: upload waits (10 uploads done today - rest upload after the reset)
+22 Nov 11:20 PM IST] pictures for short_songshiva_1
+22 Nov 11:20 PM IST] pictures for vishnupu09
+22 Nov 11:20 PM IST] metadata vishnupu09
+22 Nov 11:20 PM IST] pictures for ramayana301
+22 Nov 11:20 PM IST] metadata ramayana301
+22 Nov 11:20 PM IST] pictures for dashanan05
+22 Nov 11:20 PM IST] metadata dashanan05
+22 Nov 11:20 PM IST] pictures for lankadhi05
+22 Nov 11:20 PM IST] metadata lankadhi05
+22 Nov 11:20 PM IST] queue worked through
 ```
