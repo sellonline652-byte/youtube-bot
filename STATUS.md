@@ -1,5 +1,5 @@
 # 🤖 Video bot status
-_Updated 22 Nov 2026, 08:19 AM IST by the bot._
+_Updated 22 Nov 2026, 03:54 PM IST by the bot._
 
 ## Targets
 | | Now | Target |
@@ -53,17 +53,17 @@ _Updated 22 Nov 2026, 08:19 AM IST by the bot._
 | विष्णु पुराण: कलियुग महाप्रलय | hi | main | done | 10/10 | ⏳ |
 
 ## Queue (next to make)
-short_poembesieged_1, short_songbhajan_14, short_puranas_22, short_puranas_21, short_puranas_20, short_puranas_19, short_puranas_18, short_puranas_17, short_puranas_16, short_puranas_15, short_puranas_14, short_epics_26
+short_puranas_22, short_puranas_21, short_puranas_20, short_puranas_19, short_puranas_18, short_puranas_17, short_puranas_16, short_puranas_15, short_epics_26, short_epics_25, short_epics_24, short_epics_23
 
 ## Latest uploads
-- lankadhi02_short2: https://youtu.be/3sToTGTiRtw
-- lankadhi02_short1: https://youtu.be/PNArVCARMGM
-- lankadhi02: https://youtu.be/nmJPyNa1-Lw
-- lankadhi01_short2: https://youtu.be/Lf8lM0oaMOg
-- lankadhi01_short1: https://youtu.be/95HPR7HyiSA
-- lankadhi01: https://youtu.be/it6vglKlwTU
-- short_epics_16_short1: https://youtu.be/nNkPMAH3Df8
-- short_puranas_13_short1: https://youtu.be/0cxd-pm5yqc
+- lankadhi04_short2: https://youtu.be/rKlqEJMPwMA
+- lankadhi04_short1: https://youtu.be/rnB2MnaYqj8
+- lankadhi04: https://youtu.be/vl2-NdQ1HI0
+- lankadhi03_short2: https://youtu.be/FrKoLXBi0qc
+- lankadhi03_short1: https://youtu.be/Z0Y_D1FpK-E
+- lankadhi03: https://youtu.be/4wuW86IZJJ8
+- short_epics_17_short1: https://youtu.be/8EPZCun-0Yg
+- short_puranas_14_short1: https://youtu.be/K4PYX3qCpKE
 
 ## Titles the bot improved
 - भीम ने कैसे तोड़ी दुर्योधन की जंघा? 💥 #kalki | Kalki Avatar #shorts → **क्या भीम ने छल से तोड़ी दुर्योधन की जंघा? ⚔️ Kalki Avatar #shorts**
@@ -89,31 +89,34 @@ short_poembesieged_1, short_songbhajan_14, short_puranas_22, short_puranas_21, s
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 8983 (public repo: no limit)
-- YouTube quota today (Pacific): 822 / 9,800
+- GitHub minutes this month: 9118 (public repo: no limit)
+- YouTube quota today (Pacific): 755 / 9,800
 
 ## This run
 ```
-22 Nov 06:55 AM IST] health ok | YouTube quota used today 685 | GitHub minutes this month 8897
-22 Nov 07:45 AM IST] pictures for short_poembesieged_1
-22 Nov 07:45 AM IST] metadata short_poembesieged_1
-22 Nov 07:45 AM IST] short_poembesieged_1_short1: upload waits (10 uploads done today - rest upload after the reset)
-22 Nov 07:45 AM IST] pictures for short_songbhajan_14
-22 Nov 07:45 AM IST] pictures for short_puranas_14
-22 Nov 07:51 AM IST] render short_puranas_14_short1
-22 Nov 07:53 AM IST] pictures for short_epics_17
-22 Nov 07:58 AM IST] render short_epics_17_short1
-22 Nov 08:01 AM IST] pictures for lankadhi03
-22 Nov 08:01 AM IST] metadata lankadhi03
-22 Nov 08:01 AM IST] pictures for vishnupu09
-22 Nov 08:01 AM IST] metadata vishnupu09
-22 Nov 08:01 AM IST] pictures for ramayana301
-22 Nov 08:01 AM IST] metadata ramayana301
-22 Nov 08:01 AM IST] pictures for dashanan05
-22 Nov 08:01 AM IST] metadata dashanan05
-22 Nov 08:02 AM IST] queue worked through
-22 Nov 08:08 AM IST] pictures for short_promopromo_10
-22 Nov 08:15 AM IST] render short_promopromo_10_short1
-22 Nov 08:18 AM IST] metadata short_promopromo_10
-22 Nov 08:18 AM IST] promotion Short made: promotion for the series 'रावण: महाशक्ति का उदय और पतन' (Val - uploads when an upload is free
+22 Nov 01:50 PM IST] metadata lankadhi03
+22 Nov 01:50 PM IST] lankadhi03 complete
+22 Nov 01:50 PM IST] pictures for lankadhi04
+22 Nov 01:51 PM IST] render lankadhi04
+22 Nov 02:29 PM IST] metadata lankadhi04
+22 Nov 02:30 PM IST] render lankadhi04_short1
+22 Nov 02:37 PM IST] metadata lankadhi04
+22 Nov 02:37 PM IST] render lankadhi04_short2
+22 Nov 02:42 PM IST] metadata lankadhi04
+22 Nov 02:44 PM IST] lankadhi04 complete
+22 Nov 02:44 PM IST] pictures for vishnupu09
+22 Nov 02:44 PM IST] metadata vishnupu09
+22 Nov 02:44 PM IST] YouTube quota used up (10 uploads done today - rest upload after the reset) - rendering continues, uploads next run
+22 Nov 02:44 PM IST] pictures for ramayana301
+22 Nov 02:44 PM IST] metadata ramayana301
+22 Nov 02:44 PM IST] pictures for dashanan05
+22 Nov 02:44 PM IST] metadata dashanan05
+22 Nov 02:44 PM IST] pictures for lankadhi05
+22 Nov 02:44 PM IST] render lankadhi05
+22 Nov 03:15 PM IST] lankadhi05: the video reviewer fixed face in 'mandodari_first_look' stays still - rendering once more
+22 Nov 03:15 PM IST] render lankadhi05
+22 Nov 03:43 PM IST] metadata lankadhi05
+22 Nov 03:43 PM IST] render lankadhi05_short1
+22 Nov 03:49 PM IST] render lankadhi05_short2
+22 Nov 03:54 PM IST] queue worked through
 ```
