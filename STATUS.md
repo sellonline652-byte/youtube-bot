@@ -1,5 +1,5 @@
 # 🤖 Video bot status
-_Updated 23 Nov 2026, 02:43 PM IST by the bot._
+_Updated 23 Nov 2026, 04:11 PM IST by the bot._
 
 ## Targets
 | | Now | Target |
@@ -53,7 +53,7 @@ _Updated 23 Nov 2026, 02:43 PM IST by the bot._
 | विष्णु पुराण: कलियुग महाप्रलय | hi | main | done | 10/10 | ⏳ |
 
 ## Queue (next to make)
-short_puranas_22, short_puranas_21, short_puranas_20, short_puranas_19, short_puranas_18, short_puranas_17, short_puranas_16, short_epics_26, short_epics_25, short_epics_24, short_epics_23, short_epics_22
+short_songchalisa_1, short_puranas_22, short_puranas_21, short_puranas_20, short_puranas_19, short_puranas_18, short_puranas_17, short_puranas_16, short_epics_26, short_epics_25, short_epics_24, short_epics_23
 
 ## Latest uploads
 - vishnupu10_short2: https://youtu.be/jAEzU9UYW9Q
@@ -89,34 +89,21 @@ short_puranas_22, short_puranas_21, short_puranas_20, short_puranas_19, short_pu
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 9393 (public repo: no limit)
-- YouTube quota today (Pacific): 655 / 9,800
+- GitHub minutes this month: 9455 (public repo: no limit)
+- YouTube quota today (Pacific): 670 / 9,800
 
 ## This run
 ```
-23 Nov 02:03 PM IST] pictures for short_epics_18
-23 Nov 02:03 PM IST] metadata short_epics_18
-23 Nov 02:04 PM IST] standalone Short short_epics_18 uploaded: https://youtu.be/oMpxwrPGopM
-23 Nov 02:04 PM IST] short_epics_18 complete
-23 Nov 02:04 PM IST] pictures for vishnupu09
-23 Nov 02:04 PM IST] metadata vishnupu09
-23 Nov 02:05 PM IST] metadata vishnupu09
-23 Nov 02:05 PM IST] metadata vishnupu09
-23 Nov 02:05 PM IST] vishnupu09 complete
-23 Nov 02:05 PM IST] pictures for vishnupu10
-23 Nov 02:08 PM IST] render vishnupu10
-23 Nov 02:36 PM IST] metadata vishnupu10
-23 Nov 02:37 PM IST] render vishnupu10_short1
-23 Nov 02:40 PM IST] metadata vishnupu10
-23 Nov 02:40 PM IST] render vishnupu10_short2
-23 Nov 02:43 PM IST] metadata vishnupu10
-23 Nov 02:43 PM IST] vishnupu10 complete
-23 Nov 02:43 PM IST] pictures for ramayana301
-23 Nov 02:43 PM IST] metadata ramayana301
-23 Nov 02:43 PM IST] YouTube quota used up (10 uploads done today - rest upload after the reset) - rendering continues, uploads next run
-23 Nov 02:43 PM IST] pictures for dashanan05
-23 Nov 02:43 PM IST] metadata dashanan05
-23 Nov 02:43 PM IST] pictures for lankadhi05
-23 Nov 02:43 PM IST] metadata lankadhi05
-23 Nov 02:43 PM IST] queue worked through
+23 Nov 03:11 PM IST] health ok | YouTube quota used today 655 | GitHub minutes this month 9393
+23 Nov 03:42 PM IST] pictures for short_songchalisa_1
+23 Nov 03:48 PM IST] render short_songchalisa_1_short1
+23 Nov 03:56 PM IST] metadata short_songchalisa_1
+23 Nov 03:58 PM IST] short_songchalisa_1_short1: upload waits (10 uploads done today - rest upload after the reset)
+23 Nov 03:58 PM IST] pictures for ramayana301
+23 Nov 03:58 PM IST] metadata ramayana301
+23 Nov 03:58 PM IST] pictures for dashanan05
+23 Nov 03:58 PM IST] metadata dashanan05
+23 Nov 03:59 PM IST] pictures for lankadhi05
+23 Nov 03:59 PM IST] metadata lankadhi05
+23 Nov 03:59 PM IST] queue worked through
 ```
