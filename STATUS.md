@@ -1,5 +1,5 @@
 # 🤖 Video bot status
-_Updated 23 Nov 2026, 04:11 PM IST by the bot._
+_Updated 24 Nov 2026, 01:34 AM IST by the bot._
 
 ## Targets
 | | Now | Target |
@@ -53,7 +53,7 @@ _Updated 23 Nov 2026, 04:11 PM IST by the bot._
 | विष्णु पुराण: कलियुग महाप्रलय | hi | main | done | 10/10 | ⏳ |
 
 ## Queue (next to make)
-short_songchalisa_1, short_puranas_22, short_puranas_21, short_puranas_20, short_puranas_19, short_puranas_18, short_puranas_17, short_puranas_16, short_epics_26, short_epics_25, short_epics_24, short_epics_23
+short_poemdemise_2, short_songchalisa_1, short_puranas_22, short_puranas_21, short_puranas_20, short_puranas_19, short_puranas_18, short_puranas_17, short_puranas_16, short_epics_26, short_epics_25, short_epics_24
 
 ## Latest uploads
 - vishnupu10_short2: https://youtu.be/jAEzU9UYW9Q
@@ -73,13 +73,13 @@ short_songchalisa_1, short_puranas_22, short_puranas_21, short_puranas_20, short
 - Printable Planners, AI Prompts & Activity Guides #shorts → **Who is Kalki Avatar? Discover the 24 Avatars of Lord Vishnu 🪷 #shorts**
 
 ## Promotion Shorts (unlisted, for paid ads)
+- 2026-11-24: promotion for the series 'ऋणानुबंध: रावण और राम' (Valmiki Ramayana and - uploads when an upload is free
 - 2026-11-23: promotion for the series 'रावण: ब्रह्मांड का अधिनायक' (Valmiki Ramayan - uploads when an upload is free
 - 2026-11-22: promotion for the series 'रावण: महाशक्ति का उदय और पतन' (Valmiki Ramay - uploads when an upload is free
 - 2026-11-21: promotion for the series 'दशानन: धर्म, अहंकार और महासंग्राम' (Valmiki  - uploads when an upload is free
 - 2026-11-20: promotion for the series 'मर्यादा पुरुषोत्तम: दशानन का उदय और पतन' (Va - uploads when an upload is free
 - 2026-11-19: promotion for the series 'रामायण: दशानन और धर्म का उत्थान' (Valmiki Ra - uploads when an upload is free
 - 2026-11-18: promotion for the series 'मर्यादा और अहंकार: राम और रावण की अमर गाथा'  - uploads when an upload is free
-- 2026-11-17: promotion for the series 'रामायण: धर्म संस्थापन और रावण वध' (Valmiki R - uploads when an upload is free
 
 ## Sponsorship outreach (weekly)
 - 2026-10-26: 1 new companies stored (not emailed - growing first), 1 stored in total
@@ -89,21 +89,30 @@ short_songchalisa_1, short_puranas_22, short_puranas_21, short_puranas_20, short
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 9455 (public repo: no limit)
-- YouTube quota today (Pacific): 670 / 9,800
+- GitHub minutes this month: 9626 (public repo: no limit)
+- YouTube quota today (Pacific): 758 / 9,800
 
 ## This run
 ```
-23 Nov 03:11 PM IST] health ok | YouTube quota used today 655 | GitHub minutes this month 9393
-23 Nov 03:42 PM IST] pictures for short_songchalisa_1
-23 Nov 03:48 PM IST] render short_songchalisa_1_short1
-23 Nov 03:56 PM IST] metadata short_songchalisa_1
-23 Nov 03:58 PM IST] short_songchalisa_1_short1: upload waits (10 uploads done today - rest upload after the reset)
-23 Nov 03:58 PM IST] pictures for ramayana301
-23 Nov 03:58 PM IST] metadata ramayana301
-23 Nov 03:58 PM IST] pictures for dashanan05
-23 Nov 03:58 PM IST] metadata dashanan05
-23 Nov 03:59 PM IST] pictures for lankadhi05
-23 Nov 03:59 PM IST] metadata lankadhi05
-23 Nov 03:59 PM IST] queue worked through
+23 Nov 10:45 PM IST] health ok | YouTube quota used today 670 | GitHub minutes this month 9455
+23 Nov 11:54 PM IST] pictures for short_poemdemise_2
+23 Nov 11:58 PM IST] render short_poemdemise_2_short1
+24 Nov 12:05 AM IST] metadata short_poemdemise_2
+24 Nov 12:05 AM IST] short_poemdemise_2_short1: upload waits (10 uploads done today - rest upload after the reset)
+24 Nov 12:05 AM IST] pictures for short_songchalisa_1
+24 Nov 12:05 AM IST] pictures for short_puranas_16
+24 Nov 12:10 AM IST] render short_puranas_16_short1
+24 Nov 12:12 AM IST] pictures for short_epics_19
+24 Nov 12:18 AM IST] render short_epics_19_short1
+24 Nov 12:21 AM IST] pictures for ramayana301
+24 Nov 12:21 AM IST] metadata ramayana301
+24 Nov 12:21 AM IST] pictures for dashanan05
+24 Nov 12:21 AM IST] metadata dashanan05
+24 Nov 12:21 AM IST] pictures for lankadhi05
+24 Nov 12:21 AM IST] metadata lankadhi05
+24 Nov 12:21 AM IST] queue worked through
+24 Nov 01:25 AM IST] pictures for short_promopromo_11
+24 Nov 01:31 AM IST] render short_promopromo_11_short1
+24 Nov 01:33 AM IST] metadata short_promopromo_11
+24 Nov 01:33 AM IST] promotion Short made: promotion for the series 'ऋणानुबंध: रावण और राम' (Valmiki Ra - uploads when an upload is free
 ```
