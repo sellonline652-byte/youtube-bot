@@ -1,5 +1,5 @@
 # 🤖 Video bot status
-_Updated 23 Nov 2026, 09:05 AM IST by the bot._
+_Updated 23 Nov 2026, 02:43 PM IST by the bot._
 
 ## Targets
 | | Now | Target |
@@ -53,17 +53,17 @@ _Updated 23 Nov 2026, 09:05 AM IST by the bot._
 | विष्णु पुराण: कलियुग महाप्रलय | hi | main | done | 10/10 | ⏳ |
 
 ## Queue (next to make)
-short_poemdevotion_3, short_songshiva_1, short_puranas_22, short_puranas_21, short_puranas_20, short_puranas_19, short_puranas_18, short_puranas_17, short_puranas_16, short_puranas_15, short_epics_26, short_epics_25
+short_puranas_22, short_puranas_21, short_puranas_20, short_puranas_19, short_puranas_18, short_puranas_17, short_puranas_16, short_epics_26, short_epics_25, short_epics_24, short_epics_23, short_epics_22
 
 ## Latest uploads
-- lankadhi04_short2: https://youtu.be/rKlqEJMPwMA
-- lankadhi04_short1: https://youtu.be/rnB2MnaYqj8
-- lankadhi04: https://youtu.be/vl2-NdQ1HI0
-- lankadhi03_short2: https://youtu.be/FrKoLXBi0qc
-- lankadhi03_short1: https://youtu.be/Z0Y_D1FpK-E
-- lankadhi03: https://youtu.be/4wuW86IZJJ8
-- short_epics_17_short1: https://youtu.be/8EPZCun-0Yg
-- short_puranas_14_short1: https://youtu.be/K4PYX3qCpKE
+- vishnupu10_short2: https://youtu.be/jAEzU9UYW9Q
+- vishnupu10_short1: https://youtu.be/-VkjzR1Zl0o
+- vishnupu10: https://youtu.be/dW071PZfxrg
+- vishnupu09_short2: https://youtu.be/fOm8rW0Eq6I
+- vishnupu09_short1: https://youtu.be/R8kcfLU0HKk
+- vishnupu09: https://youtu.be/12Pdg8SHSQo
+- short_epics_18_short1: https://youtu.be/oMpxwrPGopM
+- short_puranas_15_short1: https://youtu.be/QTKPDNc6vr0
 
 ## Titles the bot improved
 - Useful Printable Planners and Digital Guides for Every Need #shorts → **Want a guide to all 24 avatars of Lord Vishnu? 📜 #shorts**
@@ -89,31 +89,34 @@ short_poemdevotion_3, short_songshiva_1, short_puranas_22, short_puranas_21, sho
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 9350 (public repo: no limit)
-- YouTube quota today (Pacific): 1331 / 9,800
+- GitHub minutes this month: 9393 (public repo: no limit)
+- YouTube quota today (Pacific): 655 / 9,800
 
 ## This run
 ```
-23 Nov 07:00 AM IST] health ok | YouTube quota used today 1185 | GitHub minutes this month 9223
-23 Nov 08:04 AM IST] pictures for short_poemdevotion_3
-23 Nov 08:04 AM IST] metadata short_poemdevotion_3
-23 Nov 08:04 AM IST] short_poemdevotion_3_short1: upload waits (10 uploads done today - rest upload after the reset)
-23 Nov 08:04 AM IST] pictures for short_songshiva_1
-23 Nov 08:04 AM IST] pictures for short_puranas_15
-23 Nov 08:12 AM IST] render short_puranas_15_short1
-23 Nov 08:14 AM IST] pictures for short_epics_18
-23 Nov 08:19 AM IST] render short_epics_18_short1
-23 Nov 08:22 AM IST] pictures for vishnupu09
-23 Nov 08:22 AM IST] metadata vishnupu09
-23 Nov 08:22 AM IST] pictures for ramayana301
-23 Nov 08:22 AM IST] metadata ramayana301
-23 Nov 08:22 AM IST] pictures for dashanan05
-23 Nov 08:22 AM IST] metadata dashanan05
-23 Nov 08:22 AM IST] pictures for lankadhi05
-23 Nov 08:22 AM IST] metadata lankadhi05
-23 Nov 08:22 AM IST] queue worked through
-23 Nov 08:56 AM IST] pictures for short_promoepic_4
-23 Nov 09:01 AM IST] render short_promoepic_4_short1
-23 Nov 09:04 AM IST] metadata short_promoepic_4
-23 Nov 09:04 AM IST] promotion Short made: promotion for the series 'रावण: ब्रह्मांड का अधिनायक' (Valmi - uploads when an upload is free
+23 Nov 02:03 PM IST] pictures for short_epics_18
+23 Nov 02:03 PM IST] metadata short_epics_18
+23 Nov 02:04 PM IST] standalone Short short_epics_18 uploaded: https://youtu.be/oMpxwrPGopM
+23 Nov 02:04 PM IST] short_epics_18 complete
+23 Nov 02:04 PM IST] pictures for vishnupu09
+23 Nov 02:04 PM IST] metadata vishnupu09
+23 Nov 02:05 PM IST] metadata vishnupu09
+23 Nov 02:05 PM IST] metadata vishnupu09
+23 Nov 02:05 PM IST] vishnupu09 complete
+23 Nov 02:05 PM IST] pictures for vishnupu10
+23 Nov 02:08 PM IST] render vishnupu10
+23 Nov 02:36 PM IST] metadata vishnupu10
+23 Nov 02:37 PM IST] render vishnupu10_short1
+23 Nov 02:40 PM IST] metadata vishnupu10
+23 Nov 02:40 PM IST] render vishnupu10_short2
+23 Nov 02:43 PM IST] metadata vishnupu10
+23 Nov 02:43 PM IST] vishnupu10 complete
+23 Nov 02:43 PM IST] pictures for ramayana301
+23 Nov 02:43 PM IST] metadata ramayana301
+23 Nov 02:43 PM IST] YouTube quota used up (10 uploads done today - rest upload after the reset) - rendering continues, uploads next run
+23 Nov 02:43 PM IST] pictures for dashanan05
+23 Nov 02:43 PM IST] metadata dashanan05
+23 Nov 02:43 PM IST] pictures for lankadhi05
+23 Nov 02:43 PM IST] metadata lankadhi05
+23 Nov 02:43 PM IST] queue worked through
 ```
