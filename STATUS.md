@@ -1,12 +1,12 @@
 # 🤖 Video bot status
-_Updated 22 Nov 2026, 11:21 PM IST by the bot._
+_Updated 23 Nov 2026, 09:05 AM IST by the bot._
 
 ## Targets
 | | Now | Target |
 |---|---|---|
-| Watch hours / day (28-day avg) | 0.6 | 10.0 |
-| New subscribers / day | -0.07 | 3.0 |
-| Watch hours, last 12 months (4,000 for monetization) | 319.4 | 4000 |
+| Watch hours / day (28-day avg) | 0.63 | 10.0 |
+| New subscribers / day | -0.04 | 3.0 |
+| Watch hours, last 12 months (4,000 for monetization) | 317.8 | 4000 |
 
 ## Series
 | Series | Language | Channel | Status | Written | Movie |
@@ -66,20 +66,20 @@ short_poemdevotion_3, short_songshiva_1, short_puranas_22, short_puranas_21, sho
 - short_puranas_14_short1: https://youtu.be/K4PYX3qCpKE
 
 ## Titles the bot improved
-- भीम ने कैसे तोड़ी दुर्योधन की जंघा? 💥 #kalki | Kalki Avatar #shorts → **क्या भीम ने छल से तोड़ी दुर्योधन की जंघा? ⚔️ Kalki Avatar #shorts**
-- दशानन | अध्याय 2: ब्रह्मा जी का वरदान और रावण का अहंकार | Ramayana Uttara Kanda → **रावण अमर क्यों नहीं बन सका? ब्रह्मा जी का वरदान 🔱 दशानन | अध्याय 2**
 - Useful Printable Planners and Digital Guides for Every Need #shorts → **Want a guide to all 24 avatars of Lord Vishnu? 📜 #shorts**
 - कुंभकर्ण की जीभ फिसली 😱 वरदान बना अभिशाप! | Dashananda Ravana Story | भाग 3 → **इंद्रासन की जगह निद्रासन क्यों मांगा? 😱 | Dashananda Ravana Story | भाग 3**
 - रावण ने अपने भाई कुबेर से लंका कैसे छीनी? 😱 लंका पर आक्रमण | दशानन भाग 4 → **कुबेर से लंका छीनकर रावण कैसे बना लंकापति? ⚔️ दशानन भाग 4**
+- रावण का उदय: 10 शीश काटकर पाया अमरता का वरदान! | Ramayana Ep 1 → **10 सिर क्यों काटे रावण ने? 🤯 अमरता के वरदान का सच | Ramayana Ep 1**
+- Printable Planners, AI Prompts & Activity Guides #shorts → **Who is Kalki Avatar? Discover the 24 Avatars of Lord Vishnu 🪷 #shorts**
 
 ## Promotion Shorts (unlisted, for paid ads)
+- 2026-11-23: promotion for the series 'रावण: ब्रह्मांड का अधिनायक' (Valmiki Ramayan - uploads when an upload is free
 - 2026-11-22: promotion for the series 'रावण: महाशक्ति का उदय और पतन' (Valmiki Ramay - uploads when an upload is free
 - 2026-11-21: promotion for the series 'दशानन: धर्म, अहंकार और महासंग्राम' (Valmiki  - uploads when an upload is free
 - 2026-11-20: promotion for the series 'मर्यादा पुरुषोत्तम: दशानन का उदय और पतन' (Va - uploads when an upload is free
 - 2026-11-19: promotion for the series 'रामायण: दशानन और धर्म का उत्थान' (Valmiki Ra - uploads when an upload is free
 - 2026-11-18: promotion for the series 'मर्यादा और अहंकार: राम और रावण की अमर गाथा'  - uploads when an upload is free
 - 2026-11-17: promotion for the series 'रामायण: धर्म संस्थापन और रावण वध' (Valmiki R - uploads when an upload is free
-- 2026-11-16: promotion for the series 'रामायण: रावण का उत्थान और पतन' (Valmiki Rama - uploads when an upload is free
 
 ## Sponsorship outreach (weekly)
 - 2026-10-26: 1 new companies stored (not emailed - growing first), 1 stored in total
@@ -89,24 +89,31 @@ short_poemdevotion_3, short_songshiva_1, short_puranas_22, short_puranas_21, sho
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 9223 (public repo: no limit)
-- YouTube quota today (Pacific): 1185 / 9,800
+- GitHub minutes this month: 9350 (public repo: no limit)
+- YouTube quota today (Pacific): 1331 / 9,800
 
 ## This run
 ```
-22 Nov 10:29 PM IST] health ok | YouTube quota used today 820 | GitHub minutes this month 9169
-22 Nov 11:02 PM IST] pictures for short_poemdevotion_3
-22 Nov 11:08 PM IST] render short_poemdevotion_3_short1
-22 Nov 11:19 PM IST] metadata short_poemdevotion_3
-22 Nov 11:20 PM IST] short_poemdevotion_3_short1: upload waits (10 uploads done today - rest upload after the reset)
-22 Nov 11:20 PM IST] pictures for short_songshiva_1
-22 Nov 11:20 PM IST] pictures for vishnupu09
-22 Nov 11:20 PM IST] metadata vishnupu09
-22 Nov 11:20 PM IST] pictures for ramayana301
-22 Nov 11:20 PM IST] metadata ramayana301
-22 Nov 11:20 PM IST] pictures for dashanan05
-22 Nov 11:20 PM IST] metadata dashanan05
-22 Nov 11:20 PM IST] pictures for lankadhi05
-22 Nov 11:20 PM IST] metadata lankadhi05
-22 Nov 11:20 PM IST] queue worked through
+23 Nov 07:00 AM IST] health ok | YouTube quota used today 1185 | GitHub minutes this month 9223
+23 Nov 08:04 AM IST] pictures for short_poemdevotion_3
+23 Nov 08:04 AM IST] metadata short_poemdevotion_3
+23 Nov 08:04 AM IST] short_poemdevotion_3_short1: upload waits (10 uploads done today - rest upload after the reset)
+23 Nov 08:04 AM IST] pictures for short_songshiva_1
+23 Nov 08:04 AM IST] pictures for short_puranas_15
+23 Nov 08:12 AM IST] render short_puranas_15_short1
+23 Nov 08:14 AM IST] pictures for short_epics_18
+23 Nov 08:19 AM IST] render short_epics_18_short1
+23 Nov 08:22 AM IST] pictures for vishnupu09
+23 Nov 08:22 AM IST] metadata vishnupu09
+23 Nov 08:22 AM IST] pictures for ramayana301
+23 Nov 08:22 AM IST] metadata ramayana301
+23 Nov 08:22 AM IST] pictures for dashanan05
+23 Nov 08:22 AM IST] metadata dashanan05
+23 Nov 08:22 AM IST] pictures for lankadhi05
+23 Nov 08:22 AM IST] metadata lankadhi05
+23 Nov 08:22 AM IST] queue worked through
+23 Nov 08:56 AM IST] pictures for short_promoepic_4
+23 Nov 09:01 AM IST] render short_promoepic_4_short1
+23 Nov 09:04 AM IST] metadata short_promoepic_4
+23 Nov 09:04 AM IST] promotion Short made: promotion for the series 'रावण: ब्रह्मांड का अधिनायक' (Valmi - uploads when an upload is free
 ```
