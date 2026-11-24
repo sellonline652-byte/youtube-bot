@@ -1,5 +1,5 @@
 # 🤖 Video bot status
-_Updated 24 Nov 2026, 04:49 PM IST by the bot._
+_Updated 24 Nov 2026, 05:57 PM IST by the bot._
 
 ## Targets
 | | Now | Target |
@@ -33,7 +33,7 @@ _Updated 24 Nov 2026, 04:49 PM IST by the bot._
 | रामायण: रावण का अहंकार और स्वर्ण मृग | hi | main | active | 0/30 | ⏳ |
 | श्रीराम कथा: पंचवटी से अशोक वाटिका | hi | main | active | 0/30 | ⏳ |
 | सनातन रामायण: दशानन और मर्यादा पुरुषोत्तम | hi | main | next | 0/30 | ⏳ |
-| मर्यादा पुरुषोत्तम: रावण का उदय और पतन | hi | main | active | 4/30 | ⏳ |
+| मर्यादा पुरुषोत्तम: रावण का उदय और पतन | hi | main | active | 5/30 | ⏳ |
 | रामायण: दशानन और धर्मयुद्ध | hi | main | active | 0/30 | ⏳ |
 | सनातन गाथा: अहल्या उद्धार और रामायण | hi | main | active | 0/30 | ⏳ |
 | रामायण: रावण का उत्थान और पतन | hi | main | active | 0/30 | ⏳ |
@@ -53,7 +53,7 @@ _Updated 24 Nov 2026, 04:49 PM IST by the bot._
 | विष्णु पुराण: कलियुग महाप्रलय | hi | main | done | 10/10 | ⏳ |
 
 ## Queue (next to make)
-short_puranas_22, short_puranas_21, short_puranas_20, short_puranas_19, short_puranas_18, short_puranas_17, short_epics_26, short_epics_25, short_epics_24, short_epics_23, short_epics_22, short_epics_21
+short_songbhajan_15, short_puranas_22, short_puranas_21, short_puranas_20, short_puranas_19, short_puranas_18, short_puranas_17, short_epics_26, short_epics_25, short_epics_24, short_epics_23, short_epics_22
 
 ## Latest uploads
 - ramayana302_short2: https://youtu.be/z7vdkinBpQw
@@ -89,34 +89,21 @@ short_puranas_22, short_puranas_21, short_puranas_20, short_puranas_19, short_pu
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 9998 (public repo: no limit)
-- YouTube quota today (Pacific): 555 / 9,800
+- GitHub minutes this month: 10065 (public repo: no limit)
+- YouTube quota today (Pacific): 570 / 9,800
 
 ## This run
 ```
-24 Nov 02:07 PM IST] standalone Short short_epics_19 uploaded: https://youtu.be/1V8Xr1Hpgps
-24 Nov 02:07 PM IST] short_epics_19 complete
-24 Nov 02:07 PM IST] pictures for ramayana301
-24 Nov 02:07 PM IST] metadata ramayana301
-24 Nov 02:08 PM IST] metadata ramayana301
-24 Nov 02:09 PM IST] metadata ramayana301
-24 Nov 02:09 PM IST] ramayana301 complete
-24 Nov 02:09 PM IST] pictures for ramayana302
-24 Nov 02:38 PM IST] render ramayana302
-24 Nov 03:06 PM IST] ramayana302: the video reviewer fixed face in 'bhumi_pleading_devas' stays still - rendering once more
-24 Nov 03:06 PM IST] render ramayana302
-24 Nov 03:29 PM IST] metadata ramayana302
-24 Nov 03:30 PM IST] render ramayana302_short1
-24 Nov 03:35 PM IST] metadata ramayana302
-24 Nov 03:36 PM IST] render ramayana302_short2
-24 Nov 03:40 PM IST] metadata ramayana302
-24 Nov 03:43 PM IST] ramayana302 complete
-24 Nov 03:43 PM IST] pictures for ramayana303
-24 Nov 04:01 PM IST] render ramayana303
-24 Nov 04:36 PM IST] metadata ramayana303
-24 Nov 04:36 PM IST] YouTube quota used up (10 uploads done today - rest upload after the reset) - rendering continues, uploads next run
-24 Nov 04:36 PM IST] render ramayana303_short1
-24 Nov 04:43 PM IST] render ramayana303_short2
-24 Nov 04:48 PM IST] pictures for dashanan05
-24 Nov 04:49 PM IST] stopping for now: not enough time left in this run for the renders - continuing next run
+24 Nov 04:51 PM IST] health ok | YouTube quota used today 555 | GitHub minutes this month 9998
+24 Nov 05:31 PM IST] pictures for short_songbhajan_15
+24 Nov 05:37 PM IST] render short_songbhajan_15_short1
+24 Nov 05:52 PM IST] metadata short_songbhajan_15
+24 Nov 05:56 PM IST] short_songbhajan_15_short1: upload waits (10 uploads done today - rest upload after the reset)
+24 Nov 05:56 PM IST] pictures for ramayana303
+24 Nov 05:56 PM IST] metadata ramayana303
+24 Nov 05:56 PM IST] pictures for dashanan05
+24 Nov 05:56 PM IST] metadata dashanan05
+24 Nov 05:57 PM IST] pictures for lankadhi05
+24 Nov 05:57 PM IST] metadata lankadhi05
+24 Nov 05:57 PM IST] queue worked through
 ```
