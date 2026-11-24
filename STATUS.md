@@ -1,5 +1,5 @@
 # 🤖 Video bot status
-_Updated 24 Nov 2026, 10:30 AM IST by the bot._
+_Updated 24 Nov 2026, 04:49 PM IST by the bot._
 
 ## Targets
 | | Now | Target |
@@ -53,17 +53,17 @@ _Updated 24 Nov 2026, 10:30 AM IST by the bot._
 | विष्णु पुराण: कलियुग महाप्रलय | hi | main | done | 10/10 | ⏳ |
 
 ## Queue (next to make)
-short_poemdemise_2, short_songchalisa_1, short_puranas_22, short_puranas_21, short_puranas_20, short_puranas_19, short_puranas_18, short_puranas_17, short_puranas_16, short_epics_26, short_epics_25, short_epics_24
+short_puranas_22, short_puranas_21, short_puranas_20, short_puranas_19, short_puranas_18, short_puranas_17, short_epics_26, short_epics_25, short_epics_24, short_epics_23, short_epics_22, short_epics_21
 
 ## Latest uploads
-- vishnupu10_short2: https://youtu.be/jAEzU9UYW9Q
-- vishnupu10_short1: https://youtu.be/-VkjzR1Zl0o
-- vishnupu10: https://youtu.be/dW071PZfxrg
-- vishnupu09_short2: https://youtu.be/fOm8rW0Eq6I
-- vishnupu09_short1: https://youtu.be/R8kcfLU0HKk
-- vishnupu09: https://youtu.be/12Pdg8SHSQo
-- short_epics_18_short1: https://youtu.be/oMpxwrPGopM
-- short_puranas_15_short1: https://youtu.be/QTKPDNc6vr0
+- ramayana302_short2: https://youtu.be/z7vdkinBpQw
+- ramayana302_short1: https://youtu.be/9y60YIBrdI0
+- ramayana302: https://youtu.be/l4Da7NpI_vA
+- ramayana301_short2: https://youtu.be/O2J3VnCjmFE
+- ramayana301_short1: https://youtu.be/f8Bg_JQO3V4
+- ramayana301: https://youtu.be/Lp-4S8X-26o
+- short_epics_19_short1: https://youtu.be/1V8Xr1Hpgps
+- short_puranas_16_short1: https://youtu.be/hM8EeP1Ye2Q
 
 ## Titles the bot improved
 - रावण ने अपने भाई कुबेर से लंका कैसे छीनी? 😱 लंका पर आक्रमण | दशानन भाग 4 → **कुबेर से लंका छीनकर रावण कैसे बना लंकापति? ⚔️ दशानन भाग 4**
@@ -89,34 +89,34 @@ short_poemdemise_2, short_songchalisa_1, short_puranas_22, short_puranas_21, sho
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 9829 (public repo: no limit)
-- YouTube quota today (Pacific): 1123 / 9,800
+- GitHub minutes this month: 9998 (public repo: no limit)
+- YouTube quota today (Pacific): 555 / 9,800
 
 ## This run
 ```
-24 Nov 07:17 AM IST] pictures for short_songchalisa_1
-24 Nov 07:22 AM IST] render short_songchalisa_1_short1
-24 Nov 07:25 AM IST] pictures for short_puranas_16
-24 Nov 07:29 AM IST] render short_puranas_16_short1
-24 Nov 07:31 AM IST] pictures for short_epics_19
-24 Nov 07:36 AM IST] render short_epics_19_short1
-24 Nov 07:38 AM IST] pictures for ramayana301
-24 Nov 07:43 AM IST] render ramayana301
-24 Nov 08:17 AM IST] metadata ramayana301
-24 Nov 08:17 AM IST] render ramayana301_short1
-24 Nov 08:21 AM IST] render ramayana301_short2
-24 Nov 08:25 AM IST] pictures for dashanan05
-24 Nov 08:27 AM IST] render dashanan05
-24 Nov 08:55 AM IST] metadata dashanan05
-24 Nov 08:55 AM IST] render dashanan05_short1
-24 Nov 08:58 AM IST] render dashanan05_short2
-24 Nov 09:01 AM IST] pictures for lankadhi05
-24 Nov 09:23 AM IST] render lankadhi05
-24 Nov 09:58 AM IST] lankadhi05: the video reviewer fixed picture 'mayasura_forest_encounter' made again; face in 'ravana_mesmerized_mandodari' stays still; face in 'mandodari_speaking_ravana' stays still; picture 'mayasura_dialogue_ravana' made again - rendering once more
-24 Nov 09:58 AM IST] pictures for lankadhi05
-24 Nov 09:58 AM IST] render lankadhi05
-24 Nov 10:20 AM IST] metadata lankadhi05
-24 Nov 10:20 AM IST] render lankadhi05_short1
-24 Nov 10:25 AM IST] render lankadhi05_short2
-24 Nov 10:29 AM IST] queue worked through
+24 Nov 02:07 PM IST] standalone Short short_epics_19 uploaded: https://youtu.be/1V8Xr1Hpgps
+24 Nov 02:07 PM IST] short_epics_19 complete
+24 Nov 02:07 PM IST] pictures for ramayana301
+24 Nov 02:07 PM IST] metadata ramayana301
+24 Nov 02:08 PM IST] metadata ramayana301
+24 Nov 02:09 PM IST] metadata ramayana301
+24 Nov 02:09 PM IST] ramayana301 complete
+24 Nov 02:09 PM IST] pictures for ramayana302
+24 Nov 02:38 PM IST] render ramayana302
+24 Nov 03:06 PM IST] ramayana302: the video reviewer fixed face in 'bhumi_pleading_devas' stays still - rendering once more
+24 Nov 03:06 PM IST] render ramayana302
+24 Nov 03:29 PM IST] metadata ramayana302
+24 Nov 03:30 PM IST] render ramayana302_short1
+24 Nov 03:35 PM IST] metadata ramayana302
+24 Nov 03:36 PM IST] render ramayana302_short2
+24 Nov 03:40 PM IST] metadata ramayana302
+24 Nov 03:43 PM IST] ramayana302 complete
+24 Nov 03:43 PM IST] pictures for ramayana303
+24 Nov 04:01 PM IST] render ramayana303
+24 Nov 04:36 PM IST] metadata ramayana303
+24 Nov 04:36 PM IST] YouTube quota used up (10 uploads done today - rest upload after the reset) - rendering continues, uploads next run
+24 Nov 04:36 PM IST] render ramayana303_short1
+24 Nov 04:43 PM IST] render ramayana303_short2
+24 Nov 04:48 PM IST] pictures for dashanan05
+24 Nov 04:49 PM IST] stopping for now: not enough time left in this run for the renders - continuing next run
 ```
