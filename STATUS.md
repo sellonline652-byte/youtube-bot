@@ -1,12 +1,12 @@
 # 🤖 Video bot status
-_Updated 24 Nov 2026, 01:34 AM IST by the bot._
+_Updated 24 Nov 2026, 10:30 AM IST by the bot._
 
 ## Targets
 | | Now | Target |
 |---|---|---|
-| Watch hours / day (28-day avg) | 0.63 | 10.0 |
+| Watch hours / day (28-day avg) | 0.65 | 10.0 |
 | New subscribers / day | -0.04 | 3.0 |
-| Watch hours, last 12 months (4,000 for monetization) | 317.8 | 4000 |
+| Watch hours, last 12 months (4,000 for monetization) | 318.4 | 4000 |
 
 ## Series
 | Series | Language | Channel | Status | Written | Movie |
@@ -66,11 +66,11 @@ short_poemdemise_2, short_songchalisa_1, short_puranas_22, short_puranas_21, sho
 - short_puranas_15_short1: https://youtu.be/QTKPDNc6vr0
 
 ## Titles the bot improved
-- Useful Printable Planners and Digital Guides for Every Need #shorts → **Want a guide to all 24 avatars of Lord Vishnu? 📜 #shorts**
-- कुंभकर्ण की जीभ फिसली 😱 वरदान बना अभिशाप! | Dashananda Ravana Story | भाग 3 → **इंद्रासन की जगह निद्रासन क्यों मांगा? 😱 | Dashananda Ravana Story | भाग 3**
 - रावण ने अपने भाई कुबेर से लंका कैसे छीनी? 😱 लंका पर आक्रमण | दशानन भाग 4 → **कुबेर से लंका छीनकर रावण कैसे बना लंकापति? ⚔️ दशानन भाग 4**
 - रावण का उदय: 10 शीश काटकर पाया अमरता का वरदान! | Ramayana Ep 1 → **10 सिर क्यों काटे रावण ने? 🤯 अमरता के वरदान का सच | Ramayana Ep 1**
 - Printable Planners, AI Prompts & Activity Guides #shorts → **Who is Kalki Avatar? Discover the 24 Avatars of Lord Vishnu 🪷 #shorts**
+- रावण ने कैसे छीनी सोने की लंका और पुष्पक विमान? | Ramayana भाग 2 → **सोने की लंका का असली मालिक कौन था? 😲 | Ramayana भाग 2**
+- 5 मिनट में बीते 29 करोड़ साल! ⏳ #shorts #mythology → **Bhagwan Vishnu ke 24 Avatar का 29 करोड़ साल का सच क्या है? ⏳ #shorts**
 
 ## Promotion Shorts (unlisted, for paid ads)
 - 2026-11-24: promotion for the series 'ऋणानुबंध: रावण और राम' (Valmiki Ramayana and - uploads when an upload is free
@@ -89,30 +89,34 @@ short_poemdemise_2, short_songchalisa_1, short_puranas_22, short_puranas_21, sho
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 9626 (public repo: no limit)
-- YouTube quota today (Pacific): 758 / 9,800
+- GitHub minutes this month: 9829 (public repo: no limit)
+- YouTube quota today (Pacific): 1123 / 9,800
 
 ## This run
 ```
-23 Nov 10:45 PM IST] health ok | YouTube quota used today 670 | GitHub minutes this month 9455
-23 Nov 11:54 PM IST] pictures for short_poemdemise_2
-23 Nov 11:58 PM IST] render short_poemdemise_2_short1
-24 Nov 12:05 AM IST] metadata short_poemdemise_2
-24 Nov 12:05 AM IST] short_poemdemise_2_short1: upload waits (10 uploads done today - rest upload after the reset)
-24 Nov 12:05 AM IST] pictures for short_songchalisa_1
-24 Nov 12:05 AM IST] pictures for short_puranas_16
-24 Nov 12:10 AM IST] render short_puranas_16_short1
-24 Nov 12:12 AM IST] pictures for short_epics_19
-24 Nov 12:18 AM IST] render short_epics_19_short1
-24 Nov 12:21 AM IST] pictures for ramayana301
-24 Nov 12:21 AM IST] metadata ramayana301
-24 Nov 12:21 AM IST] pictures for dashanan05
-24 Nov 12:21 AM IST] metadata dashanan05
-24 Nov 12:21 AM IST] pictures for lankadhi05
-24 Nov 12:21 AM IST] metadata lankadhi05
-24 Nov 12:21 AM IST] queue worked through
-24 Nov 01:25 AM IST] pictures for short_promopromo_11
-24 Nov 01:31 AM IST] render short_promopromo_11_short1
-24 Nov 01:33 AM IST] metadata short_promopromo_11
-24 Nov 01:33 AM IST] promotion Short made: promotion for the series 'ऋणानुबंध: रावण और राम' (Valmiki Ra - uploads when an upload is free
+24 Nov 07:17 AM IST] pictures for short_songchalisa_1
+24 Nov 07:22 AM IST] render short_songchalisa_1_short1
+24 Nov 07:25 AM IST] pictures for short_puranas_16
+24 Nov 07:29 AM IST] render short_puranas_16_short1
+24 Nov 07:31 AM IST] pictures for short_epics_19
+24 Nov 07:36 AM IST] render short_epics_19_short1
+24 Nov 07:38 AM IST] pictures for ramayana301
+24 Nov 07:43 AM IST] render ramayana301
+24 Nov 08:17 AM IST] metadata ramayana301
+24 Nov 08:17 AM IST] render ramayana301_short1
+24 Nov 08:21 AM IST] render ramayana301_short2
+24 Nov 08:25 AM IST] pictures for dashanan05
+24 Nov 08:27 AM IST] render dashanan05
+24 Nov 08:55 AM IST] metadata dashanan05
+24 Nov 08:55 AM IST] render dashanan05_short1
+24 Nov 08:58 AM IST] render dashanan05_short2
+24 Nov 09:01 AM IST] pictures for lankadhi05
+24 Nov 09:23 AM IST] render lankadhi05
+24 Nov 09:58 AM IST] lankadhi05: the video reviewer fixed picture 'mayasura_forest_encounter' made again; face in 'ravana_mesmerized_mandodari' stays still; face in 'mandodari_speaking_ravana' stays still; picture 'mayasura_dialogue_ravana' made again - rendering once more
+24 Nov 09:58 AM IST] pictures for lankadhi05
+24 Nov 09:58 AM IST] render lankadhi05
+24 Nov 10:20 AM IST] metadata lankadhi05
+24 Nov 10:20 AM IST] render lankadhi05_short1
+24 Nov 10:25 AM IST] render lankadhi05_short2
+24 Nov 10:29 AM IST] queue worked through
 ```
