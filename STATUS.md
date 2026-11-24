@@ -1,5 +1,5 @@
 # 🤖 Video bot status
-_Updated 24 Nov 2026, 05:57 PM IST by the bot._
+_Updated 25 Nov 2026, 01:38 AM IST by the bot._
 
 ## Targets
 | | Now | Target |
@@ -33,7 +33,7 @@ _Updated 24 Nov 2026, 05:57 PM IST by the bot._
 | रामायण: रावण का अहंकार और स्वर्ण मृग | hi | main | active | 0/30 | ⏳ |
 | श्रीराम कथा: पंचवटी से अशोक वाटिका | hi | main | active | 0/30 | ⏳ |
 | सनातन रामायण: दशानन और मर्यादा पुरुषोत्तम | hi | main | next | 0/30 | ⏳ |
-| मर्यादा पुरुषोत्तम: रावण का उदय और पतन | hi | main | active | 5/30 | ⏳ |
+| मर्यादा पुरुषोत्तम: रावण का उदय और पतन | hi | main | active | 6/30 | ⏳ |
 | रामायण: दशानन और धर्मयुद्ध | hi | main | active | 0/30 | ⏳ |
 | सनातन गाथा: अहल्या उद्धार और रामायण | hi | main | active | 0/30 | ⏳ |
 | रामायण: रावण का उत्थान और पतन | hi | main | active | 0/30 | ⏳ |
@@ -53,7 +53,7 @@ _Updated 24 Nov 2026, 05:57 PM IST by the bot._
 | विष्णु पुराण: कलियुग महाप्रलय | hi | main | done | 10/10 | ⏳ |
 
 ## Queue (next to make)
-short_songbhajan_15, short_puranas_22, short_puranas_21, short_puranas_20, short_puranas_19, short_puranas_18, short_puranas_17, short_epics_26, short_epics_25, short_epics_24, short_epics_23, short_epics_22
+short_poemnavratri_2, short_songbhajan_15, short_puranas_22, short_puranas_21, short_puranas_20, short_puranas_19, short_puranas_18, short_puranas_17, short_epics_26, short_epics_25, short_epics_24, short_epics_23
 
 ## Latest uploads
 - ramayana302_short2: https://youtu.be/z7vdkinBpQw
@@ -73,13 +73,13 @@ short_songbhajan_15, short_puranas_22, short_puranas_21, short_puranas_20, short
 - 5 मिनट में बीते 29 करोड़ साल! ⏳ #shorts #mythology → **Bhagwan Vishnu ke 24 Avatar का 29 करोड़ साल का सच क्या है? ⏳ #shorts**
 
 ## Promotion Shorts (unlisted, for paid ads)
+- 2026-11-25: promotion for the series 'मर्यादा पुरुषोत्तम: राम और रावण की गाथा' (Va - uploads when an upload is free
 - 2026-11-24: promotion for the series 'ऋणानुबंध: रावण और राम' (Valmiki Ramayana and - uploads when an upload is free
 - 2026-11-23: promotion for the series 'रावण: ब्रह्मांड का अधिनायक' (Valmiki Ramayan - uploads when an upload is free
 - 2026-11-22: promotion for the series 'रावण: महाशक्ति का उदय और पतन' (Valmiki Ramay - uploads when an upload is free
 - 2026-11-21: promotion for the series 'दशानन: धर्म, अहंकार और महासंग्राम' (Valmiki  - uploads when an upload is free
 - 2026-11-20: promotion for the series 'मर्यादा पुरुषोत्तम: दशानन का उदय और पतन' (Va - uploads when an upload is free
 - 2026-11-19: promotion for the series 'रामायण: दशानन और धर्म का उत्थान' (Valmiki Ra - uploads when an upload is free
-- 2026-11-18: promotion for the series 'मर्यादा और अहंकार: राम और रावण की अमर गाथा'  - uploads when an upload is free
 
 ## Sponsorship outreach (weekly)
 - 2026-10-26: 1 new companies stored (not emailed - growing first), 1 stored in total
@@ -89,21 +89,25 @@ short_songbhajan_15, short_puranas_22, short_puranas_21, short_puranas_20, short
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 10065 (public repo: no limit)
-- YouTube quota today (Pacific): 570 / 9,800
+- GitHub minutes this month: 10241 (public repo: no limit)
+- YouTube quota today (Pacific): 916 / 9,800
 
 ## This run
 ```
-24 Nov 04:51 PM IST] health ok | YouTube quota used today 555 | GitHub minutes this month 9998
-24 Nov 05:31 PM IST] pictures for short_songbhajan_15
-24 Nov 05:37 PM IST] render short_songbhajan_15_short1
-24 Nov 05:52 PM IST] metadata short_songbhajan_15
-24 Nov 05:56 PM IST] short_songbhajan_15_short1: upload waits (10 uploads done today - rest upload after the reset)
-24 Nov 05:56 PM IST] pictures for ramayana303
-24 Nov 05:56 PM IST] metadata ramayana303
-24 Nov 05:56 PM IST] pictures for dashanan05
-24 Nov 05:56 PM IST] metadata dashanan05
-24 Nov 05:57 PM IST] pictures for lankadhi05
-24 Nov 05:57 PM IST] metadata lankadhi05
-24 Nov 05:57 PM IST] queue worked through
+24 Nov 10:44 PM IST] health ok | YouTube quota used today 570 | GitHub minutes this month 10065
+25 Nov 12:40 AM IST] pictures for short_poemnavratri_2
+25 Nov 12:50 AM IST] render short_poemnavratri_2_short1
+25 Nov 12:53 AM IST] metadata short_poemnavratri_2
+25 Nov 12:54 AM IST] short_poemnavratri_2_short1: upload waits (10 uploads done today - rest upload after the reset)
+25 Nov 12:54 AM IST] pictures for short_songbhajan_15
+25 Nov 12:54 AM IST] pictures for short_puranas_17
+25 Nov 01:00 AM IST] render short_puranas_17_short1
+25 Nov 01:04 AM IST] pictures for short_epics_20
+25 Nov 01:11 AM IST] render short_epics_20_short1
+25 Nov 01:13 AM IST] pictures for ramayana303
+25 Nov 01:13 AM IST] stopping for now: not enough time left in this run for the renders - continuing next run
+25 Nov 01:30 AM IST] pictures for short_promoepic_5
+25 Nov 01:35 AM IST] render short_promoepic_5_short1
+25 Nov 01:38 AM IST] metadata short_promoepic_5
+25 Nov 01:38 AM IST] promotion Short made: promotion for the series 'मर्यादा पुरुषोत्तम: राम और रावण की - uploads when an upload is free
 ```
