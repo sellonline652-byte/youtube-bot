@@ -1,12 +1,12 @@
 # 🤖 Video bot status
-_Updated 25 Nov 2026, 01:38 AM IST by the bot._
+_Updated 25 Nov 2026, 01:42 AM IST by the bot._
 
 ## Targets
 | | Now | Target |
 |---|---|---|
-| Watch hours / day (28-day avg) | 0.65 | 10.0 |
+| Watch hours / day (28-day avg) | 0.7 | 10.0 |
 | New subscribers / day | -0.04 | 3.0 |
-| Watch hours, last 12 months (4,000 for monetization) | 318.4 | 4000 |
+| Watch hours, last 12 months (4,000 for monetization) | 319.9 | 4000 |
 
 ## Series
 | Series | Language | Channel | Status | Written | Movie |
@@ -89,25 +89,23 @@ short_poemnavratri_2, short_songbhajan_15, short_puranas_22, short_puranas_21, s
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 10241 (public repo: no limit)
-- YouTube quota today (Pacific): 916 / 9,800
+- GitHub minutes this month: 10243 (public repo: no limit)
+- YouTube quota today (Pacific): 931 / 9,800
 
 ## This run
 ```
-24 Nov 10:44 PM IST] health ok | YouTube quota used today 570 | GitHub minutes this month 10065
-25 Nov 12:40 AM IST] pictures for short_poemnavratri_2
-25 Nov 12:50 AM IST] render short_poemnavratri_2_short1
-25 Nov 12:53 AM IST] metadata short_poemnavratri_2
-25 Nov 12:54 AM IST] short_poemnavratri_2_short1: upload waits (10 uploads done today - rest upload after the reset)
-25 Nov 12:54 AM IST] pictures for short_songbhajan_15
-25 Nov 12:54 AM IST] pictures for short_puranas_17
-25 Nov 01:00 AM IST] render short_puranas_17_short1
-25 Nov 01:04 AM IST] pictures for short_epics_20
-25 Nov 01:11 AM IST] render short_epics_20_short1
-25 Nov 01:13 AM IST] pictures for ramayana303
-25 Nov 01:13 AM IST] stopping for now: not enough time left in this run for the renders - continuing next run
-25 Nov 01:30 AM IST] pictures for short_promoepic_5
-25 Nov 01:35 AM IST] render short_promoepic_5_short1
-25 Nov 01:38 AM IST] metadata short_promoepic_5
-25 Nov 01:38 AM IST] promotion Short made: promotion for the series 'मर्यादा पुरुषोत्तम: राम और रावण की - uploads when an upload is free
+25 Nov 01:42 AM IST] health ok | YouTube quota used today 916 | GitHub minutes this month 10241
+25 Nov 01:42 AM IST] pictures for short_poemnavratri_2
+25 Nov 01:42 AM IST] metadata short_poemnavratri_2
+25 Nov 01:42 AM IST] short_poemnavratri_2_short1: upload waits (10 uploads done today - rest upload after the reset)
+25 Nov 01:42 AM IST] pictures for short_songbhajan_15
+25 Nov 01:42 AM IST] pictures for short_puranas_17
+25 Nov 01:42 AM IST] pictures for short_epics_20
+25 Nov 01:42 AM IST] pictures for ramayana303
+25 Nov 01:42 AM IST] metadata ramayana303
+25 Nov 01:42 AM IST] pictures for dashanan05
+25 Nov 01:42 AM IST] metadata dashanan05
+25 Nov 01:42 AM IST] pictures for lankadhi05
+25 Nov 01:42 AM IST] metadata lankadhi05
+25 Nov 01:42 AM IST] queue worked through
 ```
