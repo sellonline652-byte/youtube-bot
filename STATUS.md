@@ -1,5 +1,5 @@
 # 🤖 Video bot status
-_Updated 25 Nov 2026, 07:03 AM IST by the bot._
+_Updated 25 Nov 2026, 04:29 PM IST by the bot._
 
 ## Targets
 | | Now | Target |
@@ -53,17 +53,17 @@ _Updated 25 Nov 2026, 07:03 AM IST by the bot._
 | विष्णु पुराण: कलियुग महाप्रलय | hi | main | done | 10/10 | ⏳ |
 
 ## Queue (next to make)
-short_poemnavratri_2, short_songbhajan_15, short_puranas_22, short_puranas_21, short_puranas_20, short_puranas_19, short_puranas_18, short_puranas_17, short_epics_26, short_epics_25, short_epics_24, short_epics_23
+short_puranas_22, short_puranas_21, short_puranas_20, short_puranas_19, short_puranas_18, short_epics_26, short_epics_25, short_epics_24, short_epics_23, short_epics_22, short_epics_21, dashanan05
 
 ## Latest uploads
-- ramayana302_short2: https://youtu.be/z7vdkinBpQw
-- ramayana302_short1: https://youtu.be/9y60YIBrdI0
-- ramayana302: https://youtu.be/l4Da7NpI_vA
-- ramayana301_short2: https://youtu.be/O2J3VnCjmFE
-- ramayana301_short1: https://youtu.be/f8Bg_JQO3V4
-- ramayana301: https://youtu.be/Lp-4S8X-26o
-- short_epics_19_short1: https://youtu.be/1V8Xr1Hpgps
-- short_puranas_16_short1: https://youtu.be/hM8EeP1Ye2Q
+- ramayana304_short2: https://youtu.be/j03lpSeVF4s
+- ramayana304_short1: https://youtu.be/L2keyLzhSU4
+- ramayana304: https://youtu.be/6Oy3YIWJadk
+- ramayana303_short2: https://youtu.be/e2-WJYrdiMI
+- ramayana303_short1: https://youtu.be/Cz9XercM3K8
+- ramayana303: https://youtu.be/s8tc-ZZ-2vk
+- short_epics_20_short1: https://youtu.be/WDaYFBRzJ_k
+- short_puranas_17_short1: https://youtu.be/cKFSzI_4r38
 
 ## Titles the bot improved
 - Printable Planners, AI Prompts & Activity Guides #shorts → **Who is Kalki Avatar? Discover the 24 Avatars of Lord Vishnu 🪷 #shorts**
@@ -89,23 +89,34 @@ short_poemnavratri_2, short_songbhajan_15, short_puranas_22, short_puranas_21, s
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 10246 (public repo: no limit)
-- YouTube quota today (Pacific): 1046 / 9,800
+- GitHub minutes this month: 10394 (public repo: no limit)
+- YouTube quota today (Pacific): 655 / 9,800
 
 ## This run
 ```
-25 Nov 07:02 AM IST] health ok | YouTube quota used today 931 | GitHub minutes this month 10243
-25 Nov 07:02 AM IST] pictures for short_poemnavratri_2
-25 Nov 07:02 AM IST] metadata short_poemnavratri_2
-25 Nov 07:02 AM IST] short_poemnavratri_2_short1: upload waits (10 uploads done today - rest upload after the reset)
-25 Nov 07:02 AM IST] pictures for short_songbhajan_15
-25 Nov 07:02 AM IST] pictures for short_puranas_17
-25 Nov 07:02 AM IST] pictures for short_epics_20
-25 Nov 07:02 AM IST] pictures for ramayana303
-25 Nov 07:02 AM IST] metadata ramayana303
-25 Nov 07:02 AM IST] pictures for dashanan05
-25 Nov 07:02 AM IST] metadata dashanan05
-25 Nov 07:02 AM IST] pictures for lankadhi05
-25 Nov 07:02 AM IST] metadata lankadhi05
-25 Nov 07:02 AM IST] queue worked through
+25 Nov 02:04 PM IST] metadata ramayana303
+25 Nov 02:06 PM IST] metadata ramayana303
+25 Nov 02:06 PM IST] metadata ramayana303
+25 Nov 02:06 PM IST] ramayana303 complete
+25 Nov 02:06 PM IST] pictures for ramayana304
+25 Nov 02:07 PM IST] render ramayana304
+25 Nov 02:46 PM IST] ramayana304: the video reviewer fixed face in 'dasharatha_in_court' stays still - rendering once more
+25 Nov 02:46 PM IST] render ramayana304
+25 Nov 03:18 PM IST] metadata ramayana304
+25 Nov 03:18 PM IST] render ramayana304_short1
+25 Nov 03:25 PM IST] metadata ramayana304
+25 Nov 03:25 PM IST] render ramayana304_short2
+25 Nov 03:35 PM IST] metadata ramayana304
+25 Nov 03:36 PM IST] ramayana304 complete
+25 Nov 03:36 PM IST] pictures for dashanan05
+25 Nov 03:36 PM IST] metadata dashanan05
+25 Nov 03:36 PM IST] YouTube quota used up (10 uploads done today - rest upload after the reset) - rendering continues, uploads next run
+25 Nov 03:36 PM IST] pictures for lankadhi05
+25 Nov 03:36 PM IST] metadata lankadhi05
+25 Nov 03:36 PM IST] pictures for ramayana305
+25 Nov 03:37 PM IST] render ramayana305
+25 Nov 04:18 PM IST] metadata ramayana305
+25 Nov 04:18 PM IST] render ramayana305_short1
+25 Nov 04:26 PM IST] render ramayana305_short2
+25 Nov 04:29 PM IST] queue worked through
 ```
