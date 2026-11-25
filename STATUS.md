@@ -1,12 +1,12 @@
 # 🤖 Video bot status
-_Updated 25 Nov 2026, 01:42 AM IST by the bot._
+_Updated 25 Nov 2026, 07:03 AM IST by the bot._
 
 ## Targets
 | | Now | Target |
 |---|---|---|
-| Watch hours / day (28-day avg) | 0.7 | 10.0 |
+| Watch hours / day (28-day avg) | 0.69 | 10.0 |
 | New subscribers / day | -0.04 | 3.0 |
-| Watch hours, last 12 months (4,000 for monetization) | 319.9 | 4000 |
+| Watch hours, last 12 months (4,000 for monetization) | 319.5 | 4000 |
 
 ## Series
 | Series | Language | Channel | Status | Written | Movie |
@@ -66,11 +66,11 @@ short_poemnavratri_2, short_songbhajan_15, short_puranas_22, short_puranas_21, s
 - short_puranas_16_short1: https://youtu.be/hM8EeP1Ye2Q
 
 ## Titles the bot improved
-- रावण ने अपने भाई कुबेर से लंका कैसे छीनी? 😱 लंका पर आक्रमण | दशानन भाग 4 → **कुबेर से लंका छीनकर रावण कैसे बना लंकापति? ⚔️ दशानन भाग 4**
-- रावण का उदय: 10 शीश काटकर पाया अमरता का वरदान! | Ramayana Ep 1 → **10 सिर क्यों काटे रावण ने? 🤯 अमरता के वरदान का सच | Ramayana Ep 1**
 - Printable Planners, AI Prompts & Activity Guides #shorts → **Who is Kalki Avatar? Discover the 24 Avatars of Lord Vishnu 🪷 #shorts**
 - रावण ने कैसे छीनी सोने की लंका और पुष्पक विमान? | Ramayana भाग 2 → **सोने की लंका का असली मालिक कौन था? 😲 | Ramayana भाग 2**
 - 5 मिनट में बीते 29 करोड़ साल! ⏳ #shorts #mythology → **Bhagwan Vishnu ke 24 Avatar का 29 करोड़ साल का सच क्या है? ⏳ #shorts**
+- श्रीकृष्ण के मुंह में पूरा ब्रह्मांड! 🌌 #shorts #krishna #mythology → **यशोदा ने कान्हा के मुंह में क्या देखा? 🌌 Vishnu Ke 24 Avatar #shorts**
+- टाइम डिलेशन? प्राचीन भारतीय विज्ञान 🌌 #shorts #IndianMythology → **क्या विष्णु के 24 अवतार में टाइम डिलेशन का रहस्य है? 🌌 #shorts**
 
 ## Promotion Shorts (unlisted, for paid ads)
 - 2026-11-25: promotion for the series 'मर्यादा पुरुषोत्तम: राम और रावण की गाथा' (Va - uploads when an upload is free
@@ -89,23 +89,23 @@ short_poemnavratri_2, short_songbhajan_15, short_puranas_22, short_puranas_21, s
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 10243 (public repo: no limit)
-- YouTube quota today (Pacific): 931 / 9,800
+- GitHub minutes this month: 10246 (public repo: no limit)
+- YouTube quota today (Pacific): 1046 / 9,800
 
 ## This run
 ```
-25 Nov 01:42 AM IST] health ok | YouTube quota used today 916 | GitHub minutes this month 10241
-25 Nov 01:42 AM IST] pictures for short_poemnavratri_2
-25 Nov 01:42 AM IST] metadata short_poemnavratri_2
-25 Nov 01:42 AM IST] short_poemnavratri_2_short1: upload waits (10 uploads done today - rest upload after the reset)
-25 Nov 01:42 AM IST] pictures for short_songbhajan_15
-25 Nov 01:42 AM IST] pictures for short_puranas_17
-25 Nov 01:42 AM IST] pictures for short_epics_20
-25 Nov 01:42 AM IST] pictures for ramayana303
-25 Nov 01:42 AM IST] metadata ramayana303
-25 Nov 01:42 AM IST] pictures for dashanan05
-25 Nov 01:42 AM IST] metadata dashanan05
-25 Nov 01:42 AM IST] pictures for lankadhi05
-25 Nov 01:42 AM IST] metadata lankadhi05
-25 Nov 01:42 AM IST] queue worked through
+25 Nov 07:02 AM IST] health ok | YouTube quota used today 931 | GitHub minutes this month 10243
+25 Nov 07:02 AM IST] pictures for short_poemnavratri_2
+25 Nov 07:02 AM IST] metadata short_poemnavratri_2
+25 Nov 07:02 AM IST] short_poemnavratri_2_short1: upload waits (10 uploads done today - rest upload after the reset)
+25 Nov 07:02 AM IST] pictures for short_songbhajan_15
+25 Nov 07:02 AM IST] pictures for short_puranas_17
+25 Nov 07:02 AM IST] pictures for short_epics_20
+25 Nov 07:02 AM IST] pictures for ramayana303
+25 Nov 07:02 AM IST] metadata ramayana303
+25 Nov 07:02 AM IST] pictures for dashanan05
+25 Nov 07:02 AM IST] metadata dashanan05
+25 Nov 07:02 AM IST] pictures for lankadhi05
+25 Nov 07:02 AM IST] metadata lankadhi05
+25 Nov 07:02 AM IST] queue worked through
 ```
