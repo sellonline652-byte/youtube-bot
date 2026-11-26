@@ -1,12 +1,12 @@
 # 🤖 Video bot status
-_Updated 26 Nov 2026, 01:08 AM IST by the bot._
+_Updated 26 Nov 2026, 07:05 AM IST by the bot._
 
 ## Targets
 | | Now | Target |
 |---|---|---|
-| Watch hours / day (28-day avg) | 0.69 | 10.0 |
-| New subscribers / day | -0.04 | 3.0 |
-| Watch hours, last 12 months (4,000 for monetization) | 319.5 | 4000 |
+| Watch hours / day (28-day avg) | 0.85 | 10.0 |
+| New subscribers / day | 0.0 | 3.0 |
+| Watch hours, last 12 months (4,000 for monetization) | 324.0 | 4000 |
 
 ## Series
 | Series | Language | Channel | Status | Written | Movie |
@@ -66,11 +66,11 @@ short_poemreplicat_2, short_songbhajan_16, short_puranas_22, short_puranas_21, s
 - short_puranas_17_short1: https://youtu.be/cKFSzI_4r38
 
 ## Titles the bot improved
-- Printable Planners, AI Prompts & Activity Guides #shorts → **Who is Kalki Avatar? Discover the 24 Avatars of Lord Vishnu 🪷 #shorts**
-- रावण ने कैसे छीनी सोने की लंका और पुष्पक विमान? | Ramayana भाग 2 → **सोने की लंका का असली मालिक कौन था? 😲 | Ramayana भाग 2**
 - 5 मिनट में बीते 29 करोड़ साल! ⏳ #shorts #mythology → **Bhagwan Vishnu ke 24 Avatar का 29 करोड़ साल का सच क्या है? ⏳ #shorts**
 - श्रीकृष्ण के मुंह में पूरा ब्रह्मांड! 🌌 #shorts #krishna #mythology → **यशोदा ने कान्हा के मुंह में क्या देखा? 🌌 Vishnu Ke 24 Avatar #shorts**
 - टाइम डिलेशन? प्राचीन भारतीय विज्ञान 🌌 #shorts #IndianMythology → **क्या विष्णु के 24 अवतार में टाइम डिलेशन का रहस्य है? 🌌 #shorts**
+- 1 मिनट में महाभारत खत्म करने वाला योद्धा 🏹 #shorts #mythology #mahabharata → **कौन था 1 मिनट में महाभारत खत्म करने वाला योद्धा? 🏹 #shorts**
+- NASA हैरान: हनुमान जी का प्राचीन गणित! ☀️ #shorts #mythology #facts → **क्या हनुमान जी का गणित सच था? Vishnu Ke 24 Avatar ☀️ #shorts**
 
 ## Promotion Shorts (unlisted, for paid ads)
 - 2026-11-26: promotion for the series 'लकापति: रावण का उदय और पतन' (Valmiki Ramayan - uploads when an upload is free
@@ -89,30 +89,23 @@ short_poemreplicat_2, short_songbhajan_16, short_puranas_22, short_puranas_21, s
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 10594 (public repo: no limit)
-- YouTube quota today (Pacific): 759 / 9,800
+- GitHub minutes this month: 10599 (public repo: no limit)
+- YouTube quota today (Pacific): 874 / 9,800
 
 ## This run
 ```
-25 Nov 10:45 PM IST] health ok | YouTube quota used today 670 | GitHub minutes this month 10449
-25 Nov 11:58 PM IST] pictures for short_poemreplicat_2
-26 Nov 12:02 AM IST] render short_poemreplicat_2_short1
-26 Nov 12:07 AM IST] metadata short_poemreplicat_2
-26 Nov 12:07 AM IST] short_poemreplicat_2_short1: upload waits (10 uploads done today - rest upload after the reset)
-26 Nov 12:07 AM IST] pictures for short_songbhajan_16
-26 Nov 12:07 AM IST] pictures for short_puranas_18
-26 Nov 12:12 AM IST] render short_puranas_18_short1
-26 Nov 12:15 AM IST] pictures for short_epics_21
-26 Nov 12:21 AM IST] render short_epics_21_short1
-26 Nov 12:24 AM IST] pictures for dashanan05
-26 Nov 12:24 AM IST] metadata dashanan05
-26 Nov 12:24 AM IST] pictures for lankadhi05
-26 Nov 12:24 AM IST] metadata lankadhi05
-26 Nov 12:24 AM IST] pictures for ramayana305
-26 Nov 12:24 AM IST] metadata ramayana305
-26 Nov 12:24 AM IST] queue worked through
-26 Nov 12:54 AM IST] pictures for short_promolankapa_1
-26 Nov 01:04 AM IST] render short_promolankapa_1_short1
-26 Nov 01:07 AM IST] metadata short_promolankapa_1
-26 Nov 01:07 AM IST] promotion Short made: promotion for the series 'लकापति: रावण का उदय और पतन' (Valmi - uploads when an upload is free
+26 Nov 07:02 AM IST] health ok | YouTube quota used today 759 | GitHub minutes this month 10594
+26 Nov 07:02 AM IST] pictures for short_poemreplicat_2
+26 Nov 07:02 AM IST] metadata short_poemreplicat_2
+26 Nov 07:02 AM IST] short_poemreplicat_2_short1: upload waits (10 uploads done today - rest upload after the reset)
+26 Nov 07:02 AM IST] pictures for short_songbhajan_16
+26 Nov 07:02 AM IST] pictures for short_puranas_18
+26 Nov 07:02 AM IST] pictures for short_epics_21
+26 Nov 07:02 AM IST] pictures for dashanan05
+26 Nov 07:02 AM IST] metadata dashanan05
+26 Nov 07:02 AM IST] pictures for lankadhi05
+26 Nov 07:02 AM IST] metadata lankadhi05
+26 Nov 07:02 AM IST] pictures for ramayana305
+26 Nov 07:02 AM IST] metadata ramayana305
+26 Nov 07:02 AM IST] queue worked through
 ```
