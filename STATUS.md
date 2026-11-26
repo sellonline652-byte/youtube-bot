@@ -1,5 +1,5 @@
 # 🤖 Video bot status
-_Updated 26 Nov 2026, 04:55 PM IST by the bot._
+_Updated 26 Nov 2026, 07:55 PM IST by the bot._
 
 ## Targets
 | | Now | Target |
@@ -15,7 +15,7 @@ _Updated 26 Nov 2026, 04:55 PM IST by the bot._
 | बप्पा रावल: मेवाड़ का सूर्य और अरबों का अंत | hi | main | done | 4/4 | ✅ |
 | माँ छिन्नमस्ता साधना: गुप्त तंत्र और कटी मुंड का रहस्य | hi | main | done | 3/3 | ✅ |
 | ब्रह्मांडीय महायुद्ध: 24 अवतारों की गाथा | hi | main | done | 10/10 | ⏳ |
-| दशानन: लंकापति का उदय और पतन | hi | main | active | 8/30 | ⏳ |
+| दशानन: लंकापति का उदय और पतन | hi | main | active | 9/30 | ⏳ |
 | दशानन: मर्यादा और अहंकार का महायुद्ध | hi | main | active | 8/30 | ⏳ |
 | दशानन और मर्यादा: रावण का अंत | hi | main | active | 0/30 | ⏳ |
 | एक घातक भूल: कलयुग का आगमन | hi | main | next | 0/3 | ⏳ |
@@ -53,7 +53,7 @@ _Updated 26 Nov 2026, 04:55 PM IST by the bot._
 | विष्णु पुराण: कलियुग महाप्रलय | hi | main | done | 10/10 | ⏳ |
 
 ## Queue (next to make)
-short_puranas_22, short_puranas_21, short_puranas_20, short_puranas_19, short_epics_26, short_epics_25, short_epics_24, short_epics_23, short_epics_22, dashanan07, dashanan08, dashanan205
+short_songbhajan_17, short_puranas_22, short_puranas_21, short_puranas_20, short_puranas_19, short_epics_26, short_epics_25, short_epics_24, short_epics_23, short_epics_22, dashanan07, dashanan08
 
 ## Latest uploads
 - dashanan06_short2: https://youtu.be/55pdrkycGs0
@@ -89,34 +89,24 @@ short_puranas_22, short_puranas_21, short_puranas_20, short_puranas_19, short_ep
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 10775 (public repo: no limit)
-- YouTube quota today (Pacific): 753 / 9,800
+- GitHub minutes this month: 10955 (public repo: no limit)
+- YouTube quota today (Pacific): 819 / 9,800
 
 ## This run
 ```
-26 Nov 03:34 PM IST] standalone Short short_puranas_18 uploaded: https://youtu.be/A9hNo7hN_-s
-26 Nov 03:34 PM IST] short_puranas_18 complete
-26 Nov 03:34 PM IST] pictures for short_epics_21
-26 Nov 03:34 PM IST] metadata short_epics_21
-26 Nov 03:34 PM IST] standalone Short short_epics_21 uploaded: https://youtu.be/NvfpX4NZOY0
-26 Nov 03:34 PM IST] short_epics_21 complete
-26 Nov 03:34 PM IST] pictures for dashanan05
-26 Nov 03:34 PM IST] metadata dashanan05
-26 Nov 03:35 PM IST] metadata dashanan05
-26 Nov 03:36 PM IST] metadata dashanan05
-26 Nov 03:36 PM IST] dashanan05 complete
-26 Nov 03:36 PM IST] pictures for dashanan06
-26 Nov 03:37 PM IST] render dashanan06
-26 Nov 04:16 PM IST] dashanan06: the video reviewer fixed picture 'sahasrarjuna_sporting_water' made again; picture 'flood_washing_lingam' made again; picture 'dashananda_faceoff_sahasrarjuna' made again - rendering once more
-26 Nov 04:16 PM IST] pictures for dashanan06
-26 Nov 04:16 PM IST] render dashanan06
-26 Nov 04:46 PM IST] metadata dashanan06
-26 Nov 04:47 PM IST] render dashanan06_short1
-26 Nov 04:51 PM IST] metadata dashanan06
-26 Nov 04:51 PM IST] render dashanan06_short2
-26 Nov 04:53 PM IST] metadata dashanan06
-26 Nov 04:54 PM IST] dashanan06 complete
-26 Nov 04:54 PM IST] pictures for dashanan07
-26 Nov 04:54 PM IST] stopping for now: not enough time left in this run for the renders - continuing next run
-26 Nov 04:55 PM IST] weekly product video due but waiting: room=False hours_left=2.2
+26 Nov 04:57 PM IST] health ok | YouTube quota used today 753 | GitHub minutes this month 10775
+26 Nov 05:50 PM IST] pictures for short_songbhajan_17
+26 Nov 05:55 PM IST] render short_songbhajan_17_short1
+26 Nov 06:03 PM IST] metadata short_songbhajan_17
+26 Nov 06:03 PM IST] short_songbhajan_17_short1: upload waits (10 uploads done today - rest upload after the reset)
+26 Nov 06:03 PM IST] pictures for dashanan07
+26 Nov 06:03 PM IST] render dashanan07
+26 Nov 06:57 PM IST] dashanan07: the video reviewer fixed picture 'raja_bali_golden_throne' made again; picture 'ravana_challenging_bali' made again; picture 'hiranyakashipu_earring_challenge' made again; picture 'dashananda_lifting_strain' made again; picture 'brahma_intervenes_cavern' made again - rendering once more
+26 Nov 06:57 PM IST] pictures for dashanan07
+26 Nov 07:05 PM IST] render dashanan07
+26 Nov 07:43 PM IST] metadata dashanan07
+26 Nov 07:43 PM IST] render dashanan07_short1
+26 Nov 07:49 PM IST] render dashanan07_short2
+26 Nov 07:55 PM IST] pictures for lankadhi05
+26 Nov 07:55 PM IST] stopping for now: not enough time left in this run for the renders - continuing next run
 ```
