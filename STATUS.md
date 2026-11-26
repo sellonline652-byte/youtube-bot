@@ -1,5 +1,5 @@
 # 🤖 Video bot status
-_Updated 26 Nov 2026, 07:05 AM IST by the bot._
+_Updated 26 Nov 2026, 04:55 PM IST by the bot._
 
 ## Targets
 | | Now | Target |
@@ -53,17 +53,17 @@ _Updated 26 Nov 2026, 07:05 AM IST by the bot._
 | विष्णु पुराण: कलियुग महाप्रलय | hi | main | done | 10/10 | ⏳ |
 
 ## Queue (next to make)
-short_poemreplicat_2, short_songbhajan_16, short_puranas_22, short_puranas_21, short_puranas_20, short_puranas_19, short_puranas_18, short_epics_26, short_epics_25, short_epics_24, short_epics_23, short_epics_22
+short_puranas_22, short_puranas_21, short_puranas_20, short_puranas_19, short_epics_26, short_epics_25, short_epics_24, short_epics_23, short_epics_22, dashanan07, dashanan08, dashanan205
 
 ## Latest uploads
-- ramayana304_short2: https://youtu.be/j03lpSeVF4s
-- ramayana304_short1: https://youtu.be/L2keyLzhSU4
-- ramayana304: https://youtu.be/6Oy3YIWJadk
-- ramayana303_short2: https://youtu.be/e2-WJYrdiMI
-- ramayana303_short1: https://youtu.be/Cz9XercM3K8
-- ramayana303: https://youtu.be/s8tc-ZZ-2vk
-- short_epics_20_short1: https://youtu.be/WDaYFBRzJ_k
-- short_puranas_17_short1: https://youtu.be/cKFSzI_4r38
+- dashanan06_short2: https://youtu.be/55pdrkycGs0
+- dashanan06_short1: https://youtu.be/A_iAjmpzsHk
+- dashanan06: https://youtu.be/LwNnHO1FHCg
+- dashanan05_short2: https://youtu.be/SuDU0VNIQaE
+- dashanan05_short1: https://youtu.be/9AMnYfQA2ME
+- dashanan05: https://youtu.be/0DuzAn33shU
+- short_epics_21_short1: https://youtu.be/NvfpX4NZOY0
+- short_puranas_18_short1: https://youtu.be/A9hNo7hN_-s
 
 ## Titles the bot improved
 - 5 मिनट में बीते 29 करोड़ साल! ⏳ #shorts #mythology → **Bhagwan Vishnu ke 24 Avatar का 29 करोड़ साल का सच क्या है? ⏳ #shorts**
@@ -89,23 +89,34 @@ short_poemreplicat_2, short_songbhajan_16, short_puranas_22, short_puranas_21, s
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 10599 (public repo: no limit)
-- YouTube quota today (Pacific): 874 / 9,800
+- GitHub minutes this month: 10775 (public repo: no limit)
+- YouTube quota today (Pacific): 753 / 9,800
 
 ## This run
 ```
-26 Nov 07:02 AM IST] health ok | YouTube quota used today 759 | GitHub minutes this month 10594
-26 Nov 07:02 AM IST] pictures for short_poemreplicat_2
-26 Nov 07:02 AM IST] metadata short_poemreplicat_2
-26 Nov 07:02 AM IST] short_poemreplicat_2_short1: upload waits (10 uploads done today - rest upload after the reset)
-26 Nov 07:02 AM IST] pictures for short_songbhajan_16
-26 Nov 07:02 AM IST] pictures for short_puranas_18
-26 Nov 07:02 AM IST] pictures for short_epics_21
-26 Nov 07:02 AM IST] pictures for dashanan05
-26 Nov 07:02 AM IST] metadata dashanan05
-26 Nov 07:02 AM IST] pictures for lankadhi05
-26 Nov 07:02 AM IST] metadata lankadhi05
-26 Nov 07:02 AM IST] pictures for ramayana305
-26 Nov 07:02 AM IST] metadata ramayana305
-26 Nov 07:02 AM IST] queue worked through
+26 Nov 03:34 PM IST] standalone Short short_puranas_18 uploaded: https://youtu.be/A9hNo7hN_-s
+26 Nov 03:34 PM IST] short_puranas_18 complete
+26 Nov 03:34 PM IST] pictures for short_epics_21
+26 Nov 03:34 PM IST] metadata short_epics_21
+26 Nov 03:34 PM IST] standalone Short short_epics_21 uploaded: https://youtu.be/NvfpX4NZOY0
+26 Nov 03:34 PM IST] short_epics_21 complete
+26 Nov 03:34 PM IST] pictures for dashanan05
+26 Nov 03:34 PM IST] metadata dashanan05
+26 Nov 03:35 PM IST] metadata dashanan05
+26 Nov 03:36 PM IST] metadata dashanan05
+26 Nov 03:36 PM IST] dashanan05 complete
+26 Nov 03:36 PM IST] pictures for dashanan06
+26 Nov 03:37 PM IST] render dashanan06
+26 Nov 04:16 PM IST] dashanan06: the video reviewer fixed picture 'sahasrarjuna_sporting_water' made again; picture 'flood_washing_lingam' made again; picture 'dashananda_faceoff_sahasrarjuna' made again - rendering once more
+26 Nov 04:16 PM IST] pictures for dashanan06
+26 Nov 04:16 PM IST] render dashanan06
+26 Nov 04:46 PM IST] metadata dashanan06
+26 Nov 04:47 PM IST] render dashanan06_short1
+26 Nov 04:51 PM IST] metadata dashanan06
+26 Nov 04:51 PM IST] render dashanan06_short2
+26 Nov 04:53 PM IST] metadata dashanan06
+26 Nov 04:54 PM IST] dashanan06 complete
+26 Nov 04:54 PM IST] pictures for dashanan07
+26 Nov 04:54 PM IST] stopping for now: not enough time left in this run for the renders - continuing next run
+26 Nov 04:55 PM IST] weekly product video due but waiting: room=False hours_left=2.2
 ```
