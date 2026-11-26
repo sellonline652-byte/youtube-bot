@@ -1,5 +1,5 @@
 # 🤖 Video bot status
-_Updated 26 Nov 2026, 07:55 PM IST by the bot._
+_Updated 26 Nov 2026, 08:44 PM IST by the bot._
 
 ## Targets
 | | Now | Target |
@@ -53,7 +53,7 @@ _Updated 26 Nov 2026, 07:55 PM IST by the bot._
 | विष्णु पुराण: कलियुग महाप्रलय | hi | main | done | 10/10 | ⏳ |
 
 ## Queue (next to make)
-short_songbhajan_17, short_puranas_22, short_puranas_21, short_puranas_20, short_puranas_19, short_epics_26, short_epics_25, short_epics_24, short_epics_23, short_epics_22, dashanan07, dashanan08
+short_poemavatar_2, short_songbhajan_17, short_puranas_22, short_puranas_21, short_puranas_20, short_puranas_19, short_epics_26, short_epics_25, short_epics_24, short_epics_23, short_epics_22, dashanan07
 
 ## Latest uploads
 - dashanan06_short2: https://youtu.be/55pdrkycGs0
@@ -89,24 +89,22 @@ short_songbhajan_17, short_puranas_22, short_puranas_21, short_puranas_20, short
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 10955 (public repo: no limit)
-- YouTube quota today (Pacific): 819 / 9,800
+- GitHub minutes this month: 11003 (public repo: no limit)
+- YouTube quota today (Pacific): 835 / 9,800
 
 ## This run
 ```
-26 Nov 04:57 PM IST] health ok | YouTube quota used today 753 | GitHub minutes this month 10775
-26 Nov 05:50 PM IST] pictures for short_songbhajan_17
-26 Nov 05:55 PM IST] render short_songbhajan_17_short1
-26 Nov 06:03 PM IST] metadata short_songbhajan_17
-26 Nov 06:03 PM IST] short_songbhajan_17_short1: upload waits (10 uploads done today - rest upload after the reset)
-26 Nov 06:03 PM IST] pictures for dashanan07
-26 Nov 06:03 PM IST] render dashanan07
-26 Nov 06:57 PM IST] dashanan07: the video reviewer fixed picture 'raja_bali_golden_throne' made again; picture 'ravana_challenging_bali' made again; picture 'hiranyakashipu_earring_challenge' made again; picture 'dashananda_lifting_strain' made again; picture 'brahma_intervenes_cavern' made again - rendering once more
-26 Nov 06:57 PM IST] pictures for dashanan07
-26 Nov 07:05 PM IST] render dashanan07
-26 Nov 07:43 PM IST] metadata dashanan07
-26 Nov 07:43 PM IST] render dashanan07_short1
-26 Nov 07:49 PM IST] render dashanan07_short2
-26 Nov 07:55 PM IST] pictures for lankadhi05
-26 Nov 07:55 PM IST] stopping for now: not enough time left in this run for the renders - continuing next run
+26 Nov 07:58 PM IST] health ok | YouTube quota used today 819 | GitHub minutes this month 10955
+26 Nov 08:34 PM IST] pictures for short_poemavatar_2
+26 Nov 08:42 PM IST] render short_poemavatar_2_short1
+26 Nov 08:44 PM IST] metadata short_poemavatar_2
+26 Nov 08:44 PM IST] short_poemavatar_2_short1: upload waits (10 uploads done today - rest upload after the reset)
+26 Nov 08:44 PM IST] pictures for short_songbhajan_17
+26 Nov 08:44 PM IST] pictures for dashanan07
+26 Nov 08:44 PM IST] metadata dashanan07
+26 Nov 08:44 PM IST] pictures for lankadhi05
+26 Nov 08:44 PM IST] metadata lankadhi05
+26 Nov 08:44 PM IST] pictures for ramayana305
+26 Nov 08:44 PM IST] metadata ramayana305
+26 Nov 08:44 PM IST] queue worked through
 ```
