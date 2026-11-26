@@ -1,5 +1,5 @@
 # 🤖 Video bot status
-_Updated 26 Nov 2026, 08:44 PM IST by the bot._
+_Updated 26 Nov 2026, 10:51 PM IST by the bot._
 
 ## Targets
 | | Now | Target |
@@ -89,22 +89,21 @@ short_poemavatar_2, short_songbhajan_17, short_puranas_22, short_puranas_21, sho
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 11003 (public repo: no limit)
-- YouTube quota today (Pacific): 835 / 9,800
+- GitHub minutes this month: 11005 (public repo: no limit)
+- YouTube quota today (Pacific): 1101 / 9,800
 
 ## This run
 ```
-26 Nov 07:58 PM IST] health ok | YouTube quota used today 819 | GitHub minutes this month 10955
-26 Nov 08:34 PM IST] pictures for short_poemavatar_2
-26 Nov 08:42 PM IST] render short_poemavatar_2_short1
-26 Nov 08:44 PM IST] metadata short_poemavatar_2
-26 Nov 08:44 PM IST] short_poemavatar_2_short1: upload waits (10 uploads done today - rest upload after the reset)
-26 Nov 08:44 PM IST] pictures for short_songbhajan_17
-26 Nov 08:44 PM IST] pictures for dashanan07
-26 Nov 08:44 PM IST] metadata dashanan07
-26 Nov 08:44 PM IST] pictures for lankadhi05
-26 Nov 08:44 PM IST] metadata lankadhi05
-26 Nov 08:44 PM IST] pictures for ramayana305
-26 Nov 08:44 PM IST] metadata ramayana305
-26 Nov 08:44 PM IST] queue worked through
+26 Nov 10:51 PM IST] health ok | YouTube quota used today 835 | GitHub minutes this month 11003
+26 Nov 10:51 PM IST] pictures for short_poemavatar_2
+26 Nov 10:51 PM IST] metadata short_poemavatar_2
+26 Nov 10:51 PM IST] short_poemavatar_2_short1: upload waits (10 uploads done today - rest upload after the reset)
+26 Nov 10:51 PM IST] pictures for short_songbhajan_17
+26 Nov 10:51 PM IST] pictures for dashanan07
+26 Nov 10:51 PM IST] metadata dashanan07
+26 Nov 10:51 PM IST] pictures for lankadhi05
+26 Nov 10:51 PM IST] metadata lankadhi05
+26 Nov 10:51 PM IST] pictures for ramayana305
+26 Nov 10:51 PM IST] metadata ramayana305
+26 Nov 10:51 PM IST] queue worked through
 ```
