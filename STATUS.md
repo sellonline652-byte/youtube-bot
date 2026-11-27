@@ -1,5 +1,5 @@
 # 🤖 Video bot status
-_Updated 27 Nov 2026, 06:10 PM IST by the bot._
+_Updated 28 Nov 2026, 12:54 AM IST by the bot._
 
 ## Targets
 | | Now | Target |
@@ -53,7 +53,7 @@ _Updated 27 Nov 2026, 06:10 PM IST by the bot._
 | विष्णु पुराण: कलियुग महाप्रलय | hi | main | done | 10/10 | ⏳ |
 
 ## Queue (next to make)
-short_songhymn_6, short_puranas_22, short_puranas_21, short_puranas_20, short_epics_26, short_epics_25, short_epics_24, short_epics_23, dashanan205, dashanan206, dashanan207, dashanan208
+short_poemblindfol_2, short_songhymn_6, short_puranas_22, short_puranas_21, short_puranas_20, short_epics_26, short_epics_25, short_epics_24, short_epics_23, dashanan205, dashanan206, dashanan207
 
 ## Latest uploads
 - dashanan08_short2: https://youtu.be/Jo37eBOyzdg
@@ -73,13 +73,13 @@ short_songhymn_6, short_puranas_22, short_puranas_21, short_puranas_20, short_ep
 - NASA हैरान: हनुमान जी का प्राचीन गणित! ☀️ #shorts #mythology #facts → **क्या हनुमान जी का गणित सच था? Vishnu Ke 24 Avatar ☀️ #shorts**
 
 ## Promotion Shorts (unlisted, for paid ads)
+- 2026-11-28: promotion for the series 'विष्णु पुराण: कलियुग महाप्रलय' (विष्णु पुराण - uploads when an upload is free
 - 2026-11-27: promotion for the series 'द वेल क्रैक्स: महाप्रलय' (The Veil Cracks (E - uploads when an upload is free
 - 2026-11-26: promotion for the series 'लकापति: रावण का उदय और पतन' (Valmiki Ramayan - uploads when an upload is free
 - 2026-11-25: promotion for the series 'मर्यादा पुरुषोत्तम: राम और रावण की गाथा' (Va - uploads when an upload is free
 - 2026-11-24: promotion for the series 'ऋणानुबंध: रावण और राम' (Valmiki Ramayana and - uploads when an upload is free
 - 2026-11-23: promotion for the series 'रावण: ब्रह्मांड का अधिनायक' (Valmiki Ramayan - uploads when an upload is free
 - 2026-11-22: promotion for the series 'रावण: महाशक्ति का उदय और पतन' (Valmiki Ramay - uploads when an upload is free
-- 2026-11-21: promotion for the series 'दशानन: धर्म, अहंकार और महासंग्राम' (Valmiki  - uploads when an upload is free
 
 ## Sponsorship outreach (weekly)
 - 2026-10-26: 1 new companies stored (not emailed - growing first), 1 stored in total
@@ -89,21 +89,30 @@ short_songhymn_6, short_puranas_22, short_puranas_21, short_puranas_20, short_ep
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 11414 (public repo: no limit)
-- YouTube quota today (Pacific): 672 / 9,800
+- GitHub minutes this month: 11537 (public repo: no limit)
+- YouTube quota today (Pacific): 814 / 9,800
 
 ## This run
 ```
-27 Nov 05:27 PM IST] health ok | YouTube quota used today 656 | GitHub minutes this month 11369
-27 Nov 05:58 PM IST] pictures for short_songhymn_6
-27 Nov 06:06 PM IST] render short_songhymn_6_short1
-27 Nov 06:10 PM IST] metadata short_songhymn_6
-27 Nov 06:10 PM IST] short_songhymn_6_short1: upload waits (10 uploads done today - rest upload after the reset)
-27 Nov 06:10 PM IST] pictures for dashanan205
-27 Nov 06:10 PM IST] metadata dashanan205
-27 Nov 06:10 PM IST] pictures for lankadhi05
-27 Nov 06:10 PM IST] metadata lankadhi05
-27 Nov 06:10 PM IST] pictures for ramayana305
-27 Nov 06:10 PM IST] metadata ramayana305
-27 Nov 06:10 PM IST] queue worked through
+27 Nov 10:53 PM IST] health ok | YouTube quota used today 672 | GitHub minutes this month 11414
+27 Nov 11:52 PM IST] pictures for short_poemblindfol_2
+27 Nov 11:59 PM IST] render short_poemblindfol_2_short1
+28 Nov 12:01 AM IST] metadata short_poemblindfol_2
+28 Nov 12:01 AM IST] short_poemblindfol_2_short1: upload waits (10 uploads done today - rest upload after the reset)
+28 Nov 12:01 AM IST] pictures for short_songhymn_6
+28 Nov 12:01 AM IST] pictures for short_puranas_20
+28 Nov 12:05 AM IST] render short_puranas_20_short1
+28 Nov 12:08 AM IST] pictures for short_epics_23
+28 Nov 12:13 AM IST] render short_epics_23_short1
+28 Nov 12:16 AM IST] pictures for dashanan205
+28 Nov 12:16 AM IST] metadata dashanan205
+28 Nov 12:16 AM IST] pictures for lankadhi05
+28 Nov 12:16 AM IST] metadata lankadhi05
+28 Nov 12:16 AM IST] pictures for ramayana305
+28 Nov 12:16 AM IST] metadata ramayana305
+28 Nov 12:16 AM IST] queue worked through
+28 Nov 12:42 AM IST] pictures for short_promoapocaly_2
+28 Nov 12:48 AM IST] render short_promoapocaly_2_short1
+28 Nov 12:50 AM IST] metadata short_promoapocaly_2
+28 Nov 12:50 AM IST] promotion Short made: promotion for the series 'विष्णु पुराण: कलियुग महाप्रलय' (वि - uploads when an upload is free
 ```
