@@ -1,12 +1,12 @@
 # 🤖 Video bot status
-_Updated 26 Nov 2026, 10:51 PM IST by the bot._
+_Updated 27 Nov 2026, 09:33 AM IST by the bot._
 
 ## Targets
 | | Now | Target |
 |---|---|---|
-| Watch hours / day (28-day avg) | 0.85 | 10.0 |
-| New subscribers / day | 0.0 | 3.0 |
-| Watch hours, last 12 months (4,000 for monetization) | 324.0 | 4000 |
+| Watch hours / day (28-day avg) | 0.91 | 10.0 |
+| New subscribers / day | -0.04 | 3.0 |
+| Watch hours, last 12 months (4,000 for monetization) | 326.9 | 4000 |
 
 ## Series
 | Series | Language | Channel | Status | Written | Movie |
@@ -73,13 +73,13 @@ short_poemavatar_2, short_songbhajan_17, short_puranas_22, short_puranas_21, sho
 - NASA हैरान: हनुमान जी का प्राचीन गणित! ☀️ #shorts #mythology #facts → **क्या हनुमान जी का गणित सच था? Vishnu Ke 24 Avatar ☀️ #shorts**
 
 ## Promotion Shorts (unlisted, for paid ads)
+- 2026-11-27: promotion for the series 'द वेल क्रैक्स: महाप्रलय' (The Veil Cracks (E - uploads when an upload is free
 - 2026-11-26: promotion for the series 'लकापति: रावण का उदय और पतन' (Valmiki Ramayan - uploads when an upload is free
 - 2026-11-25: promotion for the series 'मर्यादा पुरुषोत्तम: राम और रावण की गाथा' (Va - uploads when an upload is free
 - 2026-11-24: promotion for the series 'ऋणानुबंध: रावण और राम' (Valmiki Ramayana and - uploads when an upload is free
 - 2026-11-23: promotion for the series 'रावण: ब्रह्मांड का अधिनायक' (Valmiki Ramayan - uploads when an upload is free
 - 2026-11-22: promotion for the series 'रावण: महाशक्ति का उदय और पतन' (Valmiki Ramay - uploads when an upload is free
 - 2026-11-21: promotion for the series 'दशानन: धर्म, अहंकार और महासंग्राम' (Valmiki  - uploads when an upload is free
-- 2026-11-20: promotion for the series 'मर्यादा पुरुषोत्तम: दशानन का उदय और पतन' (Va - uploads when an upload is free
 
 ## Sponsorship outreach (weekly)
 - 2026-10-26: 1 new companies stored (not emailed - growing first), 1 stored in total
@@ -89,21 +89,29 @@ short_poemavatar_2, short_songbhajan_17, short_puranas_22, short_puranas_21, sho
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 11005 (public repo: no limit)
-- YouTube quota today (Pacific): 1101 / 9,800
+- GitHub minutes this month: 11159 (public repo: no limit)
+- YouTube quota today (Pacific): 1248 / 9,800
 
 ## This run
 ```
-26 Nov 10:51 PM IST] health ok | YouTube quota used today 835 | GitHub minutes this month 11003
-26 Nov 10:51 PM IST] pictures for short_poemavatar_2
-26 Nov 10:51 PM IST] metadata short_poemavatar_2
-26 Nov 10:51 PM IST] short_poemavatar_2_short1: upload waits (10 uploads done today - rest upload after the reset)
-26 Nov 10:51 PM IST] pictures for short_songbhajan_17
-26 Nov 10:51 PM IST] pictures for dashanan07
-26 Nov 10:51 PM IST] metadata dashanan07
-26 Nov 10:51 PM IST] pictures for lankadhi05
-26 Nov 10:51 PM IST] metadata lankadhi05
-26 Nov 10:51 PM IST] pictures for ramayana305
-26 Nov 10:51 PM IST] metadata ramayana305
-26 Nov 10:51 PM IST] queue worked through
+27 Nov 07:07 AM IST] health ok | YouTube quota used today 1101 | GitHub minutes this month 11005
+27 Nov 08:24 AM IST] pictures for short_poemavatar_2
+27 Nov 08:24 AM IST] metadata short_poemavatar_2
+27 Nov 08:24 AM IST] short_poemavatar_2_short1: upload waits (10 uploads done today - rest upload after the reset)
+27 Nov 08:24 AM IST] pictures for short_songbhajan_17
+27 Nov 08:24 AM IST] pictures for short_puranas_19
+27 Nov 08:34 AM IST] render short_puranas_19_short1
+27 Nov 08:36 AM IST] pictures for short_epics_22
+27 Nov 08:43 AM IST] render short_epics_22_short1
+27 Nov 08:46 AM IST] pictures for dashanan07
+27 Nov 08:46 AM IST] metadata dashanan07
+27 Nov 08:46 AM IST] pictures for lankadhi05
+27 Nov 08:46 AM IST] metadata lankadhi05
+27 Nov 08:46 AM IST] pictures for ramayana305
+27 Nov 08:46 AM IST] metadata ramayana305
+27 Nov 08:46 AM IST] queue worked through
+27 Nov 09:13 AM IST] pictures for short_promoapocaly_1
+27 Nov 09:23 AM IST] render short_promoapocaly_1_short1
+27 Nov 09:26 AM IST] metadata short_promoapocaly_1
+27 Nov 09:26 AM IST] promotion Short made: promotion for the series 'द वेल क्रैक्स: महाप्रलय' (The Veil - uploads when an upload is free
 ```
