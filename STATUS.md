@@ -1,5 +1,5 @@
 # 🤖 Video bot status
-_Updated 27 Nov 2026, 09:33 AM IST by the bot._
+_Updated 27 Nov 2026, 05:23 PM IST by the bot._
 
 ## Targets
 | | Now | Target |
@@ -53,17 +53,17 @@ _Updated 27 Nov 2026, 09:33 AM IST by the bot._
 | विष्णु पुराण: कलियुग महाप्रलय | hi | main | done | 10/10 | ⏳ |
 
 ## Queue (next to make)
-short_poemavatar_2, short_songbhajan_17, short_puranas_22, short_puranas_21, short_puranas_20, short_puranas_19, short_epics_26, short_epics_25, short_epics_24, short_epics_23, short_epics_22, dashanan07
+short_puranas_22, short_puranas_21, short_puranas_20, short_epics_26, short_epics_25, short_epics_24, short_epics_23, dashanan205, dashanan206, dashanan207, dashanan208, lankadhi05
 
 ## Latest uploads
-- dashanan06_short2: https://youtu.be/55pdrkycGs0
-- dashanan06_short1: https://youtu.be/A_iAjmpzsHk
-- dashanan06: https://youtu.be/LwNnHO1FHCg
-- dashanan05_short2: https://youtu.be/SuDU0VNIQaE
-- dashanan05_short1: https://youtu.be/9AMnYfQA2ME
-- dashanan05: https://youtu.be/0DuzAn33shU
-- short_epics_21_short1: https://youtu.be/NvfpX4NZOY0
-- short_puranas_18_short1: https://youtu.be/A9hNo7hN_-s
+- dashanan08_short2: https://youtu.be/Jo37eBOyzdg
+- dashanan08_short1: https://youtu.be/iEcq85Z8X_o
+- dashanan08: https://youtu.be/n2IWqT7YkxM
+- dashanan07_short2: https://youtu.be/8-VFNXeeHlU
+- dashanan07_short1: https://youtu.be/14W5K1eip5o
+- dashanan07: https://youtu.be/obchjwko3is
+- short_epics_22_short1: https://youtu.be/rvAgsAyU6mY
+- short_puranas_19_short1: https://youtu.be/cjIGQFPh3Qk
 
 ## Titles the bot improved
 - 5 मिनट में बीते 29 करोड़ साल! ⏳ #shorts #mythology → **Bhagwan Vishnu ke 24 Avatar का 29 करोड़ साल का सच क्या है? ⏳ #shorts**
@@ -89,29 +89,34 @@ short_poemavatar_2, short_songbhajan_17, short_puranas_22, short_puranas_21, sho
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 11159 (public repo: no limit)
-- YouTube quota today (Pacific): 1248 / 9,800
+- GitHub minutes this month: 11369 (public repo: no limit)
+- YouTube quota today (Pacific): 656 / 9,800
 
 ## This run
 ```
-27 Nov 07:07 AM IST] health ok | YouTube quota used today 1101 | GitHub minutes this month 11005
-27 Nov 08:24 AM IST] pictures for short_poemavatar_2
-27 Nov 08:24 AM IST] metadata short_poemavatar_2
-27 Nov 08:24 AM IST] short_poemavatar_2_short1: upload waits (10 uploads done today - rest upload after the reset)
-27 Nov 08:24 AM IST] pictures for short_songbhajan_17
-27 Nov 08:24 AM IST] pictures for short_puranas_19
-27 Nov 08:34 AM IST] render short_puranas_19_short1
-27 Nov 08:36 AM IST] pictures for short_epics_22
-27 Nov 08:43 AM IST] render short_epics_22_short1
-27 Nov 08:46 AM IST] pictures for dashanan07
-27 Nov 08:46 AM IST] metadata dashanan07
-27 Nov 08:46 AM IST] pictures for lankadhi05
-27 Nov 08:46 AM IST] metadata lankadhi05
-27 Nov 08:46 AM IST] pictures for ramayana305
-27 Nov 08:46 AM IST] metadata ramayana305
-27 Nov 08:46 AM IST] queue worked through
-27 Nov 09:13 AM IST] pictures for short_promoapocaly_1
-27 Nov 09:23 AM IST] render short_promoapocaly_1_short1
-27 Nov 09:26 AM IST] metadata short_promoapocaly_1
-27 Nov 09:26 AM IST] promotion Short made: promotion for the series 'द वेल क्रैक्स: महाप्रलय' (The Veil - uploads when an upload is free
+27 Nov 02:02 PM IST] metadata dashanan07
+27 Nov 02:03 PM IST] metadata dashanan07
+27 Nov 02:04 PM IST] metadata dashanan07
+27 Nov 02:05 PM IST] dashanan07 complete
+27 Nov 02:05 PM IST] pictures for dashanan08
+27 Nov 02:41 PM IST] render dashanan08
+27 Nov 03:17 PM IST] dashanan08: the video reviewer fixed face in 'monkey_shadow_omen' stays still - rendering once more
+27 Nov 03:17 PM IST] render dashanan08
+27 Nov 03:45 PM IST] metadata dashanan08
+27 Nov 03:46 PM IST] render dashanan08_short1
+27 Nov 03:50 PM IST] metadata dashanan08
+27 Nov 03:53 PM IST] render dashanan08_short2
+27 Nov 03:57 PM IST] metadata dashanan08
+27 Nov 03:58 PM IST] dashanan08 complete
+27 Nov 03:58 PM IST] pictures for dashanan205
+27 Nov 03:59 PM IST] render dashanan205
+27 Nov 04:37 PM IST] dashanan205: the video reviewer fixed picture 'dasharatha_kneels_vashistha' made again; face in 'yajnapurusha_speaks_boon' stays still - rendering once more
+27 Nov 04:37 PM IST] pictures for dashanan205
+27 Nov 04:37 PM IST] render dashanan205
+27 Nov 05:09 PM IST] metadata dashanan205
+27 Nov 05:09 PM IST] YouTube quota used up (10 uploads done today - rest upload after the reset) - rendering continues, uploads next run
+27 Nov 05:09 PM IST] render dashanan205_short1
+27 Nov 05:13 PM IST] render dashanan205_short2
+27 Nov 05:19 PM IST] pictures for lankadhi05
+27 Nov 05:19 PM IST] stopping for now: not enough time left in this run for the renders - continuing next run
 ```
