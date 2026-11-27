@@ -1,5 +1,5 @@
 # 🤖 Video bot status
-_Updated 27 Nov 2026, 05:23 PM IST by the bot._
+_Updated 27 Nov 2026, 06:10 PM IST by the bot._
 
 ## Targets
 | | Now | Target |
@@ -53,7 +53,7 @@ _Updated 27 Nov 2026, 05:23 PM IST by the bot._
 | विष्णु पुराण: कलियुग महाप्रलय | hi | main | done | 10/10 | ⏳ |
 
 ## Queue (next to make)
-short_puranas_22, short_puranas_21, short_puranas_20, short_epics_26, short_epics_25, short_epics_24, short_epics_23, dashanan205, dashanan206, dashanan207, dashanan208, lankadhi05
+short_songhymn_6, short_puranas_22, short_puranas_21, short_puranas_20, short_epics_26, short_epics_25, short_epics_24, short_epics_23, dashanan205, dashanan206, dashanan207, dashanan208
 
 ## Latest uploads
 - dashanan08_short2: https://youtu.be/Jo37eBOyzdg
@@ -89,34 +89,21 @@ short_puranas_22, short_puranas_21, short_puranas_20, short_epics_26, short_epic
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 11369 (public repo: no limit)
-- YouTube quota today (Pacific): 656 / 9,800
+- GitHub minutes this month: 11414 (public repo: no limit)
+- YouTube quota today (Pacific): 672 / 9,800
 
 ## This run
 ```
-27 Nov 02:02 PM IST] metadata dashanan07
-27 Nov 02:03 PM IST] metadata dashanan07
-27 Nov 02:04 PM IST] metadata dashanan07
-27 Nov 02:05 PM IST] dashanan07 complete
-27 Nov 02:05 PM IST] pictures for dashanan08
-27 Nov 02:41 PM IST] render dashanan08
-27 Nov 03:17 PM IST] dashanan08: the video reviewer fixed face in 'monkey_shadow_omen' stays still - rendering once more
-27 Nov 03:17 PM IST] render dashanan08
-27 Nov 03:45 PM IST] metadata dashanan08
-27 Nov 03:46 PM IST] render dashanan08_short1
-27 Nov 03:50 PM IST] metadata dashanan08
-27 Nov 03:53 PM IST] render dashanan08_short2
-27 Nov 03:57 PM IST] metadata dashanan08
-27 Nov 03:58 PM IST] dashanan08 complete
-27 Nov 03:58 PM IST] pictures for dashanan205
-27 Nov 03:59 PM IST] render dashanan205
-27 Nov 04:37 PM IST] dashanan205: the video reviewer fixed picture 'dasharatha_kneels_vashistha' made again; face in 'yajnapurusha_speaks_boon' stays still - rendering once more
-27 Nov 04:37 PM IST] pictures for dashanan205
-27 Nov 04:37 PM IST] render dashanan205
-27 Nov 05:09 PM IST] metadata dashanan205
-27 Nov 05:09 PM IST] YouTube quota used up (10 uploads done today - rest upload after the reset) - rendering continues, uploads next run
-27 Nov 05:09 PM IST] render dashanan205_short1
-27 Nov 05:13 PM IST] render dashanan205_short2
-27 Nov 05:19 PM IST] pictures for lankadhi05
-27 Nov 05:19 PM IST] stopping for now: not enough time left in this run for the renders - continuing next run
+27 Nov 05:27 PM IST] health ok | YouTube quota used today 656 | GitHub minutes this month 11369
+27 Nov 05:58 PM IST] pictures for short_songhymn_6
+27 Nov 06:06 PM IST] render short_songhymn_6_short1
+27 Nov 06:10 PM IST] metadata short_songhymn_6
+27 Nov 06:10 PM IST] short_songhymn_6_short1: upload waits (10 uploads done today - rest upload after the reset)
+27 Nov 06:10 PM IST] pictures for dashanan205
+27 Nov 06:10 PM IST] metadata dashanan205
+27 Nov 06:10 PM IST] pictures for lankadhi05
+27 Nov 06:10 PM IST] metadata lankadhi05
+27 Nov 06:10 PM IST] pictures for ramayana305
+27 Nov 06:10 PM IST] metadata ramayana305
+27 Nov 06:10 PM IST] queue worked through
 ```
