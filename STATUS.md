@@ -1,5 +1,5 @@
 # 🤖 Video bot status
-_Updated 28 Nov 2026, 07:53 AM IST by the bot._
+_Updated 28 Nov 2026, 03:54 PM IST by the bot._
 
 ## Targets
 | | Now | Target |
@@ -53,17 +53,17 @@ _Updated 28 Nov 2026, 07:53 AM IST by the bot._
 | विष्णु पुराण: कलियुग महाप्रलय | hi | main | done | 10/10 | ⏳ |
 
 ## Queue (next to make)
-short_poemblindfol_2, short_songhymn_6, short_puranas_22, short_puranas_21, short_puranas_20, short_epics_26, short_epics_25, short_epics_24, short_epics_23, dashanan205, dashanan206, dashanan207
+short_puranas_22, short_puranas_21, short_epics_26, short_epics_25, short_epics_24, dashanan207, dashanan208, lankadhi05, lankadhi06, lankadhi07, lankadhi08, ramayana305
 
 ## Latest uploads
-- dashanan08_short2: https://youtu.be/Jo37eBOyzdg
-- dashanan08_short1: https://youtu.be/iEcq85Z8X_o
-- dashanan08: https://youtu.be/n2IWqT7YkxM
-- dashanan07_short2: https://youtu.be/8-VFNXeeHlU
-- dashanan07_short1: https://youtu.be/14W5K1eip5o
-- dashanan07: https://youtu.be/obchjwko3is
-- short_epics_22_short1: https://youtu.be/rvAgsAyU6mY
-- short_puranas_19_short1: https://youtu.be/cjIGQFPh3Qk
+- dashanan206_short2: https://youtu.be/Mo1m4Vx8RjA
+- dashanan206_short1: https://youtu.be/-gbimV1mZQo
+- dashanan206: https://youtu.be/JNrq1baqW1g
+- dashanan205_short2: https://youtu.be/hkBNOHw-MOQ
+- dashanan205_short1: https://youtu.be/ebWumcbXy3g
+- dashanan205: https://youtu.be/DLs9Vbo4-dw
+- short_epics_23_short1: https://youtu.be/2zrXwztLNb4
+- short_puranas_20_short1: https://youtu.be/Wxa5gWfH1JA
 
 ## Titles the bot improved
 - टाइम डिलेशन? प्राचीन भारतीय विज्ञान 🌌 #shorts #IndianMythology → **क्या विष्णु के 24 अवतार में टाइम डिलेशन का रहस्य है? 🌌 #shorts**
@@ -89,23 +89,34 @@ short_poemblindfol_2, short_songhymn_6, short_puranas_22, short_puranas_21, shor
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 11548 (public repo: no limit)
-- YouTube quota today (Pacific): 946 / 9,800
+- GitHub minutes this month: 11680 (public repo: no limit)
+- YouTube quota today (Pacific): 806 / 9,800
 
 ## This run
 ```
-28 Nov 07:48 AM IST] health ok | YouTube quota used today 930 | GitHub minutes this month 11541
-28 Nov 07:53 AM IST] pictures for short_poemblindfol_2
-28 Nov 07:53 AM IST] metadata short_poemblindfol_2
-28 Nov 07:53 AM IST] short_poemblindfol_2_short1: upload waits (10 uploads done today - rest upload after the reset)
-28 Nov 07:53 AM IST] pictures for short_songhymn_6
-28 Nov 07:53 AM IST] pictures for short_puranas_20
-28 Nov 07:53 AM IST] pictures for short_epics_23
-28 Nov 07:53 AM IST] pictures for dashanan205
-28 Nov 07:53 AM IST] metadata dashanan205
-28 Nov 07:53 AM IST] pictures for lankadhi05
-28 Nov 07:53 AM IST] metadata lankadhi05
-28 Nov 07:53 AM IST] pictures for ramayana305
-28 Nov 07:53 AM IST] metadata ramayana305
-28 Nov 07:53 AM IST] queue worked through
+28 Nov 01:49 PM IST] metadata dashanan205
+28 Nov 01:49 PM IST] metadata dashanan205
+28 Nov 01:49 PM IST] dashanan205 complete
+28 Nov 01:49 PM IST] pictures for dashanan206
+28 Nov 01:50 PM IST] render dashanan206
+28 Nov 02:24 PM IST] dashanan206: the video reviewer fixed picture 'queen_kaikeyi_eager' made again - rendering once more
+28 Nov 02:24 PM IST] pictures for dashanan206
+28 Nov 02:24 PM IST] render dashanan206
+28 Nov 02:53 PM IST] metadata dashanan206
+28 Nov 02:54 PM IST] render dashanan206_short1
+28 Nov 03:00 PM IST] metadata dashanan206
+28 Nov 03:01 PM IST] render dashanan206_short2
+28 Nov 03:08 PM IST] metadata dashanan206
+28 Nov 03:08 PM IST] dashanan206 complete
+28 Nov 03:08 PM IST] pictures for dashanan207
+28 Nov 03:09 PM IST] render dashanan207
+28 Nov 03:42 PM IST] metadata dashanan207
+28 Nov 03:42 PM IST] YouTube quota used up (10 uploads done today - rest upload after the reset) - rendering continues, uploads next run
+28 Nov 03:42 PM IST] render dashanan207_short1
+28 Nov 03:46 PM IST] render dashanan207_short2
+28 Nov 03:53 PM IST] pictures for lankadhi05
+28 Nov 03:53 PM IST] metadata lankadhi05
+28 Nov 03:53 PM IST] pictures for ramayana305
+28 Nov 03:53 PM IST] metadata ramayana305
+28 Nov 03:53 PM IST] queue worked through
 ```
