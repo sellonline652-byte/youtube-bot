@@ -1,5 +1,5 @@
 # 🤖 Video bot status
-_Updated 28 Nov 2026, 03:54 PM IST by the bot._
+_Updated 28 Nov 2026, 04:42 PM IST by the bot._
 
 ## Targets
 | | Now | Target |
@@ -53,7 +53,7 @@ _Updated 28 Nov 2026, 03:54 PM IST by the bot._
 | विष्णु पुराण: कलियुग महाप्रलय | hi | main | done | 10/10 | ⏳ |
 
 ## Queue (next to make)
-short_puranas_22, short_puranas_21, short_epics_26, short_epics_25, short_epics_24, dashanan207, dashanan208, lankadhi05, lankadhi06, lankadhi07, lankadhi08, ramayana305
+short_songkalki_3, short_puranas_22, short_puranas_21, short_epics_26, short_epics_25, short_epics_24, dashanan207, dashanan208, lankadhi05, lankadhi06, lankadhi07, lankadhi08
 
 ## Latest uploads
 - dashanan206_short2: https://youtu.be/Mo1m4Vx8RjA
@@ -89,34 +89,21 @@ short_puranas_22, short_puranas_21, short_epics_26, short_epics_25, short_epics_
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 11680 (public repo: no limit)
-- YouTube quota today (Pacific): 806 / 9,800
+- GitHub minutes this month: 11727 (public repo: no limit)
+- YouTube quota today (Pacific): 872 / 9,800
 
 ## This run
 ```
-28 Nov 01:49 PM IST] metadata dashanan205
-28 Nov 01:49 PM IST] metadata dashanan205
-28 Nov 01:49 PM IST] dashanan205 complete
-28 Nov 01:49 PM IST] pictures for dashanan206
-28 Nov 01:50 PM IST] render dashanan206
-28 Nov 02:24 PM IST] dashanan206: the video reviewer fixed picture 'queen_kaikeyi_eager' made again - rendering once more
-28 Nov 02:24 PM IST] pictures for dashanan206
-28 Nov 02:24 PM IST] render dashanan206
-28 Nov 02:53 PM IST] metadata dashanan206
-28 Nov 02:54 PM IST] render dashanan206_short1
-28 Nov 03:00 PM IST] metadata dashanan206
-28 Nov 03:01 PM IST] render dashanan206_short2
-28 Nov 03:08 PM IST] metadata dashanan206
-28 Nov 03:08 PM IST] dashanan206 complete
-28 Nov 03:08 PM IST] pictures for dashanan207
-28 Nov 03:09 PM IST] render dashanan207
-28 Nov 03:42 PM IST] metadata dashanan207
-28 Nov 03:42 PM IST] YouTube quota used up (10 uploads done today - rest upload after the reset) - rendering continues, uploads next run
-28 Nov 03:42 PM IST] render dashanan207_short1
-28 Nov 03:46 PM IST] render dashanan207_short2
-28 Nov 03:53 PM IST] pictures for lankadhi05
-28 Nov 03:53 PM IST] metadata lankadhi05
-28 Nov 03:53 PM IST] pictures for ramayana305
-28 Nov 03:53 PM IST] metadata ramayana305
-28 Nov 03:53 PM IST] queue worked through
+28 Nov 03:56 PM IST] health ok | YouTube quota used today 806 | GitHub minutes this month 11680
+28 Nov 04:30 PM IST] pictures for short_songkalki_3
+28 Nov 04:38 PM IST] render short_songkalki_3_short1
+28 Nov 04:42 PM IST] metadata short_songkalki_3
+28 Nov 04:42 PM IST] short_songkalki_3_short1: upload waits (10 uploads done today - rest upload after the reset)
+28 Nov 04:42 PM IST] pictures for dashanan207
+28 Nov 04:42 PM IST] metadata dashanan207
+28 Nov 04:42 PM IST] pictures for lankadhi05
+28 Nov 04:42 PM IST] metadata lankadhi05
+28 Nov 04:42 PM IST] pictures for ramayana305
+28 Nov 04:42 PM IST] metadata ramayana305
+28 Nov 04:42 PM IST] queue worked through
 ```
