@@ -1,5 +1,5 @@
 # 🤖 Video bot status
-_Updated 28 Nov 2026, 07:05 AM IST by the bot._
+_Updated 28 Nov 2026, 07:53 AM IST by the bot._
 
 ## Targets
 | | Now | Target |
@@ -89,23 +89,23 @@ short_poemblindfol_2, short_songhymn_6, short_puranas_22, short_puranas_21, shor
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 11541 (public repo: no limit)
-- YouTube quota today (Pacific): 930 / 9,800
+- GitHub minutes this month: 11548 (public repo: no limit)
+- YouTube quota today (Pacific): 946 / 9,800
 
 ## This run
 ```
-28 Nov 07:02 AM IST] health ok | YouTube quota used today 814 | GitHub minutes this month 11537
-28 Nov 07:04 AM IST] pictures for short_poemblindfol_2
-28 Nov 07:04 AM IST] metadata short_poemblindfol_2
-28 Nov 07:04 AM IST] short_poemblindfol_2_short1: upload waits (10 uploads done today - rest upload after the reset)
-28 Nov 07:04 AM IST] pictures for short_songhymn_6
-28 Nov 07:04 AM IST] pictures for short_puranas_20
-28 Nov 07:04 AM IST] pictures for short_epics_23
-28 Nov 07:04 AM IST] pictures for dashanan205
-28 Nov 07:04 AM IST] metadata dashanan205
-28 Nov 07:04 AM IST] pictures for lankadhi05
-28 Nov 07:04 AM IST] metadata lankadhi05
-28 Nov 07:04 AM IST] pictures for ramayana305
-28 Nov 07:04 AM IST] metadata ramayana305
-28 Nov 07:04 AM IST] queue worked through
+28 Nov 07:48 AM IST] health ok | YouTube quota used today 930 | GitHub minutes this month 11541
+28 Nov 07:53 AM IST] pictures for short_poemblindfol_2
+28 Nov 07:53 AM IST] metadata short_poemblindfol_2
+28 Nov 07:53 AM IST] short_poemblindfol_2_short1: upload waits (10 uploads done today - rest upload after the reset)
+28 Nov 07:53 AM IST] pictures for short_songhymn_6
+28 Nov 07:53 AM IST] pictures for short_puranas_20
+28 Nov 07:53 AM IST] pictures for short_epics_23
+28 Nov 07:53 AM IST] pictures for dashanan205
+28 Nov 07:53 AM IST] metadata dashanan205
+28 Nov 07:53 AM IST] pictures for lankadhi05
+28 Nov 07:53 AM IST] metadata lankadhi05
+28 Nov 07:53 AM IST] pictures for ramayana305
+28 Nov 07:53 AM IST] metadata ramayana305
+28 Nov 07:53 AM IST] queue worked through
 ```
