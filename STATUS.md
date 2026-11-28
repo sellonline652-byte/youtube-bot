@@ -1,12 +1,12 @@
 # 🤖 Video bot status
-_Updated 28 Nov 2026, 12:54 AM IST by the bot._
+_Updated 28 Nov 2026, 07:05 AM IST by the bot._
 
 ## Targets
 | | Now | Target |
 |---|---|---|
-| Watch hours / day (28-day avg) | 0.91 | 10.0 |
+| Watch hours / day (28-day avg) | 0.94 | 10.0 |
 | New subscribers / day | -0.04 | 3.0 |
-| Watch hours, last 12 months (4,000 for monetization) | 326.9 | 4000 |
+| Watch hours, last 12 months (4,000 for monetization) | 328.4 | 4000 |
 
 ## Series
 | Series | Language | Channel | Status | Written | Movie |
@@ -66,11 +66,11 @@ short_poemblindfol_2, short_songhymn_6, short_puranas_22, short_puranas_21, shor
 - short_puranas_19_short1: https://youtu.be/cjIGQFPh3Qk
 
 ## Titles the bot improved
-- 5 मिनट में बीते 29 करोड़ साल! ⏳ #shorts #mythology → **Bhagwan Vishnu ke 24 Avatar का 29 करोड़ साल का सच क्या है? ⏳ #shorts**
-- श्रीकृष्ण के मुंह में पूरा ब्रह्मांड! 🌌 #shorts #krishna #mythology → **यशोदा ने कान्हा के मुंह में क्या देखा? 🌌 Vishnu Ke 24 Avatar #shorts**
 - टाइम डिलेशन? प्राचीन भारतीय विज्ञान 🌌 #shorts #IndianMythology → **क्या विष्णु के 24 अवतार में टाइम डिलेशन का रहस्य है? 🌌 #shorts**
 - 1 मिनट में महाभारत खत्म करने वाला योद्धा 🏹 #shorts #mythology #mahabharata → **कौन था 1 मिनट में महाभारत खत्म करने वाला योद्धा? 🏹 #shorts**
 - NASA हैरान: हनुमान जी का प्राचीन गणित! ☀️ #shorts #mythology #facts → **क्या हनुमान जी का गणित सच था? Vishnu Ke 24 Avatar ☀️ #shorts**
+- महाभारत का प्राचीन परमाणु बम! 💥 #shorts #mythology #facts → **क्या महाभारत का ब्रह्मास्त्र परमाणु बम था? 💥 #shorts**
+- NASA हैरान: हनुमान जी का प्राचीन गणित! ☀️ #shorts #mythology #facts → **क्या NASA से पहले हनुमान जी ने नापी सूर्य की दूरी? ☀️ #shorts**
 
 ## Promotion Shorts (unlisted, for paid ads)
 - 2026-11-28: promotion for the series 'विष्णु पुराण: कलियुग महाप्रलय' (विष्णु पुराण - uploads when an upload is free
@@ -89,30 +89,23 @@ short_poemblindfol_2, short_songhymn_6, short_puranas_22, short_puranas_21, shor
 main: Sujay Ganguly Creations
 
 ## Free limits
-- GitHub minutes this month: 11537 (public repo: no limit)
-- YouTube quota today (Pacific): 814 / 9,800
+- GitHub minutes this month: 11541 (public repo: no limit)
+- YouTube quota today (Pacific): 930 / 9,800
 
 ## This run
 ```
-27 Nov 10:53 PM IST] health ok | YouTube quota used today 672 | GitHub minutes this month 11414
-27 Nov 11:52 PM IST] pictures for short_poemblindfol_2
-27 Nov 11:59 PM IST] render short_poemblindfol_2_short1
-28 Nov 12:01 AM IST] metadata short_poemblindfol_2
-28 Nov 12:01 AM IST] short_poemblindfol_2_short1: upload waits (10 uploads done today - rest upload after the reset)
-28 Nov 12:01 AM IST] pictures for short_songhymn_6
-28 Nov 12:01 AM IST] pictures for short_puranas_20
-28 Nov 12:05 AM IST] render short_puranas_20_short1
-28 Nov 12:08 AM IST] pictures for short_epics_23
-28 Nov 12:13 AM IST] render short_epics_23_short1
-28 Nov 12:16 AM IST] pictures for dashanan205
-28 Nov 12:16 AM IST] metadata dashanan205
-28 Nov 12:16 AM IST] pictures for lankadhi05
-28 Nov 12:16 AM IST] metadata lankadhi05
-28 Nov 12:16 AM IST] pictures for ramayana305
-28 Nov 12:16 AM IST] metadata ramayana305
-28 Nov 12:16 AM IST] queue worked through
-28 Nov 12:42 AM IST] pictures for short_promoapocaly_2
-28 Nov 12:48 AM IST] render short_promoapocaly_2_short1
-28 Nov 12:50 AM IST] metadata short_promoapocaly_2
-28 Nov 12:50 AM IST] promotion Short made: promotion for the series 'विष्णु पुराण: कलियुग महाप्रलय' (वि - uploads when an upload is free
+28 Nov 07:02 AM IST] health ok | YouTube quota used today 814 | GitHub minutes this month 11537
+28 Nov 07:04 AM IST] pictures for short_poemblindfol_2
+28 Nov 07:04 AM IST] metadata short_poemblindfol_2
+28 Nov 07:04 AM IST] short_poemblindfol_2_short1: upload waits (10 uploads done today - rest upload after the reset)
+28 Nov 07:04 AM IST] pictures for short_songhymn_6
+28 Nov 07:04 AM IST] pictures for short_puranas_20
+28 Nov 07:04 AM IST] pictures for short_epics_23
+28 Nov 07:04 AM IST] pictures for dashanan205
+28 Nov 07:04 AM IST] metadata dashanan205
+28 Nov 07:04 AM IST] pictures for lankadhi05
+28 Nov 07:04 AM IST] metadata lankadhi05
+28 Nov 07:04 AM IST] pictures for ramayana305
+28 Nov 07:04 AM IST] metadata ramayana305
+28 Nov 07:04 AM IST] queue worked through
 ```
